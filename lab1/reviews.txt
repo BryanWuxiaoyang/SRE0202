@@ -1,0 +1,2482 @@
+Support detail text in settings editor dropdown
+Option to change the title of the integrated terminal in vscode?
+Use sound effects to improve accessibility
+Debug toolbar: allow to position anywhere
+Emmet combine "Wrap Individual Lines with Abbreviation" and "Wrap with Abbreviation" commands
+Terminal passthrough commands/keyboard shortcuts
+Perf telemetry for completions
+Add option to make task panel persistent (not accidentally closing it by any key press)
+Introduce Theme for proton color blind people
+Send `vscode.workspace.onDidCreateFiles` events for folders
+Views with focus should be treated the same as hover
+Allow horizontal scrolling WITH word wrapping enabled!
+Move tab (left|right)
+A command to open a workspace and navigate to a file in it
+A keybinding when-clause for if the cursor is on a followable link
+Allow file system provider schemes to participate in history even after close
+Finalize FoldingRangeProvider.onDidChangeFoldingRanges
+Multi root workspace - Variable for the current file's workspace directory
+Picking a different typescript.tsdk from a list / use in a multi-root workspace with yarn2 pnp
+Customize links discovery/handling in Debug Console
+Active indent guide scope improvement
+Provide dedicated keyboard shortcuts for changing active stack frame
+Custom Editors should have ability to use normal diff view
+Create an IExecutionService which should be the only bottleneck for resolving user shell env
+Re-run last launch command with state
+Add support for filtering in the output window
+Tab characters are the wrong width with proportional fonts.
+"Close All Editor Groups" should not close pinned tabs
+Quick way to navigate to a folder in the explorer (left side)
+Upload file (on save) using diff strategy
+Remote-SSH: Support trash
+Overwrite files after upload completed
+API to trigger a refresh of the OUTLINE (DocumentSymbols)
+Closing the last editor should move focus back to explorer view
+Pinned tabs: allow for themeable colours for tabs that are pinned
+Extensions: Support extension installation/activation policies
+Preserve per-window environment variables between workspace changes
+Badges for extension activity bar icons
+Show Activity Bar on Mouse Hover
+Editor Find doesn't support args passed via keybinding
+Allow for camel case matches in editor history
+Add option to collapse/hide stdout lines in file w/ language support
+More keybindings for splits in quick open
+allow codicons to support file icons with $(...) replacement syntax
+Diff action buttons are too far from the gutter
+CSS unknown property for "content-visibility"
+Add an explorer/title menu contribution point
+"Protect" a VS Code window so that files open in a different window
+Add support for vertical tabs
+Drag Explorer to bottom
+Allow quick open to open multiple files
+"flip the diff"
+Support syntax highlight of typescript expressions in multiline jsdoc comments
+Support nested .vscode folders
+Support for Apple Pencil scribble
+Clicking to activate a window should not move the insertion point
+Expose output from executable debug adapter
+Option to display colorDecorators at right of CSS colors
+Undo for selection
+Add a TextEditor focus or state property
+Don't add files to recent list when using --diff
+Specify one or both files as immutable when using --diff
+Allow editor title to be specified when using --diff option
+Watchlist Of Extensions
+Allow specifying status bar item background (api)
+automatically remember indentation settings
+Add "Replace Remote" to Settings Sync Turn On options
+Set breakpoints on all results of a text search
+Add when clause context for embedded language ID
+Activity bar context menu actions not aligned
+Hovering over breadcrumbs should jump in the editor similar to arrow keys
+Add ability to go back one level in breadcrumb
+Setting to follow to running cells in a notebook
+Make it possible to expand empty selection into current word when Ctrl+C or Ctrl+X
+Relative Line Numbers: an option to have 0 as the current line number.
+Please supply the ability to sort files by modified time asc/desc in groups in source control's Changes view when view as list
+[Request] Warn on rename refactoring conflicts js/ts
+Show the help text/tip in the bottom of debug hover to switch to normal hover
+Add Pin/Unpin to context menu
+Provide extensions with a persistent logging channel
+Add a command to hide a view
+Fallback format on save mode when VCS not activated.
+"View: Toggle Render Whitespace" should open a submenu to choose what variant of whitespace to render
+Allow to group editor tabs
+Add Uri parameter to moveFileToTrash command
+introduce source.removeUnusedImport action as an opposite to source.addMissingImports
+Context menu doesn't work with a Touchscreen
+Show all files of all window tabs
+Debug Variables View does not show multiple variables from Debug Adapter when names are not unique
+ctrl+[ Doesn't exit the command pallet or file search
+Dual screen: relative rather than absolute terminal width
+Add option to only show file name (not full file path) when hovering a file
+History on Debug Console filter lost
+Cheatsheet for chords
+Support smart selection for markdown
+Convert indentation to spaces for selection
+Add configuration to show snippets only after a certain number of characters
+append option for vscode.workspace.fs.writeFile
+Add explicit theme colors for custom dialogs
+Request: Typographer option in Markdown preview
+[html] hover for html entities
+Theme selector should not appear when installing an extension that contains a main
+Javascript debugger should avoid program end before last step.
+Support tab completion / custom key handlers in QuickPick
+Layout issue with repl filter in debug pane
+Ability to toggle warnings and problems squiggly lines
+Editor not scrolling to centre when cursor out of view
+Preview Notebook Editor does not support markdown
+Allow ${Tokenizing} Capture Group in Search and Replace
+Add a new right-aligned "description" property to TreeItems
+Find/Replace in Selection doesn't obey current selections when not whole lines
+Simple file dialog: use auto-complete style in the input box
+Search view: I ofter hit the dismiss button by accident
+Settings sync - client side telemetry
+Different Profiles for different type of Development
+Option to combine tabs and title bar
+Open side by side direction to the left
+Autohide Minimap
+Opening projects directories in the same way a file is open
+`workbench.action.navigateUp` should navigate to the last focused view, not the rightmost one
+Add `workbench.action.navigateLast` command to navigate to the last view
+Keyboard shortcuts for Markdown in Jupyter notebooks
+Add support for new `editor.renderWhitespace` in the View menu
+Smart Quoting
+New "colorCustomizations" options "editor.findMatchForeground" & "editor.findMatchHighlightForeground"
+quick open should have prefill highlighted text
+[UI-Theme] Sidebar color selection/hover/focus should be independent from List
+Enable Pin Icon To Always Remain Visible
+Multi root workspace - task dependency between projects
+Show branch name in Welcome screen
+Save all in all opened windows
+Separate Open Editors from Explorer (thus creating a Vertical Tab Bar)
+Allow decoding, editing and re-encoding of binary files
+Web: cannot drop VSIX into extensions view to install
+when stashing, use commit message if populated
+Makefile should auto-indent after first line of a rule
+Change Language Mode drop-down should allow filtering by file extension
+Asterisks not working in console filter
+Support syntax-highlight CompletionItem.detail when shown above the documentation
+Show whitespace in whitespace diff
+Dialog Window: Highlights
+Enabling using Transform to Lower/Upper/Title Case without changing String Literals
+Investigate predefined file filters search
+Allow fzf style query in workspaceSymbols
+Rank exact match over history matches
+[json] add quick fix for string to number conversion
+Investigation: Installing the Remote WSL extension out of the box
+Add setting to disable 'retry as sudo'
+add sign in natively to program
+editor.renderWhitespace should have option for selection+trailing
+Explore API implications for allowing multiple notebook extensions to share the same file format
+Feature: In Screencast Mode, keep the current line fixed in the center, so it doesn't get obstructed by the Screencast Mode hotkey displays.
+Editor preview mode for debugging only
+Explore notebook "sub"-keymap support
+MacOS: remember minimized state of windows when restarting the app
+Git: Support optional branch picking in the repository picker
+Add `selectBrackets:false/true` argument to `editor.action.smartSelect.expand` (keybinding)
+Provide API for extensions to move cursor without affecting history
+New file and folder support ../ syntax to create in parent
+Get File Name from user via Explorer (sideclick -> new file) method instead of InputBox in Extension
+The breakpoints UI is really confusing
+Custom label tags in resent list
+Multiple Cursors - Preserve Case
+Publish Linux ARM deb, rpm and snap to repositories
+Allow createWebviewPanel in row above active column
+Views contribution point should support codicons
+Clear recent files without clearing recent projects
+Provide option to default to github provider git.api.getRemoteSources and potentially list org repos.
+Markdown: Different Slugify Function Implementations for Header Anchors
+Adding the shadow to the right-border of the line-numbering
+Retry as Admin/Sudo to create a new file
+restart task with keyboard only
+Report progress in taskbar
+[json] JSON language server not localized
+Rate limit Global storage updates during Settings Sync
+Allow seperate tooltip on webview title
+Nested snippets
+Publisher name in package.json
+Find and Replace - REGEX named capture group support
+Problem editor overlay should auto dismiss after problem is rectified.
+Notebook: support line numbers and actions to toggle it
+setting UI: support color settings
+No overflow action when notebook cell status bar items are wrapped
+Show editors stacked
+Better informational message when trying to format large files, or allow formatting anyway.
+Support filtering on input only
+Notebooks: notebookProvider config to support untitled files better
+Make language tokens and scopes part of command list
+Breakpoint group.
+Add streaming support in vscode
+Go to next error/warning/info
+Cannot copy/paste or drap/drop cells across notebook
+Add event listeners to vscode.Tunnel
+Quick pick: Support the recognization of an existing file when its path is begining with "./"
+Syntax highlighting for backup/sample files
+Run NPM Scripts in the currently open terminal
+can not select the whole number by double clicking
+Allow adding folder to workspace with 'name'
+Don't delete files when replacing dir
+Select and Delete one or more cells in IPython Workspace(VS Code)
+Multi line "Copy Message" from problems panel.
+Workbench hovers don't support equivalent of "editor.hover.sticky" setting
+Better alignment of Sidebar components when Activity Bar is hidden
+Multitasking (switch recent editor tabs in Alt+Tab)
+API for horizontal scroll position in TextEditor
+Change default setting: "Preview Mode" from enabled to disabled
+Exceptions for filenames in contributes.languages
+Support to run web playground in remote env
+please allow a filter on not installed extensions too
+When switch config, it would great switch target device automaticly
+Support enable/disable on SelectActionViewItem
+Global context key for viewType
+Add toml front matter support for Markdown
+SCM: Have repository switcher in status bar
+Multiple cursors on the same line
+File is a directory
+Expose noResolveAliases property in showOpenDialog
+Keyboard Shortcut: Command for workbench.action.debug.selectandrun
+Better "when clause" with full path support
+Use the git submodule's name in source control view
+Allow snippets to target standard token types
+Allow search to operate on directory/file names in addition to their contents
+Go to list separator
+Allow to Close/Open project in workspace
+Allow grouping extension on user side.
+File Explorer as Ctrl-P popup
+Press <F3> to search for a string
+Add ability to change Custom Editor title
+[html] Add value proposals for rel attribute
+Running multiple configurations with same name is not working
+[theme] allow variables in the color theme definition file
+Split "search.exclude" setting into two settings: one for search in files, and one for quick open
+Julia extension in the core VS Code product
+Screencast Mode only settings
+[Insiders] Custom task provider cannot use windows definition
+Shortcut to add multiple cursors to selection while in find input
+Multiple Explorers
+[Request] Support for formatting when close bracket is injected by editor.autoClosingBrackets
+Have separate key shortcuts for "Replace" and "Find Next" in find/replace dialog.
+Default replace string to selection
+Improve keyboard shortcut sync failure flow
+Progress bars should have a way to report what they are about
+Support predefined variables in find/replace
+Can you please add run single cell on top tool bar
+Launch VS Code from command line in background
+Watch name and column should be spaced evenly
+Multi-Line Edit is Wrongly Deleting Text from Wrapped Lines
+Add ability to apply custom icon to Custom Editors
+Git: Support spawning git on a shell script
+[Feature request] Background image for Center Layout
+please always show english tip in git menu even user chosing cjk display language
+Notebook changes on disk while opened
+Need way to hide cursor when text is selected
+Left side of gutter SCM diff decorations
+Can't input backslash.
+Snippets + Auto-closing pairs don't compliment each other
+Option to always expand open editors section by default
+Pycharm like jupyter control
+Horizontal pane in diff comparison
+Git: Add support to delete remote git tags using command palette
+Git: Clone to an alternate directory name
+Add "editor.gotoLocation.multipleDeclarations": "gotoAndFind"
+Trusted notebook outputs
+Call natiive logging APIs when debugging in the extension host
+Support opening files in external application
+[Settings Sync] Can't see "accept remote" button in in-line diffs
+[folding] Folding via regex
+Highlight a word for multiple panels
+Allow settings sync history to be exported
+Unable to switch github account in settings sync
+Debug views icons
+Add Education extension category
+Add Count of Open Editors
+New condition for breakpoints: enable after another breakpoint was hit
+file are not sorted in ascending order for numeric file name
+Break on conditional exceptions in node debugger
+Support touch scrolling
+Prompt if new shortcut is conflict another after an update
+Open with encoding keyboard shortcut.
+Consider having a setting to allow tasks and debug to format files when running/debugging
+Select text with touch / stylus / pencil over Remote Desktop
+Split launch.json in multiple files to allow local/shared configurations
+Allow file explorer to have sticky parent directory
+Debug hover should respect editor font size
+Middle mouse button scrolling not working
+Emmet: Remove Tag - also unindent the tag content
+Collapse identical lines in the debug console
+Align conflicts handling with manual merge behaviour
+Don't prompt to enable language packs when they are installed through setting sync
+Disabling/Enabling extension that requires reload does not full sync automatically
+Add the ability to hide Action icons at the top of File Explorer
+Stop Kernel in Notebook Toolbar - Native Notebook Editor
+Automatically update Sync Activity when there are changes
+Make problems ranges in problems view in sync with editor squiggles
+Add indicator for the selected sort option
+Add a setting to disable notifications
+Allow selection of a file without opening it
+Include file metadata in simple file picker
+Supporting a way to log variables' values from non-debugger extensions
+Don't include modified settings with default values in settings.json
+Markdown dropdowns automatically collapse in preview when being edited
+Way to block ```runOn: folderOpen``` at workspace level
+allow to compare context keys in when expressions
+[themes] settings: support for multiple theme names in VSCode colorCustomization
+occurrencesHighlight not working after lots of input
+Git: Support Windows repositories from Remote WSL
+Move panel to statusbar - as icon who show popup panel
+Support internal links to other cells
+Markdown cells don't support html in the same way as other notebooks
+Add score sorting to text search so that search results can be provided by relevance
+Support metered connections
+[python] Add #region and #endregion to python autocomplete
+List View viewzone API
+Allow font setting overrides per theme
+setting to hide explorer views per workspace
+Extension API: QuickPick fuzzy search not finding results
+Separate shorcuts for go to error / warning
+Synchronize Changes doesn't push git tags
+[emmet] don't provide a proposal on 'dot' only
+Native support for Deno
+Open Zen Mode thorough command line arguments
+The Run window's panels on the Side Bar are not horizontal scrollable
+Preserve open documents word wrap settings on restart
+Support editor extension commands in Git commit message input box
+Notebooks: explore dragging text outside of cell to create new cell
+Notebooks: explore dragging and holding a cell to join cells
+[theming] token type hierarchy to the 'Developer: Inspect Editor Tokens and Scopes' command
+Sorting Processes
+Extensions: Offer the user the ability to disable all dependencies when disabling an extension with dependents
+CodeLens messes up page scrolling via cursorPageUp / cursorPageDown
+Bulk merge conflict resolving issue on large files
+Allow extensions to contribute to peek widget title navigation action item
+SCM: Preserve view collapse state
+VSCode Extension: Disable tree items when enablement clause on linked command is false
+Exclude symlinks from files explorer
+Allow hiding the "Reply..." box for a comment thread
+Allow tooltips/hovering on symbols in outline view and breadcrumbs
+Allow switching Terminals without opening panel
+Enable paths in terminal window to be clickable as 'reveal in explorer'
+SCM: Allow different providers sort order
+Exploration: Improve setup experience on Windows (Inno Setup)
+Disable plugin update notification
+API gaps to support Liveshare in Notebook
+Ability to turn off the auto expansion of "go to problem" description
+No way for an extension to tell have vscode suggest .JSON when user saves file if it is not the main extension for json files
+Respect error formatting in problems panel
+Find shortcut does not edit search term after losing focus
+Have mnemonic as command model property
+Cannot read property 'call' of undefined
+Allow vscode.env.clipboard.readText to retain the original format
+List: Provide `list.mouseWheelScrollSensitivity` setting
+Add support for SteppingGranularity in the UI
+Slower zoom in editor
+Consider adding a mechanism akin to .NET's 'DebuggerTypeProxyAttribute' for JS/TS debugging
+Open remote settings GUI when extension executes workbench.action.openSettings with query in remote session
+What's new icon/UI for extensions (and future API)
+"Reopen Editor with" should respect Cmd+Enter
+Transform to snake_case
+ISO-2022-JP (Japanese) support
+[Request] Provide file-specific onDidChangeSemanticTokens event
+Increase discoverability of Alt-commands on menu buttons
+Explore showing indent guide in notebooks as a visual indicator that cells are "under" the markdown headers
+Zooming with Ctrl+MouseWheel doesn't update configuration
+Investigate use of ts external project for notebooks
+Support the new search options in vscode.workspace.findFiles
+Debugger: debug.inlineValues support for case insensitive variable names
+Allow DAP progress notifications to be shown more prominently than the status bar
+Autocomplete doesn't work when adding recommended extensions to .code-workspace file, but works when adding to .vscode/extensions.json
+Custom grouping for plugins
+Support "go back" and "go forward" in notebooks
+"Add Selection To Previous Find Match" interferes with "Add Selection To Next Find Match"
+Newline in showInformationMessage
+'Generate Color Theme From Current Settings' omits semantic token settings
+Need option to minimize Exception (including shortcut)
+References: focus editor on double click
+Git: File watcher events should respect `.gitignore`
+Tweak peek inside notebooks
+Simplified Text Editor Mode
+Quick open: Include symbols should not block the search based on filename
+Terminal errors: include settings ID in the error message
+Allow <key> + <key> chords
+Reload notification appears when extensions are already installed
+Support color theme customizations specific to ColorThemeKind
+No view menu for panels
+[css] allow to supress linting warning with ignore comment
+Allow setting key binding for clearing filter in explorer view
+Accessibility Discussion: Focus Exact Item In Status Bar
+Allow disabling all of the popups/tooltips that were added recently
+Automatic github auth doesn't work with gist repositories
+Add several basic predefined variables for use in launch.json - e.g. ${uid}, ${gid}, ${user}, ${home}
+Support FilesDirectories for file systems
+Independent Decoration render support
+Allow us to change the font type and size of find-replace widget
+Inconsistent auto-indent in code blocks inside TSX tags
+[json] when downloading JSON Schema files, do Conditional GETs
+Incorrect Indentation on newline
+Show message when trying to assign an existing key chord as keybinding
+Debug console: introduce ctrl + up / down to focus output
+Breakpoints not remembered on git branch change
+Extension doesn't activate after install
+Printable keyboard cheatsheet with real bindings
+Bookmark a line
+Breadcrumbs view font settings
+Make debug viewlet secondary actions contributable
+Status bar entries should use border for focus
+View undo/redo history visually or an indicator or a counter
+"Find in Folder" \ add safety to Replace All (in a file)
+Use JSON5 instead of JSONC for configuration files
+Alt+Backspace to delete previous character without smart indentation-aware deletion
+Cannot run multiple debug sessons with the same launch config name
+Symbolic links to folders can lead to the same file opened in two tabs
+Silence the startup command printout in Integrated Terminal
+Better localisation support for error (original English button)
+Filter `Keyboard Shortcuts` by particular column
+Add command to switch to a specific theme.
+Debugger evaluation status indicator
+Implement Google Chrome-like grouped tabs
+[Feature Request] - Support Ctrl + L for clearing console to match Chrome and Edge consoles
+Provide additional search context in terminal link provider API
+Support reverse tunnel
+[scss] Support completion/intellisense of SCSS/SASS variables & mixins
+Automatically apply terminal environment changes to terminals that have not been interacted with
+Support moving refactoring preview view
+Create a context key for when the terminal shell has a program running inside it
+Show activation events in Feature Contributions
+Support for Running/Debugging Multiple Instances of VS Code Extension
+Double click on debug viewlet sash should take into account the title width
+Terminal links don't work with git bash paths
+Allow snippets to define NOT scopes
+Change preferences sync log time to use UTC
+Implement CodeTalk extension for VS Code
+Enablement using listDoubleSelection and listMultiSelection not working in contributed view
+Back off extension auto update when failed
+Add hover/drag sash color
+Web: Support to save as admin
+Support code --status in web
+Rendering problem with RTL text which contains emojis
+A quick way to blame extensions
+Can't go back after showing same keybindings
+Option to clear debug console suggestions
+Add restore context menu action for file entries in synced data views
+Donn't render newline-characters as new lines in suggest details widget
+Notebooks output contains unsupported/unknown types
+Notebook: undo to saved state does not clear dirty marker
+Clarify docs on CompletionList.isIncomplete to make it very clear the behaviour when using backspace
+Dropdown from view item menu
+Add revert action in diff preview when opened from sync data view
+Allow for "random access" undos
+Remove all unused code
+Codicons are not supported in the view + view container icons in package.json
+Tasks: Pick folder for user tasks in multi-root-workspaces
+Notebook: Split cell not working when at end of content
+Show the default editor in the picker
+scrollPredominantAxis not aggressive enough
+Partial cross-file undo if a file is changed in the meantime
+Problems view do not show markers when Show Active File filter is on
+Opening a file causes it to change
+Redundant entries in Find all references view
+Find all references is not highlighting the match
+Step in Targets visible in unrelated file?
+Settings sync - Diff view should include machine names in the tab name
+Add buttons for filtering and sorting when searching for extensions
+Problems view: Sort by message
+Plotly notification doesn't appear in notebook
+Stable/Predictable Lifecycle hooks for extensions (NOT activates/deactivates)
+[json] JSONSchema draft 2019-09 support
+Add option `editor.scrollbar.vertical/horizontal` as official
+Bulb menu should open immediately after clicking on the info icon in the problems view
+Timeline doesn't show file saves changes
+Add visual indication for integrated terminal bell
+Add waitForExit API to TaskExecution
+Allow to modify hardcoded quick open keybinding shortcuts
+[Integrated Terminal] Allow ctrl+backspace to delete entire word in cmd.exe
+Publish to GitHub to Org Repo and not personal accout
+Resize Pane actions for all panes
+Allow extensions to call cell commands with cell arguments
+Support outline with notebooks
+Pinned tabs: show them in a secondary tab row above others
+do not count disabled extension in toolbar badge number
+Allow extensions to fully control workspace symbol search (matching and highlights)
+Add a way to inspect memento contents
+API Proposal for multiline quick input
+Do not show Warnings for workspace recommended extensions if they are already installed even if they do no exist in marketplace
+Provide an extension to find VS Code API references in the samples and popular extensions
+Add an option to save files atomically
+Explore bringing GitLens "Git Commands" into built-in Git
+Support Language, not just Editor Language in the keybindings "when" property.
+[css][html] Option to disable MDN Reference popups only (without effecting other functionalities)
+[html] don't let '/' trigger a suggest in embedded JavaScript
+Paths with spaces are not clickable in integrated terminal
+Split branches from tags in source control checkout window
+Hitting enter on results in the find all references tree should move focus to the corresponding line in the editor
+Allow window.createTreeView to set minimumBodySize of the view's Pane
+Include the name of the currently focused view in the window title
+Commit message text box: Suggest file name if just one file has been staged.
+Allow cmd/ctrl-clicking in Intellisense tooltips
+[folding] fold surrounding
+Make editor.action.marker.nextInFiles prioritize severe issues
+Update the `vscode-uri` package with `Uri.joinPath`
+missing icons due to wrong svg content type
+Show All Tasks When Filtered Clears Filter
+Context Menu Should Follow Access Key conventions
+Redundant conditions specified for keyboard shortcuts
+Notebook cell queued status
+Enhancement: option for smartSelect to ignore subwords
+Update variables in Variable Window
+Provide some richer (optional) UI for custom tree views
+Explore a richer ui for the account picker and settings sync
+Allow tasks to run commands regardless of their output
+Folder explorer Fold level control like editor
+Support DocumentSymbolProvider in CustomTextEditor
+Support multiple link actions for a single link in the terminal
+[semantic] proposals for new standard semantic token types
+Use light theme for --disable-extensions
+Option to not follow symlink files in Explorer
+More Sorting Options For Key Bindings
+Open with Code for windows libaries
+Notebooks: pasting notebook JSON into notebook should automatically add cells
+Support /mnt WSL links in windows not using Remote WSL
+Include a bracket pair colorizing feature
+Add support for `.XCompose`
+[html] No values suggested for `autocapitalize`
+when ctrl+click doesn't find symbol, do a regular search.
+Allow Line Numbers in Notebook Cells
+Add setting to specify shellArgs for the automationShell
+Resolve relative paths in terminal link handler
+Add syntax highlighting to env var info widget
+Timeline: Checkout
+Separation (or mark) of disabled add-ons into built-in and additional ones
+No commands to fold/unfold markdown content
+Add context menu action to copy and paste cell
+[Remote extension pack] - local and remote folders in file explorer to facilitate remote diffing
+Tabs: allow to control scrolling direction
+Navigate to each view when cycling through F6
+Notebooks: show errors in overview ruler
+Allow the ability to store extension specific metadata in Notebook cells
+InputBox: prompt should support codicons
+Terminal doesn't detect UNC paths
+Trackpad: Tab switch on mouse scroll: horizontal scrolling sensitivity too high
+Accounts context menu should show what account is being used for sync
+Add back button to sync config
+Support search in iframe based webview
+Option to disable creation of a branch when a remote tracking branch is selected
+Show notification when certificate verification fails
+Set default browser for VSCode application
+[json] support setting schema associations at runtime
+Allow to drag the entire panel/sidebar to move it left or right
+Add support to dispatch keybindings based on CAPSLOCK
+Auto-hide Activity Bar exactly like Windows taskbar
+Localization for renderers
+Stepping when in a skipped frame navigates me back out to the last non skipped frame
+Show Gravatar on the details of commits in Timeline view
+Clear output cells in notebook
+[TypeScript] Semantic Highlighting for resolve and reject in Promises
+Allow use of integer variables in tasks.json
+Consider to show dynamic launch configs in Welcome view
+Improve hover UX so moving point diagonally from highlight to hover doesn't clear over
+Allow "launch" json setting to be placed into a "[language]": object.
+Breadcrumbs are poorly legible if editor tabs are disabled
+Use more prominent focus indicator in explorer
+List: range selection should update focused element
+consider to add a table view for variables and watches
+Setting to control opacity of inserted/removed background in diff editor
+Let extension decide what it contributes to the Problems pane
+Setting request: Don't collapse explorer node on single click (unless on twistie)
+Extension Feature Contributions doesn't render markdownDescription
+Provide a way to get diagnostic info for an issue about an extension that's not hosted on GIthub
+Add option to disable "quick diff" pop-up window
+Support terminal link keyboard navigation
+launch.json: support debug active test file
+Allow "run anyway" option for `runtimeVersion`
+Add support for `font-stretch`
+Use encrypted keychain for account management
+Improve rendering of find matches touching each other
+Hide only tag items in Git branch list.
+Allow updating "find in selection" range
+Should we optimize sync setup for syncing everything
+Expose utility functions for Uri paths
+Timeline support for folders
+Set default location for workspace configuration files
+Minimap supports display //Mark: in normal size like xcode
+Searching a folder with markdown and notebook files
+Support synchronising extension's global state
+Support codicons in webview
+Provide a protocol handler for diffing two files
+Keep terminal content after reconnecting (SSH)
+Support "perspectives" like approach in VSCode
+Adopt GitHub Auth provider for issues reporter
+[folding] mode to have region based folding only
+Keyboard shortcuts for switching focus between left & right sides of diff view
+Show error/warning above the documentation on mouse hover
+Truncate and copy large values from the debug console
+Search freezes computer when large files are present in workspace
+Allow extensions to get editorLayout (from EditorGroup)
+Notebook source control / diff
+Unit testing extensions is quite difficult
+Provide a UI component toolkit for WebViews
+Git: Offer to show the entire git commit output, when it fails
+using orca I can't edit commands already executed in the VSCode terminal
+Feature request: Multiple output panels
+Option to expand computed TypeScript types on hover
+Should provide buttons to select/unselect all changes when preview a workspace edit
+Scrollbar doens't respond to touch screen dragging
+Trim Final Newlines integrates poorly with EditorConfig for Windows files
+Detect Indentation doesn't work on pasted text
+Support custom TaskGroup
+Support cygwin in the default shell selector
+`workbench.view.alwaysShowHeaderActions` for notebook cells
+Combine extensions.ignoreRecommendations and extensions.showRecommendationsOnlyOnDemand
+Make extensions section in extensions pack expandable/collapsible
+[rename on type] API for languages beyond HTML
+Better support for case sensitive macOS
+Add gear with additional actions to extension detail page
+[semantic tokens] provide code assist for tokenModifiers
+Notebook: find doesn't search in output
+Sorting of entries in the refactor preview puts checked items last instead of first
+Prefernces Sync: Remote Backup showing empty diffs
+Display Language doesn't update automatically
+Contribution point for timeline provider
+NPM scripts: insert local node module bin folder into path
+Search for ignored sync settings or extensions
+Be more specific about sync time in settings editor
+Indicate dirty workspaces in "Open Recent"
+Add selection to next find match not working across Cells
+Sync: View doesn't move when order changes in server
+Add option `editor.lineDecorationsWidth` as official
+Allow context key expression that compares object properties
+Provide a "focus-follow-mouse" setting
+Add a special type instead of using a busy error for semantic tokens
+Better diff review keyboard navigation
+Event for onWill|DidRename|Create|Delete should indicate what caused the event (explorer vs workspace edit)
+Let openTextDocument create an untitled file with a specific file extension
+html.customData samples don't work as expected in VS Code 1.43.2
+Consider using a different Razor grammar
+Add "remove recent" action to recent tasks in tasks quick pick
+'machine' scoped setting can't be applied in remote window from local extension
+Git: After cloning and no folder is open, add option to open the folder automatically.
+Rename file with "Git: Rename file"
+Should we use namespacing in the CLI
+Support "Find With Selection" in terminal view
+Add extension contributed syntax colors to search results
+Show rulers in commit message textbox for max lengths
+Make extension defined task types work in code-workspace files
+Please make it possible to add gutter (margin) before the text area
+Replace in search Editor
+Allow comments to reference workspace-local/relative image paths
+Progress notifications: visually distinguish between title and message
+Cannot easily switch settings categories
+Reduce header size of extension view
+Version control does not honor "remote.origin.push" git config.
+Variable substitution with environment - allow for fallback to default
+Hybrid Treeviews: TreeDataProvider with FileSystemProvider skills
+Disable the red problem highlightings in the minimap
+Poor UX for the editor.fontLigatures setting
+Add product icon themes
+Improve TypeScript hovers
+[themes] Allow gradients along with colors
+[undo] Fold commands can't be undone
+Manipulating on-the-go 🏃‍♂️️
+minimap.background also makes the text transparent
+Sync mutliple settings profiles
+Allow Shift+Delete to remove recently opened entries from quick pick
+Settings Sync : Allow for custom backend service end points
+SCM: Provide multiple ScmResourceGroup in menu commands
+Replace underbar in Parameter Hints with color
+Startup is blocked resolving configuration for a slow remote folder
+Markdown Preview - Navigate back
+Alias keybindings in command palette
+launch.json - allow serverReadyAction to launch another configuration
+[folding] command that adds folding markers
+API for reading current word-wrap state (and toggling it) on a TextDocument
+Improve parameter hints UX
+Time line provider for sync resources
+[json] support "$id" references.
+Add a CLI for controlling the integrated terminal
+Use codicons in file icons
+Minify dependencies and remove junk files
+Repository selector in status bar - Versioncontrol
+Diagnostic link hovers should show target
+Debug console suggestions should not fuzzy match on history entries
+[folding] pressing Enter in collapsed region should add new line outside region
+Notebooks should have titles
+Please allow toggling rendering and editing of markdown cells
+HTML not rendered
+Unrecognized settings show errors when in language blocks
+Add support for paranthesis in "when" conditions
+Define a `vscode.executeSemanticHighlightProvider` command
+Undo/Redo: consider to show global undo/redo as label in menu
+Peek problems doesn't wrap or provide a horizontal scrollbar
+[folding] context menu on expand/collapse arrow
+Settings sync should debounce requests when a request is in progress
+Semantic Highlighting not shown in Markdown preview in TypeScript code
+[themes] Support ${preferredTheme} as theme setting
+Find/replace icons are not intuitive
+Cannot drag/drop file from VS Code to other apps due to invalid data object
+Add a command to file an issue (bug) with relevant info
+[folding] Command to jump to previous/next fold
+Settings sync should support user tasks
+Sync remote extensions
+Adopt codicons for bundled extensions
+Screen readers not announcing encountered break points
+Keyboard events not passed to terminal UI apps
+Key binding condition for "is merging conflicts"?
+Support tmux control mode (-CC flag)
+Add support for premium extensions
+Allow ThemeIcon in WebviewPanel.iconPath
+Install all remote extensions locally [Remote: SSH]
+Include into tasks.json and launch.json
+TerminalOptions' env parameter does not work with WSL as a shell
+Provide a way to quiclky open an ignored file
+Support custom QuickPick filter logic
+Add ability for before decorations to indent (stretch across) word wrapped lines
+Allow undo of text typed after Find Again
+Allow to use decorations in quick input (e.g. for editors picker)
+Explore line-end-rendering of code lenses
+Enhance the codicon reference in treeview
+[Feature-request] Remove cursor
+Apply active filter in problems view to "go to problem"
+Add a task instancePolicy to task runOptions.
+Variable substitution in task detail property
+Allow to reveal an empty TreeView programmatically
+show status bar problems count for current file only
+Merge comments if possible while syncing settings
+Commit (Amend) doesn't allow changing the commit message if there are no working changes
+[html] HTML breadcrumbs don't work right when optional end tags omitted
+Grey-out the "Apply [...] Stash" menu option when there are no stashes in the repository.
+Git: Support fingerprint verification confirmation
+Proposal: expose manual installation of vscode-remote
+PascalCase-naming doesn't work with Emmet completion in JSX
+Call Hierarchy view doesn't show number of callers
+[semantic][typescript] Add private/protected to TS semantic tokens
+Do not make requests if sync files are too large
+Use content hash to detect save conflicts and do not rely on size
+Codicon: offer intellisense for possible entries
+Don't close suggestion popup when out of bounds occurs
+Expose a dropdown on the sidebar for extensions
+Auto closing quotes in makefiles (*.mk)
+Consider using high 16 bits of token type as token modifiers
+Source Control select default setting show/hide untracked changes tab
+Soft-wrap JSON following a newline \n in a string
+Display message on custom view when extension is not yet active
+[comments API] unnecessary markdown autocomplete when writing a comment
+Support unlisted or helper extensions
+Better diff for deleted file merge conflict
+Integrated terminal not triggering zsh's "alt" bindkeys?
+Readonly ranges/lines in the editors
+Reflect indent level using VoiceOver
+debug requirements for TypeScript
+Ability to install, add and remove extensions from cloud manually
+Extensions details view needs accessibility polish
+Adopt CompletionItemLabel
+Allow "inline" menu contributions to quick pick items
+Reopen Add Option: "Git: Ignore new commits in submodules"
+Add "Expand All" Button to Tree (make "Collapse All" toggleable)
+[folding] seperate color for line numbers at collapsed row
+Settings Sync: No way to specify a platform specific extension
+Link to doc page for monospace font notification in terminal
+Hard to read overlapping diagnostics
+Signature Help widget does not close when editor loses focus
+Make it easier to define platform-specific keybindings
+Handle default platform settings while syncing
+Jump to last selection (during multiselect)
+Ability to drag and drop breakpoints
+Ability to hide/show VSCode Exception area
+Markdown Preview does not split to side
+When using record keys search for individual keys
+Can't run commands from remote extension in a disconnected window
+Ability to set default tasks based on file extension (or glob)
+Quick suggestions for snippet prefixes that aren't word characters
+quickfix shorcut key
+CommentController Should have the ability to decorate the range which the comment is on
+default values missing for workspace.getConfiguration().get in resolver
+Intellisense based on variable contents in debug session
+Allow to set explorer.autoReveal per specific folder
+Diff editor: Differentiate unimportant differences
+[Request] Add suggestions to Extensions for existing features
+VS Code should warn before stashing files with unsaved changes
+Add setting bem.shortElementPrefix
+Issue Reporter editor no undo/redo
+Support nested repository discovery via depth limit setting
+Improve task debugging by giving more context
+supportsVariablePaging returning true, yet variables are not paged
+Task service api feedback
+Reserve shortcut prefix for user
+Investigate into using language service support for REPL evaluation
+Restore existing multi-root workspaces when opening N folders from the command line
+is it possible to load monaco within a webview VSCode Extension?
+Allow to override list styling for quick input and other places (notifications)
+Split-view: Highlight occurrences of text in other windows
+Add a command to add multicursors to all Highlight Occurences
+Consider adding a specific color for hover divider
+Add setting to make Git: Fetch (Prune) default behaviour for Git Fetch And Pull
+editor incorrectly breaking in hovers
+Make css auto completion items overtype on semicolon
+[scss] provide hover for scss functions
+[css] hover for property values
+[scss] add parameter hints
+Allow to configure symbol visibility in pickers that may show symbols
+Minimap doesnt render cursor wordmatch highlights
+[Feature request] Gethering necessary info when program crashed or has memory leak
+overwrite mode
+Support for RTL languages (such as Arabic / Hebrew / Persian etc.)
+Cannot input with Chrome Extension Google Input Tool
+Git: LFS support for image diffing
+Support local paths in hover MarkdownString
+[scss] references for all SASS functions/at-rules
+Trailing comma-aware move line up/down
+Minimap size setting acces made available via F1
+Git: Stash Staged Changes
+Vim in Linux - middle button paste on search
+Support `code --install-extension` on the remote
+Proxy configuration doesn't allow URLs with port number AND pac files
+Move line up/down should keep the indentation
+Reduce files in vscode remote distro
+Make remote timeout configurable
+[scss] provide hover information for at-rules
+Suggest widget has greyscale rendering
+Custom editor webviews should not be recreated on rename
+Add a SaveAll event for extensions to listen for
+No activations event for file events
+In some places, allow to use URL in addition to URI
+Allow for setting `enter` as a keyboard shortcut through the UI
+[css] Support for SVG 2 CSS Properties
+[folding] add command unfold block comments
+Can `editorBracketMatch.foreground` theme colour be added please?
+Debug, Explorer: make it easy to open the containing folder of the active file
+Ability to Install Extensions Enabled in Current Workspace Only
+Mirror Cursor for JSX
+Api for editor insets
+TreeDataProvider: allow single click and double click to work the same way they do in the file exporer
+"Look up & data detectors" feature not working on Mac OS with VS code
+Highlight primary cursor differently than other cursors
+Git should be able to automatically track new files
+vscode.d.ts missing "interval" TextEditorLineNumbersStyle
+Change Start Debugging Extension Host on Running Extensions to not require a restart
+Disable overview ruler entirely
+[html] can't "rename symbol" within <script> tags
+Option to widen the command palette
+Selecting multiple lines and pressing Ctrl+H should autopopulate the Find box
+Allow debuggers to support StepBack without ReverseContinue
+Ability to ignore settings to sync from UI
+LCD: greyscale rendering in editor hover
+git.autofetch on AC power only
+Extend `vscode.extensions.getExtension()` API to work with disabled extensions
+Allow detail option on task input pickString
+Support external diff algorithms in internal diff editor
+Web: Support Extensions in hosted version
+Make registerDiffInformationCommand public
+Allow "Explorer: Incremental Naming" to have Disabled option for Paste
+env.asExternalUri rejects ws and wss schemes
+Make "move line" command to work contextually
+Implement a policy-settings mechanism for approving/blocking extensions
+Word navigation in QuickOpen
+Enable breadcrumbs for unsaved files
+Finger imitation
+Git Merge Resolve Dialog
+breadcrumb menu doesn't work right
+Set current search match line color
+Add vscode.workspace.fs.createWriteStream().
+Allow to configure a list of encoding-confidences to use when guessing
+Suggestion: command to change theme
+Api request: Add `kind` to TextEditorVisibleRangesChangeEvent
+Investigate a more organic integration between GitLens with the core SCM
+Allow individual status bar messages to clip instead of hide
+Support for non-integer minimap scales
+Get the workspace folder of the current file
+Minimap - highlight all instances of selected word
+Custom background image
+Distinguish types of calls for call hierarchy?
+Allow viewing and editing commands with 'args' in the keybindings editor
+Watch Add Expression should auto-fill based on selected expression property (if there is one)
+SCM: Support file history view
+[css] support css-variable completion in calc
+Debug: Provide hierarchy of debug targets for compound targets
+Show merge conflict indicators/highlight in minimap
+iPadOS: Support drag and drop via touch
+Add `clear` API to custom tree
+Problems for Data Breakpoint
+Process explorer with OS scrollbars instead of VSCode scrollbars
+Settings to disable or enable parts of the UI
+[folding] Improve #region support: make it look like Visual Studio IDE
+Welcome page experience for extensions
+Destination folder for downloaded files in remote
+Expose QuickPick.matchOnLabel publicly
+Add custom QuickPick highlighting
+Turn off RTL for syntactical characters in bidi lines
+Update code lens of inactive editors when typing in another editor
+Web: allow to use Fira Code in editor (Safari)
+Additional Fallback Options for setting Workbench: Startup Editor to 'readme'
+[folding] Auto re-fold a region after the cursor leaves it.
+Enteraction appending text before the new line
+Have an option to disable show local files on open dialog box
+OS specific properties in Tasks.json to overwrite build shell doen't work
+[themes] Should color theme files be minimized?
+Minimap: Render overview ruler decorations (for extension support)
+Provision trusted domains for enterprise setup
+Letting user know which extension modified the line recently
+Allow Line Height to be Any number
+How to restrict extensionDependencies version
+Web: Support complete preferences search
+Web: Support for translations
+Web: Keyboard layout registration
+"files to include" doesn't work with folder names containing glob characters
+Enable natural language search in the settings.json file
+Completion should be able to retrigger completions when accepted
+Replacing inline adds cases to the replace dialog history
+Provide fs.openDir() API over fs.readDir() to scale better for large directory structures
+Support clickable links for input box descriptions
+Drag-and-drop indented blocks of code
+Exclude folders from automatic task detection
+Implement token-based language service
+Preserve the cursor-undo stack across edits
+Support font transparency in minimap
+argument quoting in launch.json
+editor.cursorSurroundingLines selection should respect drag direction
+Problem with selection on tooltip
+[json] JSON formatter does not allow vertical alignment
+Add a way to initializate debug extension before every new debug session
+[json] allow $ref in confiuguration schemas
+API to toggle between flat tree (list) and tree for custom view
+SCM: Adding to .gitignore should put folder if folder is selected
+Switch to polling for watching changes on config files
+Better Touch using
+Increase the number of cursors from 10000
+Display license link for VSIX packages in Extensions View
+Autohide minimap for frames that already show all the code
+Show keyboard shortcuts inside integrated terminal in Screencast Mode
+Allow extensions to determine if a position is within a fold
+Reduce file watching to files/folders that are in use
+Fade Minimap for unreachable code
+[html] Jump to after next opening HTML tag
+Insert Line After KeyBinding cannot be overridden
+Folder structure in find references view
+Use Replace button in "Find and Replace" widthout jumping to next matching word
+[json] publish schema of the VS Code-specific JSON Schema extensions
+SCM: Display current line length for source control commit message input
+Enter in the middle of a line comment should create a new line comment
+Reference / schema loading problem behind kerberos authenticated proxy
+Add a system wide settings.json
+Default Output Colorizer
+MFA support for encrypting credentials in extensions (SSH accounts, etc.)
+Ability to disable language features provided by extensions
+Support QuickDiffProvider without SourceControl
+"editor font zoom" does not persist
+Windows Information Protection support as enlightened app
+removeSecondaryCursors should leave the cursor added last
+Use the launch configuration name as the terminal name
+API: Allow extensions to provide file watching on file:// scheme
+Support file language detection by extension code
+Comment buttons/actions too far away on a wide screen
+Dependent commands within launch.json
+[Feature request] Persist find/replace history
+Add chords to "show same keybindings"
+VS-Code recommends PowerShell extension when 'PowerShell Preview' extension is installed
+serverReadyAction debugWithEdge (chromium) missing
+Convert inline comment to block comment, and vice-versa
+Find in Selection expands to whole line
+Perform preLaunchTask in same terminal
+Non-WSL paths should be linkified in WSL terminals
+color picker doesn't update color in document immediately
+Change displayed language after unistalling it.
+Preserve case replace not working well with regex
+[Feature Request] Skip specific updates
+Middle click copy paste cross platform
+Extension configuration order
+Settings Need Multiline TextBox
+Feature Request: Allow passing args inside entries of Npm Scripts Explorer
+Context menu for document link items
+[css] code completion for gradient functions
+Run terminal shell as admin
+[html] Add support for `html.format.wrap_attributes_indent_size`
+unlimited keyboard shortcut lengths
+Allow attaching/detaching from the debug targets
+Allow extensions control dimensions for existing terminals
+Don’t recommend Debugger for Chrome when Google Chrome isn’t installed
+Consider adding isDefault to TaskGroup
+Caching/prefetching remote webview vscode-resources
+[css] Add support for CSS @supports selector() function
+Keybindings with commands that don't exist should be faded instead of showing warnings
+macOS Text Selection: shift+left should expand selection
+Bring the "track changes" feature to VS Code
+Return of the swipeToNavigate setting
+Expose terminal scroll position and allow extension change it
+Ability to contribute context menu entries for Terminal
+Tree view doesn't programatically collapse Tree items
+Emmet Abbreviation with cursor locations results in multicursor when expanded with star operator
+Can I make Ctrl-left arrow and Ctrl-right arrow symmetric?
+Preserve search options / Allow default search options to be configured
+Keybindings: provide some guidance on when-clause support
+[themes] Show extension info in Preferences: Color Theme panel
+Better filter expressions for hiding derived resources
+Add a decoration render option to extend to edge of window but keep range
+Allow extensions to provide commands for their custom treeviews programatically
+Add `Clear search fields` button to Search widget
+editor.Hover message box Position
+Right click should offer remote variants of "Open with Code"
+stupidly large files
+Overlapping search results
+Expanding an object when it is the bottom of the scroll view should scroll with the expand
+Support prompt for QuickPick as well as InputBox
+Add predefined variable ${fileDirBasename}
+Add a "Toggle Word Wrap" button to the Output window
+Preserve case behaves unexpectedly, taking caps from both source and replace
+Reuse launchBrowser window tab
+Add an output panel for keybindings
+Add a shortcut or a button to restart extension host.
+Few new commands for find/replace
+more commands for different functions
+[folding] When you cut a collapsed code block it should stays collapsed when you paste it.
+Omit locations visited by incremental search from 'Go back' history
+Make it more obvious to accept current or incoming changes for merge conflicts
+[html] support script type="text/html"
+window.restoreWindow isn't honored
+[folding] Preserve folded ranges on revert
+Howto configure serverReadyAction debugwithchrome point to a specific config
+Some of display name of config is not correct.
+Expose Clipboard#read/write with data transfer
+Scrolling can be improved
+Consistency with the use of "workspace"
+support game controller so I can map buttons on it
+Pick up all WSL distributions in default shell selector
+[css][html] Publish language servers modules on npm
+How can the Modifier keys be changed?
+If pasting over text containing TextEditorDecorations, they are retained
+[Settings GUI] String array: No help in filling enum values
+Add title property to QuickPickOptions (showQuickPick)
+Resolve resolveDebugConfiguration return values when debug type changes
+Option for using system Color Picker instead of inbuilt
+Emmet balance not working with typed components
+Option to prevent deprecated things from showing up in intellisense suggestions
+Git: Support for gitdir
+Have a command that clears all problems that are from tasks.
+Tokenization overhaul
+ability to get/set currently selected debug configuration
+Migrate away from HockeyApp by November 16, 2019
+allow ⌘-` as "quick switch window" keybinding
+[css] Shorthand properties: show label for each value in hover
+Hirerarchical multi-root layout
+Do not update disabled extensions
+PHP auto-closing HTML tags
+The `cursorWordPart`* commands are limited to editor text, unlike the other `cursorWord`* commands
+Show a warning when storing workspace within installation folder
+Hyper modifier is unknown
+Taskbar Menu Item for Opening VSCode in Remote
+[json] format on save should remove last trailing comma in JSON with json-language-features
+Search doesn't follow symlinks in a Samba share on Linux
+Compare merge conflict
+Allow for configuration files in .devcontainer
+Restart language server – a generic solution
+Simple file picker: Investigate filtering the file/folder list
+Chrome debugger: Use port forwarding to open URL when running with a remote
+Use extension UUIDs for recommendations
+[themes] Offer a theme checker that reports missing theme keys
+File/folder picker: Open in new window with Ctrl/Cmd
+Git checkout panel: divider line after local, option to sort branches by remotes
+Unable to distinguish between instances on mission control
+When terminal.integrated.inheritEnv is false on macOS, the env should be fetched via a native node module
+Snippets: Scope by specific file or pattern
+vscode-node-debug assumes debug port open when --inspect-port is used for "attach to process"
+Allow QuickPicks to show right-aligned text like "recently opened" in the command palette
+[folding] Fold current level
+Improve UX for organize imports on save failures / cancellations
+Extensions using the "type" command (for ex. Vim) have poor performance due to being single-threaded with other extensions
+Snippet Choice confirm choice should move to next placeholder
+Builtin support for reading files from their zip archives
+autoAttachChildProcesses for attach type debug
+Multi Cursor issue
+Allow ctr+click/ctrl+hover in other places
+Show Release Notes before update
+Distinct appearance for (primary) cursor while in multiple mode
+Optimize handling of globs from extension searches
+Scroll amount depends on font size
+Global regex search with "Not matching character" doesn't match newline
+Add git status decorations to icons in sidebar
+Save width of Explorer column (sidebar) in Workspace
+Support aligned icons (octicons) in quickpicks
+Allow to show status bar entries with an id and name
+Extend Extension API with QuickPickSeparator Support
+[json] Override/disable json-schema for package.json
+Allow to define the lifespan of an input variable value
+Expect minimap functionality and similar to xcode 11
+FreeBSD support - now that Electron is available
+Minimap: support // Mark meta comments to support custom rendering in the minimap
+[json] Allow full glob filtering for fileMatch in json.schemas
+Setting extensions path in settings.json
+Support object types for `TreeItem.contextValue`
+Render extension icons in Settings GUI
+Provide a way for the user to assign layering priorities on highlighters
+[css] Color picker for rgba() function in CSS
+Add warning if closing a terminal with a running process
+Create a node-pty host process with flow control and event batching
+Add support to distinguish between diagnostics created by a reconciler and a builder
+Support fixed width terminal windows
+Notepad++ "Define your Language"
+[folding] Fold All in selection
+Automatic Space in the end of line when saving a code
+[themes] Allow to set a background color for settings / webview editors
+Support configuring PagedScreenReaderStrategy._LINES_PER_PAGE
+Add "type" to textDocument/references results (icon, filtering)
+Indicate a setting is overridden by language overrides
+Whitespace characters render over the top of decorations
+Disable all extension recommendations besides manually defined extensions
+TextEditorDecoration applied to incorrect range if racing with user edits
+Expose command/context to allow using tab to autocomplete simple dialog
+Expose vscode remote reconnecting UI.
+Add New Project menu item and open it to extension developers to add project types
+Add option to skip sorting QuickPick items
+Feature Request: Close Output when there are no problems
+Terminal default font not useful if editor font is proportional
+New revealProblems property in task presentation options is missing from the API
+Add option to disable tasks terminal closing on key press.
+Add more flexible Decorations or editor overlays for extensions
+Be able disable task detection from tasks.json or override tasks execution
+Upper-case aware completion when opening folder with remote ssh
+Improve handling of extensions when workspaceContains times out
+A snippet definition should not require a "prefix" property to be considered valid
+Cannot set embedded language indentation rules
+Suggest install of recommended extensions after rebase
+Stabilize FileSearchProvider API
+Issue Reporter - link to wiki page about writing good reports
+Reload CSS when running out of sources
+Splitview: support to exclude certain views from proportional resize when they are at their minimum
+Add shift+ctrl option to editor.multiCursorModifier setting
+Upgrading a theme currently requires a window reload
+Ability to download older extension version from Marketplace
+Background tasks with activeOnStart:false shouldn't show problems if beginsPattern isn't matched
+Splitting terminal opens default shell instead of current one
+Regex pattern to clear all problems of a task owner
+TextEditorDecorators should also be rendered in minimap
+Enable FileSystemProvider to stat a file as readonly
+For long hovers, errors appear all the way at the bottom and require scrolling
+Make scroll bar opaque
+Add a button to open Find All References from Peek References
+Expose offline/online detection to extensions
+Enumerable properties mixed with regular properties
+[folding] make max folding region limit configurable
+[folding] Support flags on folding.markers RegExps
+Source Control: "Accept All Incoming" for "deleted by them" should delete the file from working copy and stage the change
+[themes] Support for hue, saturation, lightness (HSL) color codes for theming
+Tabstops on the fly
+Provide a way for extensions to open the keybindngs editor with a query
+Option for unified Search / Replace Bar
+[folding] Option to show both fold/unfold controls on mouseover only
+Yank back killed text `ctrl+y` stopped working
+index.js/index.ts file should show at top of file picker when searching for the name of the directory
+[folding] selecting first line of folded range does not select full folded range
+Support serverReadyAction in tasks.json
+Extension development: improve experience for testing extension APIs
+[json] package.json: also show latest beta version
+Follow-on task following task completion or termination by user
+customize name of workspace '.vscode' directory
+auto closing pairs with conflicting patterns problems
+Tree: filter is not discoverable
+Editor zooming (editor.mouseWheelZoom) is too sensitive
+Disable hover but keep Ctrl+Hover
+Extension API: Different Syntax Highlight Schemes for Output Window
+Feature request: Option to not toggle open/close folder when clicking on folder name
+Allow languages to specify autoClosingQuotes/autoClosingBrackets per quote or bracket pair
+Support to mark and extension as "FREE TRIAL"
+Ability to disable or configure Git change peek button next to line number
+SOCKS5 proxy worked but the regex verification only accept "https"
+Default formatter selection should write to project specific settings rather than global.
+[folding] Distinctly highlight corresponding `#endregion` for `#region X` comments
+[Feature] Add support to filter scripts from the script explorer using regular expressions
+Smart Backspace feature
+Automatically show changes side-by-side if there's only one group, otherwise show changes inline
+Disable/Enable Emmet Command
+Task input parameters from showOpenDialog
+Need keyboard shortcuts for buttons in custom dialog
+Create new folder in simplified file dialog
+Verified extensions in marketplace
+Remove single line / group from debug console
+Centered layout should be stored globally not per workspace
+How can a FS provider determine the correct workspace folder root when it recevies a call
+Should maintain row focus after deleting a file
+File Provider: support symbolic link operations
+No clue that server ready action is running
+Debug: Server ready action pattern should have validation
+[json] Provide support for highlighting the source of the error in json files rather than highlighting the entire file
+Enabled Text-Highlighting and Copying in Playground
+Setting to Disable Split Editor on Drag and Drop
+Support moving between *sections* of the "themes" menu
+Ability to vary completion item insertion (based on chosen commit character?)
+[folding] custom folding text for folded ranges
+[Feature Request] - Save extension and themes as a Favorite
+[Feature Request] - Extension Dating & Timestamps of last updates.
+Custom Variables Support In Workspace Settings
+WebView doesn't close on extension (but not window) reload
+"Normal" filtering input for trees
+Settings UI is overwhelming for extensions with lots of settings
+YouCompleteMe Style Tab Behavior
+TerminalOptions.waitOnExit API
+Recommendations: Allow specifying a content pattern
+Allow tabs to wrap to multi-line
+feature request: API to set URL of WebView
+tasks.json "dependsOn" property does not resolve variables/commands
+Support using background tasks in dependsOn
+Enabled Extension incorreclty flagged as recommended for use
+Allow to disable cursor blinking in input boxes
+default run task
+"Auto-Attach" DebugSession name change after launch
+Keybindings: Add when context for if an extension is enabled
+[html][css] [custom data] Extension contributes settings don't take effect until vscode restarted now
+Workspace-level enabled extensions
+Support file language detection with more the first line
+Add context to find if list item is collapsible
+Scrolling hover popup with keyboard
+Cannot bind hardware keyboard buttons "back" and "forward"
+Support cell-by-cell navigation to allow links to be keyboard accessible and more fine grained keyboard selection
+How to delete to the indent?
+Allow to run extension tests through typescript files
+Show an obvious indicator that an updated extension requires a reload
+[json] add colon automatically
+[json] add commas automatically
+Alt+up should move up a folder in the simplified file picker
+An option to manually set indent size in an editor
+If you can't upgrade an extension, tell why!
+Support multiple serverReadyActions
+Tree: Support for automatically expanding parent nodes of filter matches
+Parts of serverReadyAction should be contributed by chrome debug
+With ctrl+p, tab to auto-complete query
+Workspace-level environment variable *definitions*
+Allow keybindings commands to override "top menu bar" shortcuts
+Bottom Panel visibility
+Enable Hover: sticky on RGB Color picker only
+Emmet expansion not working for jsx tags inside other jsx tag prop
+Tree: option to show all descendants of a filtered match
+Ability to re use a view across view containers
+Support running multiple tests suites at the same time
+Find in Folder not working if the folder is excluded in setting
+Debugging should switch focus to new stopping thread after exec 'continue' command
+[json] word completions inside strings
+Information for each extension in process explorer of vscode
+Place editor groups side-by-side with The Panel
+File System Providers vs Debug
+Restart task fails if task already completed
+Allow to specify task terminal group position
+"Recently Updated" Pre-defined Extensions search filter
+Recommend extension from extension tab
+Unable to move multiple lines
+Allow dynamic location of textmate grammar
+Trusted Publisher Verification & Verified Publisher Filtering for Extensions
+The second installed extension doesn't auto display in 'Installed Extension' view till reloading VS Code
+Make `code --wait` return focus to the originating app after editor is closed
+Warning for trailing spaces in folder names
+[html][css] [custom data] Give custom HTML tags/attributes and CSS properties higher completion rank
+Allow multiple filters in extensions search input
+Restore Ignore Recommendation
+Different color for major semver update button
+Hide extension rating and downloads for installed extensions
+Allow extensions to control default expanded state of contributed views
+Ability to update built in extensions
+More flexible input variables: Multiple values & labels
+Draw the status bar's background in different colors (eg red, yellow) if the program has errors/warnings
+allow global flag to have ALL new extensions be disabled by default
+Reordering members through outline view
+Keyboard shortcut search results for "focus terminal" have odd ordering
+Search with non-standard encodings not supported
+Support comments in UI editors (settings and keyboard shortcuts)
+Tab press in search panel should navigate to next text field
+Enlarge scroll bar button when mouse near by
+Git: Support git worktrees in workspace
+SCM: Allow individual horizontal scrolling setting
+New explorer: allow to filter by path
+Global extension directory and easier way to deploy extensions
+Start installation of multiple .vsix files simultaneously
+Show number of matching occurrences
+[json] emphasize default setting in label
+[html][css] [custom data] Reload custom data on user setting change or JSON file changes
+Reveal in sidebar by double-click breadcrumb
+VS Code theme style is added to text copied to the clipboard as rich text instead of plain text.
+Auto-indent on closing brace
+Investigate SIGUSR1 usage
+Extension should show up in the installed extensions list as soon as it's installed
+Welcome page extension suggestions should not be hardcoded into our source code
+[folding] Show tooltip on hovering collapse markers
+Show breadcrumbs in peek view
+Feature Request: Global override of indentationRules
+show the time comsumed by a task
+Exclude files by right clicking result in search panel
+Find in files in non-existent folder highlights wrong input field on error
+Clear all problems in the 'Problems' pane with a button
+Explorer: resolve all folders before filtering
+Add "accept theirs", "accept ours" git commands/context menu actions
+VS Code not straight ruler
+List highlight filter: Support other filters
+List highlight filter: Toggle to highlight/step only on in same folder
+Is there an event like preClose for web view?
+Windows uninstaller should have option to also remove user data dir and extensions dir
+Allow editor.tokenColorCustomizations inside language specific
+[css] support IE10 repeat syntax
+Support numeric input variables
+Disable Multiple Cursors
+Zero length diagnostic at end of line is rendered over multi-character identifier
+Shrink empty lines
+Update user agent for selected language
+Allow extensions to contribute default task types
+Let NPM extension warn when git changes package.json
+Feature Request: generate imports when copying code between files
+Allow more powerful onEnterRules for cursor alignment
+Let me theme diff editor's inserted text background differently in the scroll bar
+Find usages (find all file references / find all folder references)
+Extension recommendation should consult disabled extensions first
+Context menu 'Find all references' on files from file explorer.
+[html] code complete for href anchors
+autoclosing markdown preview when closing md file
+Emmet expansion with React components
+[json] Auto detect JSON schema when located next to the file
+[css][html] SVG language support
+Intellisense's 'Suggest selection' should keep working when you have typed something
+Scroll bar visibility should be configurable
+Cannot resize Keyboard Shortcuts column sizes -> Add column resize handle bars and horizontal scroll bar
+Auto-run task on folder close in addition to open
+Hotkey to get type information for the selected expression
+Executing user defined actions, one off extensions
+ctrl + shift - not aligning text to rtl/ltr
+Cannot enable brackets matching for .log files even when "editor.matchBrackets": true is set for that language
+Font ligatures for hints/tooltips, debug console, output and problems
+Temporarily Set Configuration For Save Operation
+RTL layout for paragraphs starting with
+Allow to reference WebAssembly modules in extension
+Microsoft Surface Precision Mouse - "Accelerated Vertical Scrolling" breaks smooth scroll
+Prevent Find/Replace bar from returning after Next Match (F3)
+configurable automatic indentation
+"Single Panel Mode" for sections in side bar (similar to lightroom, gif included)
+Support minimal context menu for text selected within extension README
+preview markdown file, image can not reload when modified with other tool
+Allow to add secondary actions to notifications
+Select all on hover selects stuff from global search
+Add ability to read outputChannel text.
+Add a "recenty used input" to user inputs for tasks.
+[pug] add auto indent
+Support lazy resolving of SignatureInformation#documentation
+Eager evaluation feature like Chrome debugger
+[folding] Preview folded content on hover
+Add "Never pause here" option to breakpoint context menu
+Allow to configure cursor keys for input fields
+Slow syntax highlighting
+Extension Pack: Enabled/Disabled list: Show depending extensions as subitems
+Extensions search bar is emptied when reloading window
+Support multiple lineComments in a language config to allow "Remove Line Comment" to work more reliably
+Way to Re-enter Context of the Placeholder Tab Progression While Using Snippets
+Joining with multiple cursors on contiguous lines doesn't work as expected
+Consider improving the allow/disallow automatic task actions
+Using OS user name / git user name inside code snippets
+Highlight file containing definition
+[Suggestion] Add option for displaying in panel
+Support nls
+References list should react on file changes
+Feature Reqeust: Also show line numbers
+Need a better grammar support for Rust lang
+Extension Pack: Uninstall dependencies from pack if they are removed in an update
+Git: Gracefully handle git hooks
+Setting to disable autocompletion fuzzy matching altogether
+consider to allow for variable substitution in the inputs section
+Loaded scripts should have a collapse all action
+Search: find, replace input boxes miss scrollbar
+Implement certain git status operations without spawning git
+Splitview needs overflowing behaviour
+Emmet support for custom HTML tags / attributes
+Double click the left mouse button to select the nearest code block
+[folding] Move line up/down should skip over folded regions or folded sections
+Show actual description for commands in Extensions Contributions section
+vscode.debug API should provide the current thread/stack frame ids
+Do not trigger auto updates when a specific version of extension is installed from CLI
+Add "TypeAlias" CompletionItemKind/SymbolKind
+Add more types to CompletionItemKind/SymbolKind
+Centered editor layout: top and bottom padding
+API should install extensions defined in extensionPack before running extension tests
+Support updating multiple workspace configuration settings at once...
+[snippets] Support for global or project-level variables
+Is it possible to copy text from `Show Hover`?
+Provide an easy way to debug a freezing window (The window is no longer responding)
+editor.insertSnippet() messes with indenting of the SnippetString
+Feature Request Add favorites
+Ability to apply a final sort to QuickPick results
+emmet.includeLanguages for one to many mapping
+Feature request: Control Custom views
+badges on custom activities added to activity bar by extensions
+VS Code should be able to handle file:// URIs
+Git: Provide task progress
+Add a command to put OS / VS Code info into clipboard
+Exclude gitignored files from file watcher
+Some suggestions for moving views
+JSON hover should point to new docs
+API should support to create a folder
+[theme] inspect tool for workbench colors
+[scss] rename not working for placeholder selectors
+Support negative filters on text
+Keyboard Shortcuts Ide Tab and Browser Pdf Shift+Alt+... entries
+[Extension] Is it possible to stop a TreeItem tied to a workspace resource from getting Emphasized?
+Reinstall Language Pack shows neither Restart button nor Info Message
+Command Palette should steal focus from active webview...
+[css] Add @media and @supports to CSS breadcrumbs
+Breadcrumb missing on read-only documents supplied by debug adapter
+Surface the 'origin and 'presentationHint' attributes of a Source in the Loaded Scripts Explorer
+[themes] Allow textmate token color customizations to reference existing scope
+Add labels/colors for folders
+HTML Auto-indent Does Not Work If Original File Type is PHP
+User needs to be able to control whether or not the issue report seaches duplicates
+editor.selectionHighlight causing confusing highlighting noise when searching
+Strip trailing whitespace after the cursor when pressing enter
+Support adding grammars at runtime
+Integrated Terminal : Start named session
+Save and import the list of enabled extensions.
+When you copy a line without any selection the \n should not be copied
+Remember previous window size and position per workspace
+MSIX installer
+Need a shortcut key binging of outline to toggle expanding or folding
+Make TreeItemHighlights API public
+When editing css / scss, an option to not inserting blank line within braces.
+Task Manager: provide the ability to reuse custom problem matchers
+Register as an option in Windows' "Set Default Programs" screen
+Interactive Tutorials as Extensions
+TreeItem should support highlights
+Show Timestamp while Debugging
+Problem matchers should restore problems on close
+[css] Autocomplete for media queries
+Backticks not auto-closing for tagged template literals
+Hide lines with filters instead of just removing from active file or showing in new window
+Support PowerShell as the default shell on Unix-like platforms
+Centered layout should be per workbench, not per editor area
+editor.acceptSuggestionOnEnter: "off" not working in debugging console
+Open next build error file+line based on regex parsing of build output.
+Please provide a "Delete Record" button when the path of recent project does not exist.
+Improve ui/ux when debugging with multiple configurations
+nextMatchFindAction inherits addSelectionToNextFindMatch match word setting
+[folding] show folding actions at the end of folding range as well
+SCM: Option for gutter decoration ignore whitespace
+[html] proper support of XHTML
+Git: support HEAD <> working tree changes in gutter
+Show/log which extension has thrown an exception
+Ability to customise size of a custom view
+Add selectionBackground defaults
+vscodebot not helpful
+Is there a way for an extension to prompt to install another extension?
+Add multiple task.json configuration files
+Optional fine-grained control over file-type registration
+Provide context to format provider so it knows whether a format came from a save request/manual invocation
+Stabilize findTextInFiles API
+Stabilize TextSearchProvider API
+icons for QuickPickItem
+Update: Add progress to update download operation
+[scss] No autocomplete for built-in functions inside maps
+[folding] clicking on on line number of folded line should select full folding range
+Button in Find/Replace to swap the content of the text boxes
+Git: Offer to clean workspace when checkout fails due to dirty working tree
+Breadcrumbs enhance-> double click change the edit state
+[html] support less syntax in html file
+Extend tasks API to allow programmatic problem matching
+ModuleEvent raised by Debug Adapter has no effect
+Show full line in search results
+SCM: Support to automatically change active provider based on current open file
+Allow for block relation line colors.
+Feature request: advance cursor to the next line of code
+Settings UI - Not Showing Language Specific fields
+Relative problem paths don't take `cwd` into account
+Run task in external terminal
+feature request: "locking" a text buffer
+[folding] editor.showFoldingControls: never
+copy the exact path from the new breadcrumbs
+[folding] go to region command
+Problem reporter -- promote/advertise that it works for extension repos
+Open settings editor from link with URI handler
+Pending extension updates don't show as a badge (counter) on the Extensions sidebar icon
+OnEnterRule#oneLineAboveText
+[html] Automatically delete HTML closing tag when converting to self-closing tag
+Allow text-shadow to be used in themes
+Display invisible character
+Problems View: Indicate which errors come from tasks / problem matchers
+Setting to hide extension updates badge
+New settings editor cannot override value in workspace settings
+new settings UI: possible to undo a setting change?
+Feature request to support querying for running extensions in extensions search
+Allow to set a file association for files with no extension
+Allow extensions to use dark and light thumbnail icons
+Option to insert comment // characters at column zero for editor.action.commentLine
+Escape key while dragging selection should leave selection unchanged
+Allow to compare 3 files
+Allow changing triple-click (and double-click) behaviour
+ctrl+p picker for loaded scripts
+Verify source maps
+Add ability to paste text/html content type
+Support filtering tasks activities by file type (language)
+Loaded Scripts should show paths in original format
+Extensions startup loading order
+[html] Support SCSS in HTML with <style type="text/scss">
+Settings UI lacks concept of inherited default value
+Feature Request: Hotkey Support for QuickInputButton
+Allow <super> as a keybinding option in linux
+Add a command that redos the last command that was executed
+Have Windows Setup prompt user about setting Code as the git.editor
+Extension pack recommendation message is too vague for users to know what extensions are included
+[themes] Allow custom variables in workbench color customizations section
+Provide a way to kill a task or terminal from the main menu
+Show file picker for 'path' string settings
+when no problemMatcher is specified, just run all the matchers and pick the first one that matches
+[npm] hover should show relevant latest version
+Allow extensions to be installed for all users
+Method separator
+Allow hover to be resized
+add a context menu to entities listed in breadcrumbs
+Warn when reloading VSCode if Issue Reporter is open
+[api] Allow extensions to use the syntax highlighter
+Don't show breadcrumb bar when not applicable
+Support auto update for Windows and Linux ZIP
+Option to specify separator for "Copy Relative Path" action
+"Halfway" option for scrolling beyond the last line
+Support find in the Contributions section of the Extension Editor
+Improved Welcome Screen
+Better indicator for long extension installations
+skipFiles Option in Auto Attach Debugger
+egrep like feature to subset display of lines based on regex (i.e. hide code lines that don't match)
+Breadcrumbs Option Bottom of Editor
+API to retrieve a dimensions from a given Terminal instance
+Disable undo menu item when there is no more history available
+Disable some menu items when issue reporter is focused
+add Activation Events for setting field
+Keybindings - right click disables multiple selection of items
+Problem matchers should support creating related diagnostic information
+[folding] provide non-selection aware fold level command
+Use smartCase for Find
+Rapid render ignores border colors
+"Quick Open" open all files
+Missing keybinding for navigation in Quick Fix contextual menu
+Show Opening Tag when Closing Tag Selected
+[css] use folding regions in outline
+Allow syntax colouring in parameters for SignatureHelp
+Make decoration provider API public
+Display installed dependencies
+Option to automatically open markdown in preview
+Give the option to fix centered layout width.
+Have separate colors for active and inactive tab hover
+[scss] Add "Go to or peek defintion" for imported mixins and variables for SCSS files
+[folding] Add keyboard shortcut to jump between #region and #endregion
+Rectangle commands for large file editing
+Allow disabling of breadcrumbs on a per language basis
+Enhancement: finer control of word separators
+Keyboard Shortcuts Reference that incorporates User Key Bindings
+Improve readability of diagnotic hovers
+Remove CtrlCmd+W keybinding to close window when no editors are opened
+Multiline Numbering
+Add ability to access commands without typing
+Contributed webview context menu actions
+Add way for extensions to signal that diagnostics are actively being computed but have not been returned yet
+Allow diagnostics messages to have markdown (or formatted text) content
+Configurations naming mixing javascript and typescript
+[json] package.json: complete package versions from scopes or private registries
+Allow to associate a workspace folder to untitled documents
+Debug Provider to return launch configurations 'in-memory' to the debugger
+Simplify API for updating settings
+Provide an API to track a position in a document across edits
+Localized descriptions for built-in extensions and their settings dont show up in Extensions view
+Make extension details view more responsive
+Outline view + Markdown: Do not display the "#"s
+Support links execute vscode commands in output panels
+Setting the zoom level independently for each editor
+Dynamic injection grammar contributions
+suggestion score - allow first character to be a weak match
+Use code editor for rename input box
+Improvements to Node Auto Attach to improve defaults and discoverability
+Shared properties in launch.json
+Editor/terminal only anti aliasing
+Subword navigation : Apply introduced feature to whole UI
+Allow for horizontal scrolling a page at a time
+[json] don't suggest top level snippet if there's already an object
+User profile
+Sort extensions by extension update date
+Providing an option to copy the hover text to the clipboard
+Update: Provide error messages if network resources are unavailable
+Linked snippets
+Enable progressive selection (up/down) for multi-edit
+Outline view: collapsed by default (introduce optional setting?)
+Show 'Source' actions in file explorer context menu
+Improve usefulness of extension "Contributions" view
+Snippet transform leaves conditional operator
+Safe File Delete
+Add settings editor commands to focus next and previous settings
+Make open editors view extensible
+Git: Support submodule management
+Allow disabling builtin extensions from the command line and persisting the configuration state so that subsequently when vscode is closed and open ithose extensions will still be disabled
+Support for --inspect-brk=0 for node.js debugging.
+Shortcut for opening color picker and insert color of selected format
+make an action of editor.contrib.wordHighlighter
+Detect and inform user if Code is in quarantine on macOS
+Add prompt to "test on insiders" to issue reporter
+Feature Request: Outline Customization
+cursor up/down is confused by selection
+Further control over presentation of Problems
+[Feature Request] Extension Permissions, Security Sandboxing & Update Management Proposal
+[folding] unfold when pressing enter on last line
+Ignore `editor.insertSpaces` within strings
+Multiple languages specific editor settings
+Organize Keyshortcuts by Topic
+toggling editor.minimap.renderCharacters changes minimap display size significantly
+Add DecorationRangeBehavior.Word
+Instructor Mode
+Explore extending settings schema with additional metadata
+Feature: Use package.json to save state of extensions
+Default extensions scope
+Add user-option to refuse extensions' keybindings contributions
+Horizontal scroll area does not refresh
+Outline: support for `//#region` fold regions
+Tweak autoClosingPairs to make PHP docblock insertion less intrusive
+Filter "Problems" by the extension which generated them (Markers Panel Filter)
+Provide workbench.panel.location "top" option
+Support folding ranges inside a line
+Support customisable alias for commands in command palette
+Find/replace: Keyboard shortcuts for "toggleFindCaseSensitive" and "toggleFindRegex" don't work when find has focus
+Consider show a filename input box (Quick Open box or rename-like input box) for "Move to new file"
+Cannot exclude root folders while searching
+Tasks: path property has no effects if pointing out of workspace
+Add ThemeIcons for common test statuses
+Support a variable that resolves to the location of the code-workspace file
+Intellisense tooltip with filter category like Visual Studio
+Support syntax highlighting with tree-sitter
+Git: Support Co-Authored-By
+Feature request: Allow Code Outline in Minimap location
+Feature request: Treat the Chinese text as a Chinese sequence when using`Ctrl+Left/Right`
+Allow both "onFocusChange" and "afterDelay" for "files.autoSave"
+Move selection - Alt + arrow key
+Add commands to outline elements
+Alternative locations for the outline view
+Bot: improve duplicate message
+support easy re-arranging of folded blocks
+F10 and F11 should start debugging with stopAtEntry:true
+How to hide the Restart button in the debug toolbar when attached to a process that can't be restarted?
+Stop script in NPM Script Explorer
+Setting to ignore whitespace-only lines
+Add theme key for the "alternating" row color in keybindings editor/settings UI and change default
+[Emmet] Include should be more like DocumentSelector
+Show selection settings widget when text is selected
+Option to not style rendered whitespace with TextEditorDecorationType
+Feature Request: Allow user to override contributes made by extension
+Decorations: Show decorations in tabs
+Advanced extension search (for example excluding certain words)
+Indent guide highlighting is not semantic
+Need Env Variables for DataDir and ExtensionDir
+[Feature Request] Support ability to switch between multiple keybindings.json files
+[html-templating] easy way to inherite advanced html features
+Support Windows 10 Timeline feature
+Search - path to file in 'include' box should be searched
+Add language to Output channels
+Merge results from multiple DocumentHighlightProviders
+Does the watch view support auto completions?
+Feature Request: Smarter indent guides
+Allow un-selecting an item in a contributed tree
+What are default excludes in workspace.findFiles?
+FileSystemProvider: have a reference test suite
+FileSystemProvider: no way of handling permissions issues
+Moving View Containers: visual indicator might improve UX
+[folding] fold all but comments
+TypeScript: Provide setting to organize imports on format
+end keyword matching for Ruby, Lua, Julia, Elixir, Crystal and others
+Provide an action to collapse all views except the focussed view
+Option to configure editor scrollbar to be opaque
+[Feature Request] Keybinding with a sequence of keys
+editor.action.sortLinesAscending has confusing sort order for symbols
+Allow block comments characters to have new line in them
+Add percentage for zoom in/out, don't zoom everything in/out.
+Feature: Settable "keyboard.chords.mode"
+Add ability to use source reference as a fall back
+Allow webviews to be shown in modal windows
+Horizontal scrollbars are too tiny in diff mode
+Allow disposable pattern on TreeItems
+Typewriter Scroll Mode
+Add wordwrap indicator
+Use fresh environment block on new terminals in Windows
+Feature request: paste and select pasted text
+[Feature Request] Extension Folder
+Command - Undo Replace All
+Need a way to get logs from the DA when there is no explicit launch config
+Select editor text via touch
+Allow maximizing/restoring a single terminal pane
+Make input fields keyboard shortcuts (e.g. copy/cut/paste) configurable
+Save automatically when refactoring
+Expose `glyphMargin` support to extensions
+Improve `Run [Build] Tasks` command and dialog
+keybindings using [ContextMenu] key sometimes ALSO trigger UI context menu
+Unable to scroll when viewing extremely large files
+Make the indents non-editable
+[html][css] Investigate cross css/html, multi file support
+Launch task directly into split terminal
+[json] completion has bad replacement span, overwrites comment
+[html] propose html 4 properties (cellPadding ...)
+Make search tree context menu multiselect-aware
+Ctrl+Alt+Down (selecting lines) and Alt+Up (moving them) moves only 1 line
+Add support for "Go to Super/Base" (similar to Go to Implementation)
+Allow starting debugging using "current" config with additional arguments
+Add support for media keys (keybinding shows "unknown" for key "back" and "forward")
+Allow configuring alias language for contributed snippets
+API for retrieving the current position of the panel
+Indent guides mismatch if statements without braces
+SCM: Add `amend` checkbox to commit panel
+Allow temporary changes to settings
+Allow extensions to contribute defaults for built in configurations
+Feature: Specifying the load order of extensions (reduce startup wait-time)
+Output Scroll Lock shouldn't be reset on quit
+Issue reporter - disable extensions should be a button and not a link
+Create api SourceBreakpoint without using constructor
+Issue Reporter: Support configuring data sent to extensions
+VS Code not being able to open a 19GB file
+search.exclude does not work for searching symbols across a workspace
+[folding] blocked while language server is starting up
+Allow to temporarily disable (snooze) all notifications
+Expose electrons app.getPath() to extension API (or equivalent)
+Command tracking should show glyphs next to rows and flash lines when navigating
+Feature Request : SHOW / HIDE comments in editor
+Neo keyboard layout: How do I map "Ctrl+ä"? How do I use "Ctrl+["?
+Expose API for variable substitution in contributed configuration
+Allow hiding the buttons in the tab bar line and in the panel title bar
+Installer doesn't disable launch of VScode even when installing with /mergetasks=!runcode
+Spacing or Horizontal lines in custom VS Code grammar
+Use xattr (extended attributes) on macOS to save/load text encoding identifier with file
+Undoing several newlines should undo them all together (or whichever was added at the same time)
+Expose DebugConfigurationProvider for testing
+[icon themes] Expose API to provide a dynamic icon theme.
+Search view with horizontal scrolling
+Iterate through multicursor/multiselection and let user type unique text for each selection
+Zen Mode Settings
+Toggle Line Comment shortcut working undesirably
+Provide access to VS Code API in extension uninstall lifecycle hook
+Add a setting to not promote workspace folders to top level if they are children of another top level folder
+"Find in selection" does not function as expected
+Provide a lightweight shell selector without changing default (ie. terminal profiles)
+Add an API for splitting a terminal
+[feature request] editor.wordHighlightBorderStyle et al.
+Suggestion about cursorUndo
+Settings editor should search known keys in object type settings
+Allow extensions to provide a global error handler for errors in extension code
+Add `add keybinding` from keybinding-editor
+Have a history per editor group for in-group navigation
+Allow "files" field in .code-workspace file
+debug console should inherit editor settings
+Automatically close diff editor when switching from Source Control to Explorer mode
+Feature Request - Match case popup window must be more visible
+hide show comments
+Feature Request: Option for "Add Next Occurrence" to select whitespace
+SCM: Align next/previous commands between diff and regular editor
+Center panel with centered editor
+Document highlight API command should return word highlights if no specific highlight provider is registered
+Overview ruler becomes redundant
+Support environment variables for paths in .code-workspace files
+Provide activation reason to extensions in activate call
+"Command Palette" add some commands to open editor dropdown menu
+Feature request: Add support for modifier keys like right ctrl and right alt
+Update: Updating VS Code should check for updates first.
+[razor] comment out razor code with @* *@
+Allow extensions to add coloured markers in the gutter similar to source control
+Centered mode should hide the title area
+Run Post extension uninstall script after extension is not running in any VS Code window
+Opening launch configs in user or workspace settings should reveal the "launch" section
+Request for option for editor to draw a vertical line just after "editor.wordWrapColumn"
+Pin/Autohide option in panes
+Add variable to tasks.json for cursor column number
+Unimportant notifications should not need to draw attention from status bar
+Allow users to set the EOL for the whole workspace
+Use a shared, persistent environment for tasks
+[json] schema fileMatch for all *.json files in root folder
+When A grammar injects to B, grammars embedding B should get A's injection
+When scrolling down through a long body of code, place a cookie crumb of the function(s) you are in.
+[theming] customize file icons in settings
+Setup challenges when running mocha tests
+SCM: Differentiate between submodules and normal repos
+Workspace ... scrollbar area is totally invisible
+Close All should not stop when unsaved files encountered
+Git diff/patch-view UX: Better UI for seeing all patches, staging and discarding selected hunks/lines
+Expose git diff functions outside of overflow menu
+Allow an option to only show hovers if a shortcut key is down
+[folding] Code folding does not respect multi-cursor
+Git: Support prompting for GPG password
+Allow custom setting/control of workbench tab titles
+Allow middle mouse button to be bound in keyboard shortcuts
+"Download Now" button should respect the used installation method on Linux
+Use Windows Keybindings in MacOS
+Feature Request: 'only errors' option for problems.decorations
+feature-request: click below/above scrollbar handle moves one screen height
+Feature Request - Make possible to undo (redo) changes in code after VS Code's been restarted
+Allow extensions to contribute additional paths to "quick open"
+Markdown syntax highlighting for ~~text with strikethrough~~ and task-items
+Option to disable font ligatures in strings
+[css] propose ids used in other selectors
+Suggestion: Bind Ctrl-Shift-1, Ctrl-Shift-2 to open Explorer, Search, Source Control, etc.
+Make debugger tooltip customisable
+Syntax highlighting in debug console
+Allow customization of search match text color
+support code folding with screen reader support enabled
+Incorrect indentation for single line if/for/while/etc, multiline chaining statements etc
+Git: Add number of modified lines to scm viewlet
+Allow local configuration update in the extension API
+Storage service: Warn about missing defaults for unconfigured settings
+Add the case-sensitive text selection
+Allow to open multiple workspaces in the same window
+Titlebar-less view for Linux
+Ability to override location of tasks.json
+Column selection - cannot paste with virtual whitespace
+[css] Lab colors and other CSS Color Module Level 4 features
+Extension handlers should be added to HKLM not HKCU
+Provide ability to ignore all whitespace in diff editor (feature request)
+Context menu contribution does not warn when activation event is missing
+[Feature Request] Allow to define and select Debug and Release build configurations
+pass selected tree item context to view/title commands
+Have a history for recently edited editors
+Icon theme: hidesExplorerArrows is not applied to all trees
+[json] Automatically add required fields to object
+Backspace at end of empty line doesn't delete whole line and go to end of above line
+Extension Authoring - Access Configuration Property from Package.json
+[json] improve property suggestions with oneOf
+Separate tab size and indent size
+Detect indentation when pasting into an empty file
+Syntax highlight regex in find in file/s when regex is enabled
+When find/replace could take long, show progress bar
+Support workspace-level terminal.integrated.cwd in multi-root workspaces
+Introduce "Go Back" and "Go Forward" to navigate between recent edits
+No keyboard friendly way to open multiple files in the current editor group
+Support suppressing commit character from being inserted during completion
+Schema for scope-property in global snippet files
+Extensions: "group" should provide intellisense to show valid groups to contribute menus to
+[folding] Allow folding block comment that starts in the middle of the line
+Allow for smaller or larger tab height size
+Support assigning numeric value to "editor.wrappingIndent"
+Allow to set files.autoSave as language specific or folder setting
+Terminal shell, shellArgs and cwd settings should work in folder scope
+Allow 100% panel width and height
+Path abbreviation relative to project folders
+Drag and drop outside content
+Support reading/writing chunks in remote fs
+Provide API to access and change editor tab labels
+Allow to "Scope to this" in explorer
+Simplify --goto to open file at specific line and column without --goto
+Add option to ignore all notification messages from an extension
+Allow me to disable project-wide auto-save when running a build task
+Feature Request: Contribute commands with additional arguments
+New "pipe into code" feature should open in Untitled file
+Can we get a few more pixels for clicking the cursor at the beginning of a line?
+Provide update notifications for portable mode
+Add "Last Updated" to Extensions list
+Sort folders/projects in multi-root workspace
+Heterogeneous DPI support on Linux
+editor.multiCursorModifier is too restrictive for users on Kubuntu as ALT is taken over by KWIN.
+[xml] add on enter rules
+Add an optional configurable toolbar below the menu
+Allow to open the same file in multiple editors of the same group
+duplicating line produces extra duplicate lines
+Group some common settings for languages
+[html] code completion replaces text after cursor
+[html] extract class name to css file
+when writing a new CompletionItemProvider it is very hard debug as to why the item is not being offered
+Don't use denying settings texts - Always use "approving" names
+Suggestion: Use RegEx classes in "editor.wordSeparators" settings
+Dictation support for visual studio code
+Project minification on save (support on save execution)
+NodeJS debugger doesn't properly handle launched apps that restart on file change.
+Setting for Selection Dragging Scroll Speed
+Support to call system-installed URL handlers
+Caret Position - Virtual Space
+insertSnippet produces trailing spaces
+[json] suggest used values when property name has already been used
+Editing large files - not work to replace all
+Feature Request: Allow extensions install globally on per-machine basis
+Keybindings aren't respecting `when clause` when showing shortcut keys in menus
+[folding] configure initial collapse state
+Installing new VSIX should be blocked while waiting for another VSIX install.
+Allow to close multiple tabs without moving the mouse after closing one
+Feature Request: Enable/disable extensions from config file
+[Feature] Local Workspace settings
+Separate editorGutter.modifiedBackground for saved/unsaved changes
+Wrap with abbreviation history
+Minimap Enhancement: Show Preview Tooltip
+Allow multi-line input box
+Feature Request: Keybinding Overloading
+Sort Lines getting confused by indentation
+Watch extensions folder when code is open and revalidate cache
+There's no way to navigate to the extension editor from the Running Extensions view
+Symbol navigation and context
+settings.json --> no highlighting of matched words in the scrollbar area
+Consider showing completion item detail if available for all list items
+Support hyperlink ansi escapes in the integrated terminal
+Smart loading of extensions based on manifest
+Extension Market Search for Identifier
+Git: Support git subtree
+Allow multiple cursors between split panes
+Tab groups "for components"
+Use .gitignore to hide files in explorer
+Feature request: Update on next restart
+Add Mouse Clicks to Configurable 'Keyboard' Shortcuts
+ANSI color support in edit buffer
+activationEvents.workspaceContains:{value from configuration}
+CLI: code --install-extension should show reload button if vscode is open
+Badges in custom views and containers
+Can we get a ${dirSep} variable for use in tasks.json and launch.json?
+Autoclosing pairs should be configurable
+Git: Provide navigation through git merge conflicts
+[folding] Hover can show region description on `#endregion`
+[icons] allow name specific root folder icons
+[Extensions] Bind package.config's activation onLanguage to configuration
+SCM: Support keyboard shortcuts for inline change review commands
+MacOS - use of non-command key related short-cuts should be avoided
+Git: Support nested git repositories
+Ship Appdata file in Linux packages
+Suggestion: improve command line options for extensions
+Add relative directory/filepath support to snippets
+bépo keyboard layout: cut / copy / paste shortcuts
+Odd rendering of whitespace for grayed out launch.json properties
+Support Git conflict resolution tool similar to IntelliJ, WebStorm
+Option to auto-update extensions based on semver
+Improve keybindings.json UI to show extension changing the shortcuts in `Source` column
+Carat movement past EOL
+Allow to configure a list of encodings to use when guessing
+Git: Support to compare with arbitrary commit instead of the current HEAD
+renderLineHighlight should highlight logical line
+Have Shift+Tab remove whitespace within a line
+Support envfile for tasks.json
+Allow to split an editor into two without creating separate tabs
+Feature request: update on close
+[folding] Expose folding regions in API
+Have a history per editor for in-editor navigation
+Double Clicking words on the edge is impossible
+Allow folding in output channels
+Search and Replace opens every file affected without changes saved
+Support fontName in textMateRules
+Feature Request: Default settings.json file for new user profiles
+Silent Installation Issue
+[theming] editor.selectionForeground is not working
+Interaction of json editor with tasks
+[html] JSON edit support inside HTML document / script tag with type="application/json"
+Terminal should support workbench.fontAliasing
+Allow to detect encoding from contents in the file
+Provide squiggles in .code-workspace file if the path is invalid
+[folding] allow defining folding regions in user settings and/or extensions
+Create groups to organize installed extensions
+Can we support CR line endings as well as LF and CRLF?
+Input box completion support
+Customizable status bar item locations
+SCM: Support input box spell checking
+Can we have a better mouse to caret positioning?
+Can't reset font size after zooming with mouse wheel
+Disable fading scrollbars
+Support edit time browsing of source-maps of node_modules/ dependencies when source maps are available?
+Per-editor/tab background color
+File extension specific settings
+Add control to open file shown in "replace preview" editor when performing project-wide find/replace
+Improve Configure Default Build task in multi root setup
+Git: Preserve open files list when switching branches
+Extension host shouldn't exit after 5 seconds in shutdown when in debug mode
+Source origin is not shown for "loaded script"
+Render find next/prev in the touchbar when focus is in the find widget
+Allow to switch to folder/workspace without window reload
+FindWidget navigate shortcuts not working in WebViews
+Add 'Collapse All' to Explorer panel
+[RFE] Shortcut for selecting all lines with multi-cursor
+Delete matching parentheses, brackets, or braces
+Support Jupyter Notebook Interactive Computing paradigm
+Display line number as hybrid styles
+Support symbolic link folders in areas like debug, extensions
+Explorer Viewlet: Allow to set to hidden by default
+Implement privacy mode
+Sort installed extension list to show ones with updates first
+Prompt user if there is a collision in file to language association (two extensions registering different languages for a file extension)
+Extract the integrated terminal
+Allow "empty" as a choice in snippets
+Word selection when holding Ctrl and dragging with mouse
+Provide different settings for color picker and color preview (that square showing color)
+Allow CompletionItem.detail to show syntax coloring
+TreeDataProvider: allow specifying a command to execute when a TreeItem is highlighted
+Selection, highlighting and search colors conflict with each other
+Support ligatures in terminal
+Feature request - undo after moving cursor should optionally just put the cursor back, without undoing
+Enable fuzzy matching for picker
+ibus-gtk not working
+Let user to set the mouse keys as keybindings (feature request)
+Smart Tabs - Feature Request
+introduce "pathMapping" as a more powerful replacement for "remoteRoot/localRoot"
+Inline decorations can conflict with one another
+Better verbosity in errors with extensions
+Create an option to position the intellisense parameter info top or bottom.
+Allow to hide editor title section entirely (tabs, breadcrumbs)
+Git: Support commit message intellisense
+[folding] Automatic function/method folding
+Allow to name workspaces
+Some punctuation causes incorrect wrapping when followed by quote.
+Missing "Set Explorer's Views Configuration as Default" option
+Group Policies (GPO) support
+MSI based Windows setup
+Feature request: Add "Open with VS Code" to Windows Explorer without reinstall
+Synchronized Scrolling in Split Editor
+Marketplace: add support for <details> and <summary> tags
+Inline text adornments break word wrapping
+Drag markdown preview to New Window
+[theming] Access theme's colors programmatically
+No way to have tab show as eight spaces, indent with something else
+Monolithic structure, multiple project settings
+Debug console: be able to disable automatic scrolling to end
+Add drag and drop for contributed tree views
+Add Opacity & Variable Height to Minimap
+[themes] Disable Italic Option Feature Request
+Save Proxy Credentials
+Toggle the block comment without having to select it
+Ability to not to show the outdated extensions badge
+[json] no quick suggestions when in a string literal
+Cleanup ExtensionContext.workspaceState when a workspace no longer exists
+Can't drag selected text with Ctrl to second file
+[GRIPE] "editor.mouseWheelScrollSensitivity" setting is not respected while making a text selection
+SCM: Support altCommand for SCM resources
+Provide an API to show hover-like tooltip
+Show externalised strings in extension editor contributions tab
+[folding] show comment first line for folded sections
+Be proactive about defending against unauthorized telemetry collection
+multiCursorModifier should be ctrlCmd by default for *nix users
+Add more progress UI locations, e.g editor and sidebar
+Color Picker: Pressing RETURN should accept the current value and dismiss the picker
+Change all occurrences in a single 100MB line leads to a crash when autosave on
+Inspector loaded scripts: Hide <eval> for scripts from the debug adapter
+Allow to auto resize a custom view or take initial size as input from custom view contributions.
+[icons] Support to allow re-using VSCode icons in user extensions
+Incorrectly flag property "cwd" as not allowed for node attach in launch.json.
+cant find \r in regex mode
+Support workspace projects under different colors in sidebar and tabs
+Git: Support interactive rebase
+[html] provide rename for embedded JavaScript
+Installer Not Using Windows "Restart Manager" ?
+Support large documents in extension host
+Keyboard shortcut chords with bare shift
+Look up word definition on Mac OS Sierra behaving strangely with VS Code text editor
+Add support for different fonts in the same file
+Expose debug status
+Show tooltip bellow the mouse cursor, instead of above it
+Can the VSCode gutter be made smaller, i.e., decreased size/width?
+Add border options to `selectionBackground`
+Git: Support editing the commit message in a text editor
+Cannot disable extensions when launching with --disable-extensions
+Dim or otherwise indicate "inactive" editor/terminal
+Make the scroll beyond last line show to two lines of code at the top, not one
+Cannot move last cursor position when using multi-cursor
+Debugging: Add support for annotating stack frames with icons
+Detect renames of files and folders and handle them
+Tasks - show the number of detected/matched problems in the terminal output
+Change Vertical Scrollbar Width
+WorkspaceConfiguration.update doesn't work on non-existant settings, but inspect does.
+Show status when updating VSCode and extensions
+Show suggestion details always at the bottom
+Add events for copy/paste to allow language extensions to bring using/import statements along
+Language services should be able to provide debug console IntelliSense
+Highlight selected text is not applied to all opened files
+Problem matcher errors are unhelpful
+Provide global setting to specify folder with workspace configuration if .vscode doesn't exist in workspace folder
+Include cwd in terminal selector dropdown
+Intellisense suggestions should display an horizontal scrollbar if needed
+auto indenting issues with C# files
+Allow users to choose the character to display invisibles
+Tasks: Consider introducing "Add Configuration..." like in debug
+Selection of problem matcher is not very intuitive when running a task
+[Feature request] Hide cursor while typing
+Disable auto workspace settings
+[folding] Allow to show amount of lines folded
+feature-request: possibility to change the size of description popup
+[themes] Add `editor.findMatchForeground`
+Uncomment block when caret at any position in that block [feature request]
+Improve find in terminal
+Allow changing the background colour in StatusBarItem
+Feature: Setting to hide Vertical Scroll-Bar when the Minimap is Visible
+Add support for BrowserBack and BrowserForward
+[css] Use CSS custom properties imported via @import
+Give options to assign more text weights in `tokenColors`
+Add "line_padding_bottom", "line_padding_top" like sublime text
+Option to autohide minimap when in split editor view
+[theme] Request the feature: "editor.lineHighlightForeground".
+Text input using IME become out of wrapped editor
+Provide Task Runner viewlet
+Add weight/priority to code lens providers
+Activate extension with workspaceContains when a matching file is added to the workspace
+Feature: Copy all in debug console as plain text
+[decorations] Support hover decorations over the line numbers (i.e. gutter)
+See values in dec or hex in the debugger
+Include support for system-wide mandatory/default settings
+Have ctrl+click work the same way as in Visual Studio
+Mac services not picking up selected text from editor
+Align explorer sorting with platform sorting
+Add a way to bind a keybinding for a command from the F1 list
+Consider allowing to provide context menu commands in code
+Extension editor: scroll position is not restored.
+Add option to use windows keymap on MacOS
+Feature Request: Zero-latency Typing
+Task Quick Open Sort Order
+Improve ranking of elements in quick open
+Explorer / Opened Editors Sorting
+Match whole word doesn't work in search for non-latin characters
+macOS Native Tabs not restored when restarting app
+Status bar: allow extensions to contribute context menu entries on items
+Variable substition: ${packagePath}
+PreLaunchTask: support passing parameters from configuration to preLaunchTask
+Uninstall or Disable Multiple extensions at once
+Add a jump back command from goto definition
+API: Support glob pattern "**/!(*.min).js" for file watchers
+Inconsistent undo/redo behavior in Ctrl-F field
+[macOS] Make keyboard shortcuts input source-agnostic
+Feature Request: allow extension filter exclusions
+SCM: Support past commit messages navigation
+See git diff of two files in horizontal layout
+Feature Request: Reload when extensions update finishes
+Allow multiple views to show at the same time
+Semantic scroll - keep containers headers visible when scrolling
+VS Code keyboard shortcuts suggestion to learn
+Create snippets from editor selection
+Continue comment when enter is pressed
+Can't see Newlines when Render Control Characters is turned on
+Marked brackets range on scrollbar
+Show quick pick always in context where it was opened
+Find in Files "files to include" override .gitignore
+Multiple cursors + Word wrap
+Git: Support file stat mode changes
+Add support for local history
+[html] Javascript intellisense in inline scripts from external references
+[json] use the schemastore catalog
+CodeLens on hover
+Feature request: Drag files for automatic relative paths
+[theming] Theming for workbench icons
+[theming] Allow theming workbench fonts
+SCM: Add "stage ranges" action/button to diff view
+Allows conflicting key bindings
+[theming] Separate workbench theme and syntax theme
+Improved search in "Go to file" panel
+[html] provide translations of tag documentation
+Stop rendering pseudo-italic fonts when italic is not available
+Copy/replace/add left <-> right in compare views
+[Feature Request] Problem view should update immediately when compile problems occur
+[theming] when completing color keys in settings, fill in current value
+Support to attach to an electron spawned node process using the picker
+Problem saving keybindings
+can't copy multiple 'problems'
+Render current line highlight in the gutter for multiple selections
+Support development extension installations
+Provide for cancellation of extension download
+full width tab glyph for editor.renderWhitespace
+keyboard shortcuts to choose an intellisense suggestion?
+SCM: Support keyboard shortcuts
+[json] option to format code with leading commas
+Global task properties
+More font options
+Allow to reset “Don't Show Again” preference
+[json] preserve comments of last property when adding a new property
+[html] Add Surround With
+Feature: The ability to provide a workspace relative path to Recommended Workspace Extensions
+Provide extension recommendations for files in workspace
+[folding] Folding HTML tags should hide the closing tag.
+Support args for `editor.action.trimTrailingWhitespace` command
+SCM: Support workspace diff navigation
+Ability to detect a Mean project and provide extension recommendations
+[Feature] Option to disable cmd+click trigger for goToDefinition
+Symbol outline multi-line highlight is visually inconsistent when interleaved with code lens
+Terminal confirmOnExit should only warn when the terminal shell is running something
+Line height and font size are too large by default
+Extensions: Allow for multiple publishers in extension / display on Marketplace
+Bind all keybindings with numbers also to the numpad keys out of the box
+Allow project specific keybindings
+Several fonts at the same time for different elements of the code
+Keyboard layout changes are not detected on Linux
+showInputBox should have the ability to have an array of quickpick options as well
+Extension Editor: Show default values properly when they are not simple type in Settings contribution
+Cursor up/down jumps visually left/right when using a proportional font
+Feature: option to configure renderIndentGuides
+Mouse down (drag) + hitting PgUp, PgDn, Home and End should continue selecting
+[json] formatter should keep empty lines
+Support Platform Specific Extensions
+Terminal task runner: multiple parallel tasks and the spinner
+Provide command line switch that specifies a path to custom settings.json file
+Allow to configure editor auto reload behaviour
+Add dropdown for search input history
+`editor.fontFamily` in settings should suggest list of available monospace fonts
+Support open on fullscreen when open vscode via CLI
+Linkify terminal paths without any path separators
+Allow sorting keybindings by column in new keybindings editor?
+Stack for goto definition to allow return from it
+Focus current symbol when opening symbols list
+Allow to open a workspace without restoring any state
+Add padding when pressing space between a pair of curly braces
+Perhaps not an issue regarding minmap hover-appear request
+Git: Support cherry-pick
+Keyboard combination Alt + arrows in the editor
+Feature request: highlight problem indicator with color when problems exist
+Support title from xterm.js
+Investigate better UX for previewing things
+Trigger save even if file is not dirty through API
+Outline matching selections instead of highlight
+Feature Request: Support for private marketplace/gallery
+Add option to always show word based suggestions
+Offer to open changelog when an extension is updated
+Move lines actions are not multicursor aware
+expandLineSelection is not a command
+Feature Request: Autosave on build
+Provide capability for Find to search only visible text
+When using Run to Cursor, then there is no inline instruction pointer decoration
+Extensions viewlet: Ability to run individual extension management actions using a keyboard shortcut
+[extensions] Add support for a RelatedFilesProvider
+Allow to swap left and right hand side in diff editor
+[Feature Request] Undo branches
+Pasted text copied from an interactive terminal should retain colors
+Option for seeding find string from editor on ctrl + f
+Allow to create multi-cursor with keyboard
+Feature Request: Expose LanguageConfigurationRegistry as extension API
+[themes] different themes for different filetypes
+Create Categories/Groups for extensions.
+Search: target particular set of files
+Add a "select all" button to the find UI
+Git: Support GitHub 2FA
+Offline spell checker for VSCode
+search results in a tree view
+[json] Improve combining schemas not working with 'additionalProperties: false'
+Code snippet control indentation
+Retain terminal processes between window reloads
+Suggestion - Add a line-spacing or line-margin option
+Simplify snippet translation
+Restrict quick open file to project files
+Add action to show inline all diagnostics in file.
+Make extension resources uniformely available in the app
+Copy line does not work properly with multi-cursor
+Feature request: Extension size information
+Allow to provide colorizers for specific output channels
+Customizing the rendering of matching brackets
+Composed unicode characters break cursor motion
+Richer `files.exclude` config options like 'hide' or 'grayOut'
+Feature request: Search/replace preview should show differences
+Skip Files not working after initial attempt at stepping into skipped code
+Options for automatic indentation
+Git Diff Doesn't Show Changes in New Line Characters
+The replace string should support additional escape char sequences
+[folding] Fold selection
+Multiple decorations on end of line
+Ctrl-Shift-B does not correctly detect when a process exits when sub-processes are started.
+Setting to skip keyboard shortcut contributions of extensions
+Persisting "disable by workspace" settings in source control
+Multiselect via ctrl+d case insensitivity makes it useless
+Allow to cycle through previous typed values in quick input picker
+[html] Auto insert Quote when i type equal sign (=)
+Allow extension commands to define the behaviour when Alt modifier is pressed
+Evaluate selected expression on hover while debugging?
+Separate themes from other extensions
+More verbose updates
+Preserve undo/redo buffer when saving a file "as" or untitled file
+Expose -webkit-text-stroke (Fonts are too thin on Ubuntu 16.10)
+Add extension point for custom "prefix behaviors" in command palette
+Expose language display names to extension API
+Have a setting for the extensions folder location
+Prevent editing of read-only files
+Add support for additional global config files (in addition to settings.json)
+[json] Inconsistency between files.insertFinalNewline and Format Document
+Add support for capture groups in onEnterRules
+Make CommandPalette position configurable
+Add SmartIndent capability
+Maximize current file/tab/editor
+Activity bar: show position viewlet will move to while drag and drop
+Compound keyboard shortcuts should be delimited by commas
+CLI option to update extensions and view outdated ones
+Multi-cursor mode: Multi-Cursors gone after paste
+Parameter Hints shown inline all the time (like IntelliJ)
+Themeing for editor squiggles background
+[folding] retain folded state on copy/paste
+Customize Codelens Font
+Restore previously opened folders/workspaces when opening a specific folder/workspace
+Add ability to extend from other settings files
+Highlight matching quotes, double quotes and backticks
+Keyboard shortcut missing for some file operations
+Allow extensions to publish beta releases and users to opt-in to them
+Tooltips gets in the way of general operations in the editor
+Simple way to temporarily turn off exclusions for QuickOpen files
+Emit first key chord when timeout or wrong second key chord
+Create a "TypeHierarchyProvider" api for visualising type hierarchies
+API to determine whether a TextEditor is a diff view
+How to enable / disable extension from API or commands
+Persist an extensions manifest file
+Configure Explorer to show and distinguish generated/derived/related files
+Feature Request: Vertical select at the end of line
+Ability to publish prerelease build streams of extensions and opt-in
+API Access to "Open Editors"
+Remember undo history on hot-exit
+Side-by-Side diff - collapse missing lines, maintain vertical alignment
+SCM: Change the focus to the next file after staging a file
+Option to render proper scrollbar
+feature request: support disjunction/or in when-clauses for keybindings
+Find in Selection Does Not Support Multiple Selections
+Add "find all occurences" in the current file feature
+Extension Usage Telemetry
+Support KeyUp Bindings
+Command palette should rank results with closer search terms higher
+Add an option to confirm before quitting
+Keep previously opened files when opening a single file instead of clearing all files
+[file icons] Support for extending the file icon theme from an extension
+Add support for contextmenu key
+vscode.extensions Doesn't Update On Installing / Removing / Disabling Extensions without restarting
+Better visual indication that a task is currently running
+Feature request: configure tooltip max width
+Creating a keymap extension - why is `key` necessary?
+Virtual Space is not implemented.
+Feature Request: Show all errors and warnings in project for all files, not just opened ones
+Git: Support git with private key password
+Horizontal scrollbar doesn’t shrink after the long line getting shortened
+Multiple extensions registering the 'type' command
+Using capslock in a keybinding still toggles capslock
+Render non-breaking space when renderWhitespace is active
+Trim trailing whitespace only on changed lines
+Allow workspace relative files.associations setting
+[html] closing </script> tag is not proposed
+Extension proxy support
+[icon-themes] Support for globs in file associations (Icon themes)
+Allow to specify the tsconfig.json filename explicitly
+Add sorting to Open Editors list
+Mac: Provide a setting to hide the title bar and inline the window controls
+Possibility to display line endings in text area
+Provide live preview of HTML like Adobe Brackets
+Consider surfacing mapped variable names
+Task framework should show status icon about watching tasks
+Request: option for find/nextMatchFindAction to search forward only, previousMatchFindAction to search backward only
+Trigger language auto detection mechanism
+[json] validation doesn't work offline
+Move line up/down should support multiple cursors
+Support for RTL languages
+Allow to minimize VS Code to tray
+Feature request: 'Ignore comments' checkbox in the 'Find' dialog
+Provide guidance to language and extension authors
+Debug console architecture
+Show an information dialog if settings can not be accessed
+Support word wrap in the diff editor
+Editor selection colors should be simplified
+Remove whitespace and indent to the right spot when the line has more whitespace than necessary
+Replace with newline works only when regex mode is on
+Align more keybindings with Mac conventions
+Suggestion: Start VSCode debugger from the command-line
+Auto hide panel
+Release in the Microsoft Store
+Improve editor.trimAutoWhitespace or cursor navigation
+Make task templates configurable
+Glob matching should be case insensitive
+Can't match multiline occurrences
+[snippets] Cannot override/disable snippets defined in extensions
+Execute functions during snippet expansion
+Add support for "fn+" function key commands in custom keybindings
+Tabs for integrated terminal
+Lift `setContext` from a command to proper API
+Include more icons
+Suggestion: Automatically show the Problems panel if problems exist (and hide similarly)
+bug: tabSize affects indentation
+Allow for floating windows
+Git: Support git-bash ssh agent for Windows
+Allow to bring up a dialog with multiple inputs
+Close tab {count}
+Cursor Up and Down should place the cursor at end of line if it's current state is end of line
+Indent Guides Have Breaks Where CodeLens UI is Rendered
+API hooks for existing find/replace UI
+feature request: inline incremental search
+find action: support multiple cursors
+Visual Studio Code should update itself silently
+Make history navigation aware of editor groups
+Test Runner Viewlet with an Extension API to plug into [Enhancement Request]
+Allow to save a list of opened editors in a group and switch between them
+Git: Support line staging
+Allow to undo file operations done in the explorer
+Add suggestions for key binding when clause contexts
+User configurable menus
+Offer code mark styles and gutter marks
+Double click after curly brace to select the content
+support font-size in DecorationRenderOptions
+Show quick open results as preview while navigating through them
+request: ease-out transition for TextEditorDecorationType (extension API)
+Make it possible to use drag and drop in a webview
+Investigate removing Max results limitation for Search and replace results
+Tab dragging should show where the tab will be inserted, not which tab it will be "replacing"
+Replace all as global editor action in replace diff view
+Cannot select text from deleted lines diff view
+Allow to drag a file out of the window to open a new window
+additional options for `editor.selectionHighlight`
+problemMatcher vs zero-based column values
+Long Text longer than 10000 letters wrapped with [...]
+[css] Support <angle> units icon in CSS
+keybindgs.json "key" does not tolerate spaces
+Mouse Wheel Scrolling Ignores Mouse Control Panel Settings
+Implement editor undo stack serialization
+Explicitly refresh active text editor from extension api.
+scrollBeyondLastLine : support integer value
+[quick fix] ⌘. twice to quickly apply the quick fix
+take advantage of tsserver model of code for faster TypeScript builds
+need some visual feedback when the task is done (add post action to tasks)
+enable keychords of 3 steps
+allow for cascading peek
+Auto closing brackets should try to balance brackets
+[css] show all variable definitions for Go To definition
+[css/less/scss] var should be a suggestion in intellisense
+Add dropdownlist when too much statusbar buttons
+Allow to open different windows with different permissions
+Extension Optional Dependency
+File Nesting
+Middle mouse button scrolling
+isWatching task as preLaunchTask in launch.json
+Git: Symlink support
+Support to print the editor contents
+Handle pasting code from column selection specially
+Decorations with gutter icons hide breakpoint icons
+setup on osx: automatically move to applications folder
+Git: Use VS Code as merge editor
+Allow to scope settings by platform
+OnClick event on Gutter
+VSCode do not support .sublime-syntax which is more powerful than .tmLanguage
+Improved column selection (Alt+select)
+Add support for mixed tab/spaces indentation
+Word completion should include words from other opened files
+How to detect shift shift key in VSCode?
+Allow to add file reference with drag and drop.
+[rtl] Add Right-to-Left editing
+Add read-only mode
+Define compatible platform for extensions
+Add extension deprecation and redirection
+Macro recording
+Debug Console should support find
+Preview the changelog when looking for outdated extensions
+Add suggested completions for key chords
+Support Elastic Tabstops
+Render errors & warnings in gutter
+Include Code version number in download zip file name
+Allow setting a command event instead of an shortcut key in keybindings
+Add setting to automatically hide the side bar
+Hover message/tooltip on ruler when defining decorators
+Ctrl-K must cut up to the end of the line into the clipboard
+Extensions should be able to contribute file templates via a new UI feature - New File Template ...
+Add support for "e.key" keybindings in extension's `contributes.keybindings`
+Function breakpoints - protocol allows condition but no UI to set condition
+Suggestion: collapse unchanged regions in diff
+Get selected file/folder in the explorer view
+[themes] Themes don't support background styling
+[folding] Collapse ending brace to the same line
+Keep IntelliSense open when moving cursor through already written identifier
+Install/Update/Uninstall extension should reload all Code instances
+Custom peek widgets
+Allow customization of mouse shortcuts
+API: Allow to use the file watcher for aribitrary folders
+regex sub match math
+Show other invisible characters with renderWhitespace option
+Allow extensions to get a LanguageConfiguration for a language
+Add export, import settings
+Find Widget doesn't trap focus
+Support variables when resolving values in settings
+Navigate Soft Tabs As If They Are Hard Tabs
+Automatically Activate Markdown Preview
+[ExtensionDev] Expose API to get at file system locations
+activationEvents.workspaceContains doesn't fire for directory
+Git: Automatically insert line breaks in git commit messages
+Support to open a project folder in multiple VS Code windows
+postLaunchTask would be very useful
+Multi page selection in debug console
+Proposal: Ability not to auto-close comments
+Add fuzzy search to commands in palette
+Add some API to support GUI customization
+Proposal: Add mnemonics to context menu items
+Universal Language Injections
+shift+tab should only deindent when multiple lines are selected or the cursor in the line's starting whitespace
+Task and/or Extension Command User Arguments On Entry
+Allow editor commands to be registered in extension code without adding to package.json
+problem matcher that clears only for changed files
+Don't suggest snippets in void places
+Support contributing different keybindings based on keyboard layout
+vscode/releases page missing binaries
+Mac OS X :: "Open Folder With" VS Code
+Support regex in files.exclude => when
+Selection Highlight stops after 1000 matches
+Insert key doesn't switch to overtype/overwrite mode
+Explore: Integrated TypeScript building/transpilation
+Don't activate dirty file indicator if the file state matches the previous written state
+Macro like keybindings
+Exclude all files except for...
+Provide encoding-related APIs for editor extensions
+Hide empty folders after apply file exclusions (user settings)
+Native node modules from extensions
+Link to a file position in Output Channel
+Support autoClosingPairs for strings like `begin` and `end`
+Can I get scope / scopeRange at a position?
+Support more options for formatting text and inserting links to commands in Output Channel
+Allow to change the font size and font of the workbench
+Find widget only highlights the first 19999/20000 matches
+[html] intellisense should be more context aware
+Support workspace extensions
+[grammars] provide alternative to TextMate grammars
+Better drag and drop / clipboard integration of files across applications
+Provide option to opt out of line ending normalisation for files
+Git: Support git history in VSCode
