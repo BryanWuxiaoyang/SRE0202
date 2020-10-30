@@ -1,0 +1,25 @@
+Support detail text in settings editor dropdown
+Option to change the title of the integrated terminal in vscode?
+Use sound effects to improve accessibility
+Debug toolbar: allow to position anywhere
+Emmet combine "Wrap Individual Lines with Abbreviation" and "Wrap with Abbreviation" commands
+Terminal passthrough commands/keyboard shortcuts
+Perf telemetry for completions
+Add option to make task panel persistent (not accidentally closing it by any key press)
+Introduce Theme for proton color blind people
+Send `vscode.workspace.onDidCreateFiles` events for folders
+Views with focus should be treated the same as hover
+Allow horizontal scrolling WITH word wrapping enabled!
+Move tab (left|right)
+A command to open a workspace and navigate to a file in it
+A keybinding when-clause for if the cursor is on a followable link
+Allow file system provider schemes to participate in history even after close
+Finalize FoldingRangeProvider.onDidChangeFoldingRanges
+Multi root workspace - Variable for the current file's workspace directory
+Picking a different typescript.tsdk from a list / use in a multi-root workspace with yarn2 pnp
+Customize links discovery/handling in Debug Console
+Active indent guide scope improvement
+Provide dedicated keyboard shortcuts for changing active stack frame
+Custom Editors should have ability to use normal diff view
+Create an IExecutionService which should be the only bottleneck for resolving user shell env
+Re-run last launch command with state
