@@ -1,0 +1,159 @@
+no,"	info","	status","	version	","importance	","hardware	",my importance
+569360,Extend Connection Constraints to valid ANY compatibility rules (1131 implicit casts),UNCONFIRMED,1.13.0,P3 normal,PC Windows 10,L
+569369,Change location of layout and reset to menu entries,UNCONFIRMED,nightly,P3 normal,PC Windows 10,L
+569388,Type info section for structs,UNCONFIRMED,1.13.0,P3 normal,PC Windows 10,M
+569411,MSRC Case 62416 Elevation of Privilege security vuln due to TLS implementation error for hostname validation,UNCONFIRMED,unspecified,P3 normal,PC Windows 10,H
+569372,TimoutException on HyperlinkDetector especially when just opening the file,UNCONFIRMED,unspecified,P3 normal,PC Windows 10,L
+569436,[CDO] Allow to parse and edit XMI Resources stored as text files in CDO.,UNCONFIRMED,unspecified,P3 normal,PC Windows 10,M
+569496,Wrong terminology for Gerrit name used in Variables dialog,UNCONFIRMED,1.18.0,P3 enhancement,All All,H
+569513,Setting up platform-ui SDK environment fails.,UNCONFIRMED,1.18.0,P3 normal,PC Windows 10,H
+569449,Re-license EPL-1.0 to EPL-2.0,UNCONFIRMED,unspecified,P3 normal,PC Windows 10,VL
+569505,Edges display - Bug,UNCONFIRMED,unspecified,P3 normal,PC Windows 10,M
+569507,Edges display using containers - Bug,UNCONFIRMED,unspecified,P3 normal,PC Windows 10,M
+569447,Cannot open MarketPlace,NEW,unspecified,P3 normal,PC Windows 7,M
+569510,Use Eclipse Platform for system file Icon,NEW,unspecified,P3 normal,PC Linux,L
+569514,AutomationSystem editor should handle FB markers,NEW,unspecified,P3 normal,PC Linux,L
+569380,Impossible to add some available components through Textual Editor in ES,NEW,1.2.0,P3 normal,PC Windows 10,H
+569393,Switch to EPL 2.0,NEW,0.12.0,P3 normal,PC Windows NT,M
+569431,Concepts names have too long names,NEW,1.3.1,P3 normal,PC Windows 10,L
+569450,Functional Chains as Functional Primary Assets,NEW,0.9.1,P3 normal,PC Windows 10,L
+569451,Customisation of Security Levels,NEW,unspecified,P3 normal,PC Windows 10,M
+569477,Add a migration contribution for trace resources,NEW,0.12.0,P3 normal,PC Windows NT,L
+569492,When using Capella 1.4.2 with the 1.4.3 XHTML Dropin - select exports are not generating image maps,NEW,1.4.3,P3 normal,PC Windows 10,M
+569542,Broken file/image links added in a model element description causes generation failing,NEW,1.3.1,P3 critical,PC Windows 10,VH
+569517,Since Eclipse 2020-09 cmake support is unusable,NEW,10.0.1,P3 normal,PC Linux,M
+569440,[C++17] Implement parser support for pack expansions in using-declarations,NEW,10.1.0,P3 normal,PC Linux,L
+569466,Platform JIPP verification build not started by gerrit,NEW,unspecified,P3 normal,PC Linux,L
+569490,[mentors] Mentor required for Eclipse ComMA,NEW,unspecified,P3 normal,PC Linux,L
+569362,Invalidated object returned when referencing non-cacheable entity,NEW,2.7.5,P3 major with 3 votes,All All,VH
+569504,hint what to do next upon failed pull,NEW,unspecified,P3 normal,PC Windows 10,M
+569532,rebase result dialog freezes Eclipse while build is in progress,NEW,unspecified,P3 normal,PC Windows 10,H
+569526,"Avoid showing ""Show with Git"" in CTRL+3 for already shared projects",NEW,unspecified,P3 normal,PC Linux,L
+569540,[Passage] rename the template of Licensed E4 RCP,NEW,1.1.0,P3 normal,All All,L
+569435,"Uninstalling ""main"" product from an EPP deletes eclipse.exe and completely messes up the installation",NEW,unspecified,P3 normal,PC Linux,M
+569434,Osgi/BuddyClassing loading broken with Java-11 ThreadContextClassloader and ForkJoinPool,NEW,unspecified,P3 normal,PC Mac OS X,M
+569442,Wrong AST resolution on JDT,NEW,4.18,P3 major,All All,H
+569498,"field ""cannot be resolved to a variable"" in ternary expression as method argument with String expression type",NEW,4.18,P3 normal,PC Linux,M
+569512,CCE in State.writeBinaryLocations,NEW,4.18,P3 normal,PC Linux,M
+569515,.classpath is being changed inappropriately on save altering JDK version,NEW,4.17,P3 normal,PC Windows 10,M
+569516,.classpath is being changed inappropriately on save removing annotationpath,NEW,4.17,P3 normal,PC Windows 10,M
+569522,[15] permitted subclass doesn't work with generics,NEW,4.18,P3 normal,PC Linux,M
+569533,while loop bug if condition is not true anymore,NEW,4.18,P3 normal,PC Windows 10,M
+569543,Can't create project fails,NEW,4.19,P3 blocker,Macintosh Mac OS X,VH
+569413,"error: ""Evaluations must contain either an expression or a block of well-formed statements",NEW,4.18,P3 normal,PC Linux,M
+569484,Java source code window does not redraw,NEW,4.17,P3 critical,Macintosh Mac OS X,VH
+569486,InterruptedException when working with Java Debug View,NEW,4.18,P3 normal,PC Mac OS X,M
+569475,[formatter] New annotations wrapping settings is reset every time,NEW,4.18,P3 normal,PC Linux,L
+569387,Simple JUnit5 test fails with java.lang.NoClassDefFoundError: org/junit/platform/commons/util/ClassNamePatternFilterUtils,NEW,4.18,P3 normal,PC Windows 10,L
+569471,Adding project to build path removes all exports,NEW,4.17,P3 normal,PC Linux,L
+569495,JGit allows Push to update checked out branch (receive.denyCurrentBranch and receive.denyDeleteCurrent not implemented),NEW,unspecified,P3 normal,PC Windows 10,L
+569430,Updates to CONTRIBUTING file add LICENSE,NEW,1.1,P3 normal,PC All,L
+569366,Retire outdated Git repositories,NEW,unspecified,P3 normal,PC Linux,L
+569527,PatternSearchJob calls unnecessary SubMonitor.done(progressMonitor);,NEW,4.14,P3 normal,PC Linux,L
+569432,NPE in LifecycleMappingFactory.writeWorkspaceMetadata(),NEW,1.16.0,P3 normal,PC Mac OS X,M
+569444,[16] Inner classes to have static members,NEW,4.18,P3 normal,All All,L
+569385,ClassCastException in Sequence MoveSwitch,NEW,6.3.4,P3 normal,PC Mac OS X,L
+569509,jUnit tests get stuck when the URL of the test repository is invalid,NEW,unspecified,P3 normal,PC Linux,M
+569502,Parser hangs during completion / reconcile ?,NEW,unspecified,P3 normal,PC Linux,M
+569528,API tools doesn't warn if a bundle does not exist in current baseline,NEW,4.18,P3 normal,PC Linux,L
+569428,Run as JUnit Plug-in Test adds --limit-modules from .classpath,NEW,4.15,P3 normal,All All,L
+569433,Cleanup execution environments,NEW,4.18,P3 normal,PC Windows 10,L
+569535,Invalid certificate configuration on archive.eclipse.org,NEW,unspecified,P3 major,PC Windows 10,H
+569371,Changing a launch configuration's shared file location to a nested project directory causes launch configuration to be lost,NEW,4.17,P3 normal,All All,L
+569407,Committers involved in an Eclipse release should be mentioned in the About Dialog,NEW,4.17,P3 enhancement,All All,M
+569427,Add new smoke test configurations for ubuntu 20.10,NEW,4.18,P3 normal,PC Windows 10,L
+569439,ContextInjectionFactory.make() and garbage collection,NEW,4.17,P3 normal,All All,L
+569546,"Provide ""Open Workspace"" menu item to launch multiple workspaces from Eclipse IDE",NEW,4.19,P3 enhancement,All All,M
+569361,Support Big Sur (macOS 11),NEW,4.18,P3 normal,PC Mac OS X,L
+569383,[WIN32] FocusIn listener on Text field does not select all text with selectAll call,NEW,4.17,P3 normal,PC Windows 10,M
+569455,Screen keyboard not supported on SWT widgets,NEW,4.18,P3 normal,PC Linux,L
+569468,[GTK3] SWT/GTK3 crash after opening windows,NEW,4.9,P3 critical,PC Linux,VH
+569469,AbstractTreeViewer collapseAll() sets selection on first element on WIN,NEW,4.19,P3 normal,PC Windows 10,L
+569494,[gtk][webkit]Code Content Assist Hangs In JDT,NEW,4.17,P3 normal,PC Linux,L
+569529,[Cocoa] Link and multi-line Text hog CPU in dark theme,NEW,4.19,P3 normal,Macintosh Mac OS X,L
+569456,Selecting emoji/character in Gnome search and then pasting in editor doesn't work,NEW,4.18,P3 normal,PC Linux,L
+569375,Dark Mode/Theme UI Unusable in Ubuntu,NEW,4.17,P3 normal,PC Linux,L
+569418,[Big Sur] inspect cannot display,NEW,4.18,P3 normal with 1 vote,PC Mac OS X,M
+569421,Remove com.ibm.icu from org.eclipse.e4.rcp feature,NEW,4.17,P3 normal,PC Windows 10,L
+569423,Improve / allign quick switches (CTRL+F6/ F7/F8) with Ctrl+3,NEW,4.17,P3 normal,PC Windows 10,L
+569425,Add Child menu in e4 editor also for imports,NEW,4.17,P3 normal,PC Windows 10,L
+569426,Model Spy : extract into fragment does not work,NEW,4.17,P3 normal,PC Mac OS X,M
+569448,UI configuration gets overwritten resetting layout,NEW,4.18,P3 normal,PC Windows 10,M
+569458,Umbrella Bug to record infrastructure issues during 4.19,NEW,4.19,P3 normal,PC Windows 10,L
+569461,hangs on xhtml files,NEW,4.17,P3 major,PC Linux,M
+569472,Cacheable HTTPS response,NEW,4.19,P3 normal,All All,L
+569474,TLS cookie without secure flag set and Cookie without HttpOnly flag set,NEW,4.19,P3 normal,All All,L
+569476,HTML does not specify charset,NEW,4.19,P3 normal,All All,L
+569478,Cross-domain Referer leakage,NEW,4.19,P3 normal,All All,L
+569480,"Some ""Search {pattern} in files"" in Show Action",NEW,4.19,P3 enhancement,All All,M
+569497,Iportaing a project in the workspace folder uses the folder name instead of the .project file,NEW,4.19,P3 normal,PC Windows 7,L
+569511,Preferences filter not working and rendering incorrectly MacOS BigSur,NEW,4.17,P3 major,Macintosh Mac OS X,H
+569403,Using some style elements in Sequence Diagram raise an error,NEW,unspecified,P3 normal,PC Windows 10,M
+569470,Drag and drop sub node into a container raise errors in ODTE 11.4,NEW,unspecified,P3 normal,PC Windows 10,M
+569386,ClassCastException while deleting elements linked to a Note on a Sequence diagram,NEW,6.3.4,P3 normal,PC Mac OS X,M
+569473,NPE in Copy format to existing/new diagram based on source to target semantic elements mapping,NEW,6.4.0,P3 normal,All All,M
+569391,Invalid selection provided by CrossTables on domain based cells,NEW,6.3.4,P3 normal,PC Windows 10,L
+569422,Uninterpreted Java extension service in odesign to fill a column of a Table representation,NEW,unspecified,P3 normal,PC Windows 10,L
+569443,Command for getting the sources of a module,NEW,unspecified,P3 normal,PC Windows 10,L
+569457,Add support for headless build and export of Titan Java projects,NEW,7.1.0,P3 enhancement,PC Windows 10,M
+569520,Infinite loop when parsing invalid code,NEW,2.24,P3 normal,PC Windows 10,H
+569379,Build fails on Tycho 1.7.0 2.x,NEW,unspecified,P3 normal,PC Windows 10,H
+569389,Remove code that supports target state dependence on preferences,NEW,4.18,P3 normal,PC Windows 10,M
+569394,Remove IModelProvider from PDE,NEW,4.18,P3 normal,PC Windows 10,M
+569536,Associate CORE-V IDE CDT Github repository with CORE-V Core project,NEW,unspecified,P3 normal,All All,L
+569518,Add additional CNAME entry for vorto.eclipseprojects.io,NEW,unspecified,P3 normal,PC Mac OS X,L
+569525,Update Gerrit ECA plugin to new version (1.0.14),NEW,unspecified,P3 normal,PC All,L
+569373,Duplicated nodes in Debug/Run Configurations UI - part2,ASSIGNED,4.18,P3 normal,All All,L
+569370,Fix help message in AnalysisSelectorFilteredItemsSelectionDialog,ASSIGNED,unspecified,P3 normal,PC Windows 10,L
+569462,Quickviewer and ChartViewer should take flags into account,ASSIGNED,unspecified,P3 normal,All All,L
+569538,Comparator error in I20201208-0300,ASSIGNED,4.18,P3 normal,All All,M
+569503,"Integrate ""Show Command Line"" with OT-adjustments",ASSIGNED,2.8.1,P3 normal,PC Linux,L
+569493,[RJ-Servi] Shutdown R engine of nodes gracefully (Backport to 4.2),ASSIGNED,4.2.1,P3 normal,All All,L
+569521,An option in tycho configuration that let tycho always use cached content of the metadata.,REOPENED,unspecified,P3 normal,PC Windows 10,L
+569397,[Tests] Update SyncUtil's javadoc,RESOLVED FIXED,Next,P3 normal,PC Windows 10,L
+569445,Runtime CFG preparser missing quotes around charstring,RESOLVED FIXED,unspecified,P3 normal,PC Linux,M
+569392,Bump to 0.12.0 and migrate to Capella 5.0,RESOLVED FIXED,0.12.0,P3 normal,PC Windows 10,L
+569429,Change String based constants to enums,RESOLVED FIXED,1.6.0,P3 normal,PC Windows 10,L
+569508,Duplicate items in E*L editor outline view,RESOLVED FIXED,unspecified,P3 normal,PC Mac OS X,L
+569368,Unable to read repository at http://download.jboss.org/jbosstools/updates/stable/luna/content.xml.,RESOLVED WORKSFORME,unspecified,P3 normal,PC Windows 10,L
+569479,File > New > Other... > Launch Targets > Launch Target throws ClassCastException,RESOLVED FIXED,10.0.0,P3 major,PC Linux,M
+569481,"Support for maven target location includeSource=""true"" attribute",RESOLVED FIXED,2.1.0,P3 normal,All All,L
+569420,Drop 4 from the Eclipse 4 RCP template,RESOLVED FIXED,4.18,P3 normal,PC Windows 10,L
+569396,"Wrong message for ""pomDependencies""",RESOLVED FIXED,2.1.0,P3 minor,PC All,L
+569399,pomDependencies does not default to ignore anymore?,RESOLVED FIXED,2.1.0,P3 normal,PC All,L
+569376,[16] Local enum throwing NPE for unimplemented abstract method,RESOLVED FIXED,4.18,P3 normal,All All,L
+569453,[16][test] tests to be checked and run at 16,RESOLVED FIXED,4.18,P3 minor,All All,L
+569441,[Designer] [Real-Time] Generated code should be compatible with Python 3,RESOLVED FIXED,unspecified,P3 normal,All All,L
+569410,Eclipse installer failed to add the OSATE project,RESOLVED WORKSFORME,1.19.0,P3 normal,PC Mac OS X,L
+569524,lombok.javac.JavacAST for Lombok in eclipse IDE,RESOLVED NOT_ECLIPSE,4.18,P3 critical,PC Windows 10,M
+569412,https://www.eclipse.org/eclipseide/2020-09/ title says 2020-06,RESOLVED FIXED,unspecified,P3 normal,PC Linux,VL
+569377,Touch docs bundles for 4.18 RC2,RESOLVED FIXED,4.18,P3 normal,PC Windows 10,L
+569531,filenav_nav.gif etc references not upgraded to corresponding *.png by nested Eclipse Exit.,RESOLVED WONTFIX,4.18,P3 normal,PC Windows 10,L
+569400,Clean forceQualifierUpdate files for doc bundles,RESOLVED FIXED,4.18,P3 normal,PC Windows 10,L
+569415,Cleanup approved api list,RESOLVED FIXED,4.18,P3 normal,PC Windows 10,L
+569406,URL Decoder Exception for path parameter containing %2F,RESOLVED FIXED,4.16,P3 critical,All All,H
+569374,[patch] NPE in AttributeValueCompletionProcessor.convertToVersionProposals for invalid location,RESOLVED FIXED,4.18,P3 normal,PC Mac OS X,M
+569534,4.19 I-Build: I20201207-1800 - BUILD FAILED,RESOLVED FIXED,4.18,P3 blocker,PC Windows 10,H
+569398,"Rename button ""Archive"" to ""Move to archive""",RESOLVED FIXED,unspecified,P3 normal,PC Windows 10,VL
+569452,Make the https://github.com/eclipse/che `assets` branch a protected branch,RESOLVED FIXED,unspecified,P3 normal,PC Linux,L
+569367,Editor performance regression in 4.18 M3,VERIFIED FIXED,4.18,P3 major,All Mac OS X,M
+569437,Public PVMT & Capella 1.4.x compatibility info,CLOSED FIXED,unspecified,P3 normal,PC Windows 10,L
+569416,502 bad gateway errors when accessing consoles of gerrit builds,CLOSED FIXED,unspecified,P3 normal,PC Mac OS X,M
+569459,Windows test machine attached to Releng JIPP is down,CLOSED FIXED,unspecified,P3 normal,PC Windows 10,L
+569487,OpenJ9: Permissions request - Job Build & Cancel,CLOSED FIXED,unspecified,P3 normal,PC Linux,L
+569506,https://ci-staging.eclipse.org/simrel/job/simrel.runaggregator.VALIDATE.gerrit can't find JDK 11,CLOSED FIXED,unspecified,P3 blocker,PC Windows 7,H
+569519,UI tests fail with recommended centos-7 pod template and Xvnc as no password is configured,CLOSED FIXED,unspecified,P3 normal,All All,M
+569523,[mosaic] API Rate Limit Exceeded,CLOSED FIXED,unspecified,P3 normal,PC Windows 10,M
+569541,"A ""Freeze Bot"" Gerrit bot to use from Platform Jenkins instance to vote on all Equinox/Platform/JDT/PDE repos",CLOSED WONTFIX,unspecified,P3 enhancement,All All,L
+569424,[Scripting] Python files are not correctly forked on DnD in Rhino,CLOSED FIXED,0.7.0,P3 normal,All All,L
+569417,[Passage] Let a Remote Condition Miner be unoperable,CLOSED FIXED,1.1.0,P3 normal,All All,L
+569404,p2 ant tasks to manage local repository do not modify .xz files,CLOSED DUPLICATE of bug 504081,unspecified,P3 normal,All All,L
+569537,The main method can still be run when the java file fails to compile,CLOSED INVALID,4.17,P3 normal,PC Windows 10,M
+569381,IllegalArgumentException on some projects when doing Maven -> Update,CLOSED WORKSFORME,1.16.0,P3 normal,PC Windows 10,M
+569499,New TEst,CLOSED WORKSFORME,unspecified,P3 normal,Macintosh Mac OS X,M
+569454,"No ""Insert Emoji"" context menu option for editors",CLOSED WONTFIX,4.18,P3 normal,PC Linux,L
+569467,[BigSur] Editable Comboboxes: can't select in popup,CLOSED WORKSFORME,4.18,P3 normal,PC Mac OS X,M
+569402,Support resolving hyperlinks without freezing UI Thread.,CLOSED DUPLICATE of bug 506467,4.18,P3 enhancement,All All,M
+569364,JBoss Tools freeze Eclipse 2020-03 & 2020-06,CLOSED NOT_ECLIPSE,4.15,P3 blocker,PC Windows 10,H
+569485,Variable popup is empty,CLOSED DUPLICATE of bug 568813,4.17,P3 major,Macintosh Mac OS X,H
+569378,Enable SonarCloud for Eclipse Che Github repository,CLOSED FIXED,unspecified,P3 normal,PC Mac OS X,L
