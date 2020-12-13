@@ -1,0 +1,1153 @@
+no^info^status^version^importance^hardware^reported^
+569451^Customisation of Security Levels^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-04 03:45 EST by Georgiana Ecobici^
+569505^Edges display - Bug^UNCONFIRMED^unspecified  ^P3 normal^PC Windows 10^2020-12-06 00:38 EST by Avi Shaked^
+569360^Extend Connection Constraints to valid ANY compatibility rules (1131 implicit casts)^UNCONFIRMED^1.13.0  ^P3 normal^PC Windows 10^2020-12-01 08:21 EST by Michael JÃ¤ger^
+569382^[Model2Doc] bad image location when the output folder name contains space^CLOSED FIXED^0.8.0  ^P3 normal^PC Windows 10^2020-12-02 04:18 EST by vincent lorenzo^
+569504^hint what to do next upon failed pull^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-05 22:59 EST by Ralf Hauser^
+569419^[Model2Doc] Remove the menu DocumentStructureTemplateEditor from the MenuBar contributed in Papyrus^CLOSED FIXED^0.8.0  ^P3 normal^PC Windows 10^2020-12-03 04:36 EST by vincent lorenzo^
+569446^[release] polarsys.kitalpha 5.0.0^NEW^unspecified  ^P3 normal^All All^2020-12-03 19:32 EST by Wayne Beaton^
+569532^rebase result dialog freezes Eclipse while build is in progress^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-07 19:39 EST by Sam Davis^
+569369^Change location of layout and reset to menu entries^UNCONFIRMED^nightly  ^P3 normal^PC Windows 10^2020-12-01 11:39 EST by Alexander Lumplecker^
+569460^[Model2Doc] open the API : the class CreatePapyrusDocumentTemplateEditorCommand must not be final^CLOSED FIXED^0.8.0  ^P3 normal^PC Windows 10^2020-12-04 06:51 EST by vincent lorenzo^
+569507^Edges display using containers - Bug^UNCONFIRMED^unspecified  ^P3 normal^PC Windows 10^2020-12-06 02:10 EST by Avi Shaked^
+569477^Add a migration contribution for trace resources^NEW^0.12.0  ^P3 normal^PC Windows NT^2020-12-04 11:04 EST by Sandu Postaru^
+569498^field "cannot be resolved to a variable" in ternary expression as method argument with String expression type^NEW^4.18  ^P3 normal^PC Linux^2020-12-05 14:31 EST by Martin Walch^
+569486^InterruptedException when working with Java Debug View^NEW^4.18  ^P3 normal^PC Mac OS X^2020-12-04 14:58 EST by Christian Dietrich^
+569447^Cannot open MarketPlace^NEW^unspecified  ^P3 normal^PC Windows 7^2020-12-04 01:36 EST by Rosa Cortijo^
+569492^When using Capella 1.4.2 with the 1.4.3 XHTML Dropin - select exports are not generating image maps^NEW^1.4.3  ^P3 normal^PC Windows 10^2020-12-04 17:01 EST by Jason Schwegler^
+569444^[16] Inner classes to have static members^NEW^4.18  ^P3 normal^All All^2020-12-03 17:58 EST by Manoj Palat^
+569510^Use Eclipse Platform for system file Icon^NEW^unspecified  ^P3 normal^PC Linux^2020-12-06 12:54 EST by Alois Zoitl^
+569390^Switch Appveyor build to daily schedule for eclipse/sumo^CLOSED FIXED^unspecified  ^P3 normal^PC Windows 10^2020-12-02 07:45 EST by Michael Behrisch^
+7317^ClassCastException during move^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-07 14:05 EST by Michael Fraenkel^
+569529^[Cocoa] Link and multi-line Text hog CPU in dark theme^NEW^4.19  ^P3 normal^Macintosh Mac OS X^2020-12-07 12:41 EST by Alexandr Miloslavskiy^
+569395^New repository for Eclipse GLSP^CLOSED FIXED^unspecified  ^P3 normal^PC Linux^2020-12-02 08:16 EST by Tobias Ortmayr^
+569458^Umbrella Bug to record infrastructure issues during 4.19^NEW^4.19  ^P3 normal^PC Windows 10^2020-12-04 06:28 EST by Sravan Kumar Lakkimsetti^
+569542^Broken file/image links added in a model element description causes generation failing^NEW^1.3.1  ^P3 critical^PC Windows 10^2020-12-08 06:15 EST by Boubekeur Zendagui^
+7639^NPE when renaming a local variable^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-15 14:44 EST by Ian Petersen^
+569401^New Github repos under eclipse-zenoh^CLOSED FIXED^unspecified  ^P3 normal^PC Mac OS X^2020-12-02 10:22 EST by Julien Enoch^
+569392^Bump to 0.12.0 and migrate to Capella 5.0^RESOLVED FIXED^0.12.0  ^P3 normal^PC Windows 10^2020-12-02 07:58 EST by Philippe Dul^
+569373^Duplicated nodes in Debug/Run Configurations UI - part2^ASSIGNED^4.18  ^P3 normal^All All^2020-12-01 15:11 EST by Torbjörn Svensson^
+569459^Windows test machine attached to Releng JIPP is down^CLOSED FIXED^unspecified  ^P3 normal^PC Windows 10^2020-12-04 06:30 EST by Sravan Kumar Lakkimsetti^
+569509^jUnit tests get stuck when the URL of the test repository is invalid^NEW^unspecified  ^P3 normal^PC Linux^2020-12-06 11:24 EST by Nicolas Peifer^
+569403^Using some style elements in Sequence Diagram raise an error^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-02 12:02 EST by Glenn Plouhinec^
+569427^Add new smoke test configurations for ubuntu 20.10^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-03 06:32 EST by Sravan Kumar Lakkimsetti^
+569487^OpenJ9: Permissions request - Job Build & Cancel^CLOSED FIXED^unspecified  ^P3 normal^PC Linux^2020-12-04 15:45 EST by Adam Brousseau^
+569502^Parser hangs during completion / reconcile ?^NEW^unspecified  ^P3 normal^PC Linux^2020-12-05 16:39 EST by Stephan Herrmann^
+569379^Build fails on Tycho 1.7.0, 2.x^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-02 03:40 EST by Ed Willink^
+569376^[16] Local enum throwing NPE for unimplemented abstract method^RESOLVED FIXED^4.18  ^P3 normal^All All^2020-12-01 23:58 EST by Manoj Palat^
+569526^Avoid showing "Show with Git" in CTRL+3 for already shared projects^NEW^unspecified  ^P3 normal^PC Linux^2020-12-07 10:24 EST by Lars Vogel^
+569528^API tools doesn't warn if a bundle does not exist in current baseline^NEW^4.18  ^P3 normal^PC Linux^2020-12-07 11:21 EST by Jonah Graham^
+569389^Remove code that supports target state dependence on preferences^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-02 06:46 EST by Vikas Chandra^
+569540^[Passage] rename the template of Licensed E4 RCP^NEW^1.1.0  ^P3 normal^All All^2020-12-08 05:40 EST by Alexander Fedorov^
+569394^Remove IModelProvider from PDE^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-02 08:16 EST by Vikas Chandra^
+7873^Bogus error messages^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-01-17 17:37 EST by Lynne Kues^
+569363^[release] modeling.emf.diffmerge 0.13.0^NEW^unspecified  ^P3 normal^All All^2020-12-01 10:35 EST by Wayne Beaton^
+569453^[16][test] tests to be checked and run at 16^RESOLVED FIXED^4.18  ^P3 minor^All All^2020-12-04 04:19 EST by Manoj Palat^
+569439^ContextInjectionFactory.make() and garbage collection^NEW^4.17  ^P3 normal^All All^2020-12-03 14:05 EST by Rolf Theunissen^
+569429^Change String based constants to enums^RESOLVED FIXED^1.6.0  ^P3 normal^PC Windows 10^2020-12-03 08:11 EST by Dirk Fauth^
+569546^Provide "Open Workspace" menu item to launch multiple workspaces from Eclipse IDE^NEW^4.19  ^P3 enhancement^All All^2020-12-08 07:18 EST by Noopur Gupta^
+569508^Duplicate items in E*L editor outline view^RESOLVED FIXED^unspecified  ^P3 normal^PC Mac OS X^2020-12-06 02:59 EST by Dimitris Kolovos^
+569361^Support Big Sur (macOS 11)^NEW^4.18  ^P3 normal^PC Mac OS X^2020-12-01 08:54 EST by Lakshmi P Shanmugam^
+569415^Cleanup approved api list^RESOLVED FIXED^4.18  ^P3 normal^PC Windows 10^2020-12-03 01:48 EST by Sravan Kumar Lakkimsetti^
+569428^Run as JUnit Plug-in Test adds --limit-modules from .classpath^NEW^4.15  ^P3 normal^All All^2020-12-03 08:04 EST by Simeon Andreev^
+569368^Unable to read repository at http://download.jboss.org/jbosstools/updates/stable/luna/content.xml.^RESOLVED WORKSFORME^unspecified  ^P3 normal^PC Windows 10^2020-12-01 11:38 EST by sanjay kumar^
+569370^Fix help message in AnalysisSelectorFilteredItemsSelectionDialog^ASSIGNED^unspecified  ^P3 normal^PC Windows 10^2020-12-01 12:10 EST by Laurent Fasani^
+188521^[Webapp] Test F1: 2) Standalone infocenter not accessible through browser^VERIFIED FIXED^3.3  ^P1 normal^All All^2007-05-22 20:12 EDT by Mike Pawlowski^
+569441^[Designer] [Real-Time] Generated code should be compatible with Python 3^RESOLVED FIXED^unspecified  ^P3 normal^All All^2020-12-03 16:28 EST by Shuai Li^
+569384^[Model2Doc] The generation steps must support undo/redo^NEW^0.8.0  ^P3 normal^PC Windows 10^2020-12-02 04:28 EST by vincent lorenzo^
+569470^Drag and drop sub node into a container raise errors in ODTE 11.4^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-04 09:55 EST by Glenn Plouhinec^
+569479^File > New > Other... > Launch Targets > Launch Target throws ClassCastException^RESOLVED FIXED^10.0.0  ^P3 major^PC Linux^2020-12-04 11:34 EST by Jonathan Williams^
+569506^https://ci-staging.eclipse.org/simrel/job/simrel.runaggregator.VALIDATE.gerrit can't find JDK 11^CLOSED FIXED^unspecified  ^P3 blocker^PC Windows 7^2020-12-06 00:41 EST by Ed Merks^
+569481^Support for maven target location includeSource="true" attribute^RESOLVED FIXED^2.1.0  ^P3 normal^All All^2020-12-04 13:39 EST by Christoph Laeubrich^
+569519^UI tests fail with recommended centos-7 pod template and Xvnc as no password is configured^CLOSED FIXED^unspecified  ^P3 normal^All All^2020-12-07 03:56 EST by Dennis Hendriks^
+569456^Selecting emoji/character in Gnome search and then pasting in editor doesn't work^NEW^4.18  ^P3 normal^PC Linux^2020-12-04 05:43 EST by Mickael Istria^
+569433^Cleanup execution environments^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-03 09:34 EST by Lars Vogel^
+569420^Drop 4 from the Eclipse 4 RCP template^RESOLVED FIXED^4.18  ^P3 normal^PC Windows 10^2020-12-03 04:49 EST by Lars Vogel^
+569462^Quickviewer and ChartViewer should take flags into account^ASSIGNED^unspecified  ^P3 normal^All All^2020-12-04 07:15 EST by Matthias Koller^
+569375^Dark Mode/Theme UI Unusable in Ubuntu^NEW^4.17  ^P3 normal^PC Linux^2020-12-01 20:47 EST by K S^
+16781^Missing Working Set Icon^VERIFIED FIXED^2.0  ^P1 trivial^PC Windows 2000^2002-05-22 09:44 EDT by Dani Megert^
+569482^[release] iot.keyple 1.0.0^NEW^unspecified  ^P3 normal^All All^2020-12-04 14:00 EST by Wayne Beaton^
+569514^AutomationSystem editor should handle FB markers^NEW^unspecified  ^P3 normal^PC Linux^2020-12-06 14:51 EST by Alois Zoitl^
+569512^CCE in State.writeBinaryLocations^NEW^4.18  ^P3 normal^PC Linux^2020-12-06 14:09 EST by Stephan Herrmann^
+569523^[mosaic] API Rate Limit Exceeded^CLOSED FIXED^unspecified  ^P3 normal^PC Windows 10^2020-12-07 08:45 EST by Karl Schrab^
+569365^[release] technology.simopenpass 0.7.0^NEW^unspecified  ^P3 normal^All All^2020-12-01 10:44 EST by Wayne Beaton^
+569515^.classpath is being changed inappropriately on save altering JDK version^NEW^4.17  ^P3 normal^PC Windows 10^2020-12-06 19:24 EST by Jeffrey Bennett^
+569475^[formatter] New annotations wrapping settings is reset every time^NEW^4.18  ^P3 normal^PC Linux^2020-12-04 11:01 EST by Martin Coufal^
+569388^Type info section for structs^UNCONFIRMED^1.13.0  ^P3 normal^PC Windows 10^2020-12-02 06:28 EST by Michael JÃ¤ger^
+569385^ClassCastException in Sequence MoveSwitch^NEW^6.3.4  ^P3 normal^PC Mac OS X^2020-12-02 04:46 EST by Maxime Porhel^
+569461^hangs on xhtml files^NEW^4.17  ^P3 major^PC Linux^2020-12-04 07:07 EST by sedat onur orakoglu^
+569517^Since Eclipse 2020-09, cmake support is unusable^NEW^10.0.1  ^P3 normal^PC Linux^2020-12-07 00:07 EST by Sven Köhler^
+569418^[Big Sur] inspect cannot display^NEW^4.18  ^P3 normal with 1 vote^PC Mac OS X^2020-12-03 04:35 EST by zhenhuan wu^
+8023^coreexception when draging packages to its own parent^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-01-22 12:32 EST by Martin Aeschlimann^
+18385^NPE during launching after removing the launch info^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-30 18:19 EDT by Erich Gamma^
+569516^.classpath is being changed inappropriately on save removing annotationpath^NEW^4.17  ^P3 normal^PC Windows 10^2020-12-06 19:33 EST by Jeffrey Bennett^
+569538^Comparator error in I20201208-0300^ASSIGNED^4.18  ^P3 normal^All All^2020-12-08 05:23 EST by Sarika Sinha^
+18789^Source editor not given focus on suspend^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-06-03 12:25 EDT by Darin Wright^
+569522^[15] permitted subclass doesn't work with generics^NEW^4.18  ^P3 normal^PC Linux^2020-12-07 08:07 EST by Rémi Forax^
+19170^LaunchConfigurationDialog etc leakage when last launched is Runtime^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-06-04 14:50 EDT by Darin Swanson^
+569533^while loop bug if condition is not true anymore^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-07 21:17 EST by Roman Derkach^
+569411^MSRC Case 62416 Elevation of Privilege security vuln due to TLS implementation error for hostname validation^UNCONFIRMED^unspecified  ^P3 normal^PC Windows 10^2020-12-02 19:42 EST by Security Program Manager^
+569541^A "Freeze Bot" Gerrit bot to use from Platform Jenkins instance to vote on all Equinox/Platform/JDT/PDE repos^CLOSED WONTFIX^unspecified  ^P3 enhancement^All All^2020-12-08 06:12 EST by Mickael Istria^
+203145^Significant performance degradation in EL variable resolver^VERIFIED FIXED^2.0  ^P1 major^PC Windows XP^2007-09-12 16:27 EDT by Cameron Bateman^
+569503^Integrate "Show Command Line" with OT-adjustments^ASSIGNED^2.8.1  ^P3 normal^PC Linux^2020-12-05 18:30 EST by Stephan Herrmann^
+19182^Disconnect debug session crashes WebSphere^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-04 15:23 EDT by Pete Nicholls^
+569372^TimoutException on HyperlinkDetector, especially when just opening the file^UNCONFIRMED^unspecified  ^P3 normal^PC Windows 10^2020-12-01 13:51 EST by Johan Compagner^
+139817^NPE closing the Data Source Explorer view^VERIFIED WORKSFORME^0.9  ^P1 normal^PC Windows XP^2006-05-02 15:48 EDT by Karen Butzke^
+18079^We must guard our Action against a Java editor not working on a CU^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-28 13:13 EDT by Dirk Baeumer^
+569436^[CDO] Allow to parse and edit XMI Resources stored as text files in CDO.^UNCONFIRMED^unspecified  ^P3 normal^PC Windows 10^2020-12-03 11:18 EST by Sebastien Revol^
+15983^clicking on white space collapses tree^VERIFIED WORKSFORME^2.0  ^P1 normal^PC other^2002-05-14 17:43 EDT by Dave Thomson^
+18276^Java Search action set is missing the name for the menu^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-30 00:32 EDT by Nick Edgar^
+155268^Undo of transaction's change descriptions sometimes applies and reverses the same change twice^VERIFIED FIXED^unspecified  ^P1 critical^PC Windows XP^2006-08-25 16:23 EDT by Chris McGee^
+66801^"Reconciling" an installation with multiple versions of the automatically started plugins fails^VERIFIED FIXED^3.0  ^P1 blocker^PC Windows XP^2004-06-11 17:52 EDT by Dorian Birsan^
+569537^The main method can still be run when the java file fails to compile^CLOSED INVALID^4.17  ^P3 normal^PC Windows 10^2020-12-08 04:10 EST by N S^
+569381^IllegalArgumentException on some projects when doing Maven -> Update^CLOSED WORKSFORME^1.16.0  ^P3 normal^PC Windows 10^2020-12-02 04:06 EST by Scott Cameron^
+241194^[Improve Report Layout Capabilities] Incorrect image size in generated pdf^VERIFIED DUPLICATE of bug 240805^2.2.1  ^P1 normal^PC Windows XP^2008-07-17 02:57 EDT by Ming Gu^
+2854^Compare: Save code path problematic (1GJYGAX)^VERIFIED FIXED^2.0  ^P1 normal^All Windows 2000^2001-10-10 22:44 EDT by James Moody^
+569499^New TEst^CLOSED WORKSFORME^unspecified  ^P3 normal^Macintosh Mac OS X^2020-12-05 15:30 EST by bulent ozdil^
+6525^wrong indent when using replace from local history^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-03 18:19 EST by Erich Gamma^
+181061^[Viewers] JFace viewers performance issues in 3.3^VERIFIED FIXED^3.2  ^P1 major^All All^2007-04-04 16:46 EDT by Boris Bokowski^
+6668^'Replace from History' doesn't use source range from working copy^VERIFIED FIXED^2.0  ^P1 normal^PC All^2001-12-07 05:30 EST by Andre Weinand^
+13730^Entire zipfiles content sent prior when computing synchronization view content^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-04-12 18:16 EDT by Philipe Mulet^
+382490^Installing JNLP Slave as windows service fails^VERIFIED FIXED^unspecified  ^P1 major^PC Windows 7^2012-06-13 08:51 EDT by Geetha A^
+136223^Suspended thread does not show stackframe/missing thread labels^VERIFIED FIXED^3.2  ^P1 normal^PC Windows XP^2006-04-11 19:18 EDT by Samantha Chan^
+15294^Deleting an open unsaved resource causes error^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-05-05 20:26 EDT by Scott Rutledge^
+138527^Actions under the "Run" menu are incorrectly enabled at startup^VERIFIED FIXED^3.2  ^P1 major^PC Windows XP^2006-04-25 18:13 EDT by Samantha Chan^
+120582^[DataBinding] Current validators mix data type conversion and business rule validation concerns^VERIFIED FIXED^3.2  ^P1 normal^PC All^2005-12-13 10:25 EST by Dave Orme^
+134727^[WorkbenchParts] Double save prompt with view that implements ISaveablePart^VERIFIED FIXED^3.2  ^P1 normal^PC Windows XP^2006-04-04 08:26 EDT by Daniel Snoddy^
+5533^Intempestive code assist scenario^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-05 10:26 EST by Philipe Mulet^
+139853^NPE in asynch tree viewer^VERIFIED FIXED^3.2  ^P1 normal^PC Linux-GTK^2006-05-02 17:31 EDT by Samantha Chan^
+92070^[typing] Undo runs on wrong editor^VERIFIED FIXED^3.1  ^P1 major^PC Linux-GTK^2005-04-20 09:58 EDT by Tom Hofmann^
+5630^Drop to frame does not re-select top stack frame^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-07 12:14 EST by Darin Wright^
+121939^[Viewers] TreeSelection should subclass StructuredSelection^VERIFIED FIXED^3.2  ^P1 blocker^PC Windows XP^2005-12-22 17:10 EST by Boris Bokowski^
+109104^Editor save does not write to disk (intermittent)^VERIFIED FIXED^3.1  ^P1 critical^PC Windows 2000^2005-09-08 17:35 EDT by John Arthorne^
+5631^Breakpoint not reinstalled after hot swap^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-07 12:16 EST by Darin Wright^
+19108^Type Hierarchy: Icons shown as red squares^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-04 11:46 EDT by Dani Megert^
+5163^Launcher Timeouts on Win98^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 98^2001-10-23 03:25 EDT by Martin Aeschlimann^
+8012^Smart frame dropping is slow, and no busy cursor^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-22 11:47 EST by Darin Wright^
+8013^No failure message when frame dropping failed after HotSwap^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-22 11:50 EST by Darin Wright^
+123375^[DataBinding] Enhancements to the data binding framework^VERIFIED FIXED^3.2  ^P1 normal^PC Windows XP^2006-01-10 23:18 EST by Stefan Xenos^
+10281^ClassPrepare events swamping system^VERIFIED FIXED^1.0  ^P1 major^All All^2002-02-26 12:46 EST by OTI Support^
+7003^Debug With menu launches incorrect program (not finding selection)^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-12-17 11:30 EST by Darin Swanson^
+126839^[DataBinding] IObservable refactoring^VERIFIED FIXED^3.2  ^P1 normal^PC Windows XP^2006-02-07 18:09 EST by Boris Bokowski^
+3972^Smoke 124: Minor Code assist does not work if text is selected (1GFBJKA)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 23:03 EDT by Dani Megert^
+4078^Export to Jar does not include root-level resources (1GHSDS1)^VERIFIED FIXED^2.0  ^P1 critical^All Windows NT^2001-10-10 23:05 EDT by Vlad Klicnik^
+10758^utilize classpath variable initializers^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-05 09:13 EST by Darin Wright^
+15522^Rename Debug menu to "Run"^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-08 09:50 EDT by Darin Wright^
+10816^Debugging tries to show itself in resources perspective(?)^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-05 17:42 EST by Rodrigo Peretti^
+4096^Open Type Dialog: The Map inteface has the class icon (1GI9HAZ)^VERIFIED FIXED^2.0  ^P1 major^All Windows 2000^2001-10-10 23:05 EDT by Erich Gamma^
+10839^Java launch config: main type checks are too constraining^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-06 07:06 EST by Erich Gamma^
+15531^Support "default JRE"^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-08 10:59 EDT by Darin Wright^
+17069^NPE deleting project with shared config^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-22 16:40 EDT by Darin Wright^
+36267^[Key Bindings] Key binding and unknown command (conflict)^VERIFIED FIXED^2.1  ^P1 critical^PC Windows 2000^2003-04-09 04:24 EDT by Tomas Dusek^
+434134^[CSS] Active part's 2nd line toolbar background color looks wrong^VERIFIED FIXED^4.4  ^P1 normal^PC Windows 7^2014-05-05 12:55 EDT by Markus Keller^
+1546^Remote Evaluation (AST evaluation)^VERIFIED FIXED^2.0  ^P1 normal^All Windows NT^2001-10-10 22:15 EDT by Darin Wright^
+1567^Full build caused hot code replace failure (1GDH1CH)^VERIFIED FIXED^2.0  ^P1 critical^All Windows NT^2001-10-10 22:15 EDT by Darin Wright^
+3672^DCR: Add working set support^VERIFIED FIXED^2.0  ^P1 enhancement^All All^2001-10-10 22:58 EDT by Carolyn MacLeod^
+1737^Feature: filter static initializers (1GKQHTT)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 22:18 EDT by Darin Wright^
+6519^Evaluation failed message for deprecated method^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-03 16:08 EST by Darin Wright^
+1759^Widget is disposed error on breakpoint properties (1GLE3NA)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 22:18 EDT by Joe Szurszewski^
+6187^Hot swap in main causes Eclipse to crash^VERIFIED FIXED^2.0  ^P1 critical^PC other^2001-11-21 15:30 EST by Darin Swanson^
+8679^Hit count ignored on breakpoints^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-01-29 10:57 EST by Joe Szurszewski^
+6212^Debug view toolbar/menu pollution^VERIFIED FIXED^2.0  ^P1 major^PC All^2001-11-21 18:46 EST by Darin Wright^
+8966^Debug Perspective is not automatically select the servlet thread^VERIFIED FIXED^1.0  ^P1 normal^PC Windows 2000^2002-02-01 14:59 EST by Jane Fung^
+6216^Help for debug views in 1.0^VERIFIED FIXED^1.0  ^P1 normal^PC other^2001-11-21 19:48 EST by Darin Wright^
+9034^Variables view should scroll to display new variables^VERIFIED FIXED^2.0  ^P1 enhancement^PC Windows 2000^2002-02-04 10:31 EST by Darin Swanson^
+9618^Terminated targets not updating^VERIFIED FIXED^2.0  ^P1 critical^Other Linux-Motif^2002-02-13 10:07 EST by Jared Burns^
+12208^NPE in AST eval^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-03-25 09:35 EST by Darin Wright^
+9079^Pattern breakpoints show as <unknown>^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-04 17:34 EST by Jay Cagle^
+9626^ConcurrentModificationException in JDIDebugTarget#canSuspend()^VERIFIED FIXED^2.0  ^P1 critical^Other other^2002-02-13 10:26 EST by Jared Burns^
+13440^menu reorganization^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-04-10 15:56 EDT by Darin Swanson^
+12209^AST Eval engine API not fully implemented^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-25 09:40 EST by Darin Wright^
+24100^LaunchConfigurationWorkingSetPage.setSelection should work without container being set^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-09-25 16:05 EDT by Knut Radloff^
+13480^NPE creating Java Project when running Runtime Workbench^VERIFIED FIXED^2.0  ^P1 normal^Other Linux-Motif^2002-04-10 21:39 EDT by Rodrigo Peretti^
+5780^Unable to create display view^VERIFIED INVALID^2.0  ^P1 critical^PC Windows 2000^2001-11-11 23:53 EST by Darin Wright^
+1727^Console buffer size (1GKKAKB)^VERIFIED FIXED^2.0  ^P1 enhancement^All All^2001-10-10 22:18 EDT by Darin Wright^
+9056^API - suspend on uncaught exception^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-04 14:04 EST by Darin Wright^
+6109^NPE stopping Timer^VERIFIED FIXED^2.0  ^P1 critical^PC other^2001-11-20 11:15 EST by Darin Swanson^
+9327^JavaDebugOptionsManager startup loading breakpoints during resource changed^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-02-08 14:51 EST by Darin Swanson^
+11161^Resource tree locked^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-03-12 09:12 EST by Darin Wright^
+11265^Need replacement source locator API^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-13 10:51 EST by Darin Wright^
+40673^Detected JRE not set correctly^VERIFIED FIXED^3.0  ^P1 blocker^PC Linux^2003-07-23 13:50 EDT by Tomas Znamenacek^
+12937^No evaluation imports for binary types with attached source^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-05 21:59 EST by Nick Edgar^
+11514^Feature: support WAS 5.0 JSP debugging^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-03-17 22:43 EST by Jay Cagle^
+51748^Error while creating scrapbook page (spellcheck?)^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2004-02-11 14:41 EST by Chris Tilt^
+82611^[Theme] Generator Reusability, EMF/SDO^VERIFIED FIXED^2.1  ^P1 enhancement^All All^2005-01-11 17:38 EST by Nick Boldt^
+12157^Debug event sets^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-22 15:11 EST by Darin Wright^
+54664^Cannot run a build.xml from a non-Java project^VERIFIED FIXED^3.0  ^P1 major^PC Windows 2000^2004-03-12 11:24 EST by Pascal Rapicault^
+12160^Launch creation/lifecycle^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-22 15:19 EST by Darin Wright^
+389273^Update EMF base pre-req for Juno SR1 to R201209110500^VERIFIED FIXED^4.2  ^P1 normal^PC Linux^2012-09-11 11:12 EDT by David Williams^
+56042^[Coolbar] [Workbench] Toolbar flash selecting stack frames^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-03-24 16:43 EST by Darin Swanson^
+12222^NPE attempting to create Remote Java Application configuration^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-25 11:16 EST by Darin Swanson^
+27539^[MPE] [Text Editor] Text editor should not register global actions with the keybinding service^VERIFIED DUPLICATE of bug 37612^2.1  ^P1 normal^PC All^2002-12-02 16:52 EST by Karen Williamson^
+59990^function keys not working^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-26 14:57 EDT by Jeff McAffer^
+19174^change notice.html in root of eclipse installs^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-06-04 14:58 EDT by Jim des Rivieres^
+47046^[KeyBindings] CapsLock == R ???^VERIFIED FIXED^3.0  ^P1 normal^All All^2003-11-19 17:12 EST by Grant Gayed^
+19432^duplicate swt.jar in fragment root directory^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-06-05 18:13 EDT by Jim des Rivieres^
+58927^[Commands] [Javadoc] Issues with Commands extension point^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-16 16:05 EDT by Tod Creasey^
+56240^Emacs key binding does not work in Java editor^VERIFIED FIXED^3.0  ^P1 major with 8 votes^PC Linux^2004-03-25 15:44 EST by Doug Schaefer^
+20724^legal files are not accessible^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-06-20 11:23 EDT by Jim des Rivieres^
+17890^Should not assume type of PropertyChangeEvent values^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-26 22:01 EDT by Nick Edgar^
+74582^[KeyBindings] preference page: extends "Default " has an extra space^VERIFIED FIXED^3.0  ^P1 trivial^All All^2004-09-22 11:45 EDT by Douglas Pollock^
+58812^[Perspectives] (regression) Custom perspectives disappear after shutdown/restart^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-04-16 06:43 EDT by Debbie Wilson^
+18296^Debug Hover fix^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-30 09:00 EDT by Darin Wright^
+74604^[KeyBindings] Chose key to edit from View pane^VERIFIED FIXED^3.0  ^P1 enhancement^All All^2004-09-22 12:28 EDT by Kim Horne^
+18650^Scrapbook doesn't launch^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-06-02 05:02 EDT by Erich Gamma^
+74675^[KeyBindings] Quick Fix keybinding support for non Java Editor^VERIFIED FIXED^3.0  ^P1 enhancement^All All^2004-09-22 14:42 EDT by Fabio Zadrozny^
+23568^Ctrl-Space is not working in the Scrapbook^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-09-13 11:19 EDT by Darin Swanson^
+74982^[Commands] Select All accelerator is available on a Tree control hosted in a TreeViewer but does not send SelectionChanged events^VERIFIED FIXED^3.0  ^P1 normal^All All^2004-09-24 14:26 EDT by Dusko^
+27841^Ext tool builders have wrong icon and NPE'd^VERIFIED FIXED^2.1  ^P1 critical^PC Windows 2000^2002-12-06 11:04 EST by Darin Wright^
+62932^NPE when renaming project^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-05-19 10:40 EDT by Rafael Chaves^
+4301^Java examples project is not in Examples category (1GL2MWV)^VERIFIED FIXED^2.0  ^P1 normal^All Windows 2000^2001-10-10 23:09 EDT by Erich Gamma^
+23690^Variable view show old instance^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-09-18 06:05 EDT by David Audel^
+91889^top frame not selected when monitor added to stack^VERIFIED FIXED^3.1  ^P1 critical^PC Windows XP^2005-04-19 10:26 EDT by Darin Wright^
+6738^Fatal error in JDWP^VERIFIED FIXED^2.0  ^P1 critical^PC other^2001-12-10 11:53 EST by Darin Swanson^
+177303^[launching] ContextLaunchingResourceManager slows down structured selection changes and part activations^VERIFIED FIXED^3.3  ^P1 critical^PC Windows XP^2007-03-14 07:10 EDT by Markus Keller^
+6759^Turning filters on/off makes Eclipse unresponsive^VERIFIED FIXED^2.0  ^P1 critical^PC other^2001-12-10 14:37 EST by Darin Swanson^
+7298^Drop to frame is always disabled^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-01-06 18:31 EST by Darin Wright^
+15102^NPE attempting to launch^VERIFIED FIXED^2.0  ^P1 blocker^PC All^2002-05-02 11:17 EDT by Darin Swanson^
+9678^Unable to enter & save classpath entry^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-13 11:56 EST by Darin Wright^
+15741^NPE in JavaRuntime.detectVMConfiguration^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2002-05-10 11:06 EDT by Peter Burka^
+10775^New, delete, copy of Launch configurations remain disabled^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-03-05 10:56 EST by Darin Swanson^
+15835^Scrap book does not work^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-05-12 20:10 EDT by Leon Pesenson^
+9680^Launch config: pressing save returns to first tab^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-13 12:00 EST by Darin Wright^
+141108^EMF generation using adapters does not work in standalone maven environment^VERIFIED FIXED^2.2  ^P1 major^PC Windows XP^2006-05-10 14:04 EDT by Kapil Katyal^
+16313^NPE out of StandardSourcePathProvider^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-17 17:01 EDT by Darin Swanson^
+20127^Exception launching the Eclipse Platform^VERIFIED FIXED^2.0  ^P1 blocker^PC Windows 2000^2002-06-13 05:42 EDT by Tim Ellison^
+191970^Remaining versioning errors^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2007-06-11 10:36 EDT by David Williams^
+52957^[KeyBindings] Keybinding Service consumes keystrokes for unregistered commands^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-02-24 11:50 EST by Randy Hudson^
+5971^NPE in the nls tool - preview page^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-15 11:49 EST by Adam Kiezun^
+48486^[ActionSets] Key bindings not working when Eclipse first opened^VERIFIED FIXED^3.0  ^P1 critical^All All^2003-12-11 09:50 EST by Douglas Pollock^
+67930^[Keybindings] Wrong behaviour when triggering Code Assist in "Rename Field"-Dialog^VERIFIED FIXED^3.0  ^P1 major^All All^2004-06-19 11:01 EDT by Nico Seessle^
+48644^[CommandMgmt] Source menu entries disabled^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2003-12-12 10:57 EST by DJ Houghton^
+62401^[Actions] ReferenceCleanerThread in ActionContributionItem cause application can not exit normally.^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-05-15 07:27 EDT by Eric Suen^
+68938^[Contributions] Allow contributions based on active editor input^VERIFIED FIXED^3.0  ^P1 enhancement^All All^2004-06-29 17:51 EDT by Douglas Pollock^
+117314^[Commands] handlers: Failure in testSelectAllHandlerSendsSelectionEvent^VERIFIED FIXED^3.2  ^P1 major^All All^2005-11-21 10:08 EST by Douglas Pollock^
+5415^Plugin Name in Plugin Registery is wrong^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-01 10:51 EST by Michael Valenta^
+85700^[ActivityMgmt] Capability preference page missing^VERIFIED FIXED^3.1  ^P1 blocker^All All^2005-02-17 09:23 EST by Kim Horne^
+96497^Manifest files need to be updated with x-friends tag^VERIFIED FIXED^3.1  ^P1 normal^All All^2005-05-24 15:13 EDT by DJ Houghton^
+118078^[Commands] handlers: Debug keybindings not working^VERIFIED FIXED^3.2  ^P1 major^All All^2005-11-25 11:15 EST by Kevin Barnes^
+126414^[Commands] handlers: Provide help context ids^VERIFIED FIXED^3.2  ^P1 enhancement^All All^2006-02-03 16:21 EST by Douglas Pollock^
+87020^[KeyBindings] registry: NPE when starting Eclipse 20050301-1230`^VERIFIED FIXED^3.1  ^P1 critical^All All^2005-03-02 13:58 EST by Dirk Baeumer^
+6608^Limited error reporting on failed launch with no recognized launchers^VERIFIED FIXED^2.0  ^P1 critical^PC other^2001-12-05 14:37 EST by Darin Swanson^
+1718^Concurrent modification in JDI cache (1GK7HTK)^VERIFIED FIXED^2.0  ^P1 normal^All other^2001-10-10 22:18 EDT by Darin Swanson^
+9055^API - step filters should be configurable per target^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-04 14:03 EST by Darin Wright^
+87419^[Commands] registry: NPE on start-up^VERIFIED FIXED^3.1  ^P1 blocker^All All^2005-03-08 14:02 EST by Douglas Pollock^
+13684^CoreException thrown when no project is specified^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-12 13:55 EDT by Shantha Ramachandran^
+89019^[ActivityMgmt] ImageBindingRegistry is never hooked into the extension registry^VERIFIED FIXED^3.1  ^P1 major^All All^2005-03-24 13:43 EST by Kim Horne^
+71053^[ActivityMgmt] IllegalArgException in Capability preference page^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-07-29 04:21 EDT by jingan^
+18863^Default source lookup computed incorrectly^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-06-03 14:36 EDT by Matt Lavin^
+108873^[PropertiesView] Properties view broken on MacOS X^VERIFIED FIXED^3.2  ^P1 major^Macintosh Mac OS X - Carbon (unsup.)^2005-09-06 16:59 EDT by Andre Weinand^
+24594^Targets specified as arguments not recognized^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-10-09 15:44 EDT by Darin Swanson^
+18981^Replacing default JDK doesn't trigger rebuild^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-06-04 05:55 EDT by Dirk Baeumer^
+18998^Stack overflow with cyclic projects (might belong to JDT/Core)^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-06-04 07:28 EDT by Christian Betz^
+155435^[content assist] NPE in content assist^VERIFIED FIXED^3.3  ^P1 normal^PC All^2006-08-28 13:42 EDT by Igor Fedorenko^
+19202^JavaLineBreakpoint holds JDIThread pointers^VERIFIED FIXED^2.0  ^P1 normal^Other Windows XP^2002-06-04 16:04 EDT by Joe Szurszewski^
+129599^Mark the org.eclipse.ui.menus extension point as experimental^VERIFIED FIXED^3.2  ^P1 normal^All All^2006-02-27 11:17 EST by Douglas Pollock^
+15899^Close all saved does not work all the time^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-13 16:41 EDT by Simon Arsenault^
+182046^[Trim] configurer.setSaveAndRestore(true) doesn't work in 3.3M6^VERIFIED FIXED^3.3  ^P1 normal^PC Windows XP^2007-04-11 19:24 EDT by Veronika Irvine^
+569387^Simple JUnit5 test fails with java.lang.NoClassDefFoundError: org/junit/platform/commons/util/ClassNamePatternFilterUtils^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-02 05:59 EST by Lars Vogel^
+253977^[Help] For Eclipse 3.4.2 fix regression caused by fix for Bug 237326 - [Help][Context] F1 accessibility - no indication that help view has opened (since there is no focus change)^VERIFIED FIXED^3.4.1  ^P1 blocker^PC Windows XP^2008-11-05 14:07 EST by Chris Goldthorpe^
+569405^[release] tools.mat 1.11.0^NEW^unspecified  ^P3 normal^All All^2020-12-02 12:15 EST by Wayne Beaton^
+569483^[release] technology.microprofile 1.2 (JWT RBAC)^NEW^unspecified  ^P3 normal^PC Linux^2020-12-04 14:25 EST by Wayne Beaton^
+569535^Invalid certificate configuration on archive.eclipse.org^NEW^unspecified  ^P3 major^PC Windows 10^2020-12-08 02:42 EST by Rolf Theunissen^
+569386^ClassCastException while deleting elements linked to a Note on a Sequence diagram^NEW^6.3.4  ^P3 normal^PC Mac OS X^2020-12-02 05:11 EST by Maxime Porhel^
+569396^Wrong message for "pomDependencies"^RESOLVED FIXED^2.1.0  ^P3 minor^PC All^2020-12-02 08:17 EST by Lorenzo Bettini^
+569473^NPE in Copy format to existing/new diagram based on source to target semantic elements mapping^NEW^6.4.0  ^P3 normal^All All^2020-12-04 10:37 EST by Florian Barbin^
+569410^Eclipse installer failed to add the OSATE project^RESOLVED WORKSFORME^1.19.0  ^P3 normal^PC Mac OS X^2020-12-02 18:05 EST by Theodore Murdock^
+569383^[WIN32] FocusIn listener on Text field does not select all text with selectAll call^NEW^4.17  ^P3 normal^PC Windows 10^2020-12-02 04:20 EST by Lars Vogel^
+6341^NullPointerException from ReorgGroup^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-27 05:58 EST by Martin Aeschlimann^
+569524^lombok.javac.JavacAST for Lombok in eclipse IDE^RESOLVED NOT_ECLIPSE^4.18  ^P3 critical^PC Windows 10^2020-12-07 09:07 EST by Srikanth Chennuru^
+569406^URL Decoder Exception for path parameter containing %2F^RESOLVED FIXED^4.16  ^P3 critical^All All^2020-12-02 13:09 EST by Kshitiz Bhattarai^
+569412^https://www.eclipse.org/eclipseide/2020-09/ title says 2020-06^RESOLVED FIXED^unspecified  ^P3 normal^PC Linux^2020-12-02 20:17 EST by Jonah Graham^
+7046^NPE trying to show context menu on method in Outliner^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-12-18 10:49 EST by Joe Szurszewski^
+569455^Screen keyboard not supported on SWT widgets^NEW^4.18  ^P3 normal^PC Linux^2020-12-04 05:35 EST by Mickael Istria^
+569530^[Model2Doc] add org.apache.commons.compress as required dependency^NEW^0.8.0  ^P3 normal^PC Windows 10^2020-12-07 13:06 EST by vincent lorenzo^
+569371^Changing a launch configuration's shared file location to a nested project directory causes launch configuration to be lost^NEW^4.17  ^P3 normal^All All^2020-12-01 12:40 EST by Torbjörn Svensson^
+569488^[release] technology.microprofile 2.0 (REST Client)^NEW^unspecified  ^P3 normal^PC Linux^2020-12-04 16:33 EST by Wayne Beaton^
+16811^J Working Sets not persisted^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-22 10:28 EDT by Dani Megert^
+569380^Impossible to add some available components through Textual Editor in ES^NEW^1.2.0  ^P3 normal^PC Windows 10^2020-12-02 03:44 EST by Georgiana Ecobici^
+3637^drag'n'drop - cannot dnd a file from a package to a resource folder (1GDF2T8)^VERIFIED FIXED^2.0  ^P1 critical^All Windows NT^2001-10-10 22:58 EDT by Erich Gamma^
+569471^Adding project to build path removes all exports^NEW^4.17  ^P3 normal^PC Linux^2020-12-04 09:58 EST by Steffen^
+3701^Drag and drop does not work properly in package view (1GE9I3G)^VERIFIED FIXED^2.0  ^P1 critical^All Windows 2000^2001-10-10 22:59 EDT by Jeff McAffer^
+23972^[antrunner] NPE with XmlLogger as listener^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-09-23 07:32 EDT by Gunnar Wagenknecht^
+569495^JGit allows Push to update checked out branch (receive.denyCurrentBranch and receive.denyDeleteCurrent not implemented)^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-05 11:39 EST by Maxim Shclover^
+23995^deadlock while running build.xml^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-09-23 16:29 EDT by John Wiegand^
+155514^[rulers] Allow to see author in revision ruler^VERIFIED FIXED^3.2  ^P1 enhancement^PC All^2006-08-29 05:47 EDT by Dani Megert^
+24710^Custom ant task classes not found^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-10-11 14:28 EDT by Darin Swanson^
+110147^[preferences][content assist] preference page issues^VERIFIED FIXED^3.1  ^P1 normal^PC All^2005-09-21 06:03 EDT by Tom Hofmann^
+14758^ILaunchConfigurationTab#performApply called twice on hitting the Apply button^VERIFIED FIXED^2.0  ^P1 major^PC other^2002-04-26 12:33 EDT by Darin Swanson^
+88552^[Contributions] Can't filter out actions from popup menu that are contributed by other plugins^VERIFIED FIXED^3.1  ^P1 major^All All^2005-03-18 20:27 EST by Keith Chong^
+9102^Remove & Terminate walkback^VERIFIED FIXED^2.0  ^P1 normal^Other Windows XP^2002-02-05 10:55 EST by Joe Szurszewski^
+88653^[Commands] performance: 50% of perspective switch in ParameterizedCommand.equals()^VERIFIED FIXED^3.1  ^P1 major^All All^2005-03-21 12:06 EST by John Arthorne^
+88656^[Workbench] IWorkbench should not extend the internal IServiceProvider^VERIFIED FIXED^3.1  ^P1 normal^All All^2005-03-21 12:34 EST by Nick Edgar^
+6807^launch configurations not crash proof^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-11 13:14 EST by Darin Wright^
+118414^[WorkingSets] Deadlock on each startup caused by AbstractWorkingSetManager^VERIFIED FIXED^3.2  ^P1 blocker^All All^2005-11-29 09:06 EST by Dani Megert^
+96600^[DynamicUI] [Commands] [Contexts] [KeyBindings] Commands architecture isn't dynamic^VERIFIED FIXED^3.1  ^P1 major^All All^2005-05-25 09:12 EDT by Kim Horne^
+70503^[Commands] ctrl+c, ctrl+v, ctrl+x accelerators dont work in some scenarios^VERIFIED FIXED^3.0  ^P1 major^All All^2004-07-20 19:26 EDT by Saurabh Bagrodia^
+48836^[KeyBindings] Multi-stroke Key help delay must be >= 1^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2003-12-16 08:42 EST by Michael Van Meekeren^
+99187^Update copyrights^VERIFIED FIXED^3.1  ^P1 trivial^All All^2005-06-09 12:02 EDT by Douglas Pollock^
+27389^Unable to launch on J9^VERIFIED FIXED^2.1  ^P1 critical^PC Windows 2000^2002-11-29 10:08 EST by Darin Wright^
+293697^JavaSearchBugTests.testBug286379c is failing randomly^VERIFIED FIXED^3.6  ^P1 normal^PC Windows XP^2009-10-29 12:58 EDT by Frederic Fusier^
+137602^Last local rather than remote date on update^VERIFIED FIXED^3.2  ^P1 critical^PC Windows XP^2006-04-19 17:08 EDT by Ed Willink^
+173365^EMFT-QTV: End-user/Extender Feature Branding for Europa^VERIFIED FIXED^unspecified  ^P1 major^PC Linux^2007-02-07 18:02 EST by Christian Damus^
+150483^[Sync Info] Locally deleted file not shown in team synchronization^VERIFIED FIXED^3.2  ^P1 normal^All All^2006-07-13 05:16 EDT by Oldrich Jedlicka^
+1756^Breakpoints installed in all classes with "name*" (1GLCLBW)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 22:18 EDT by Darin Swanson^
+180780^EMF-MQ/MT/VF components branding still references EMFT^VERIFIED FIXED^unspecified  ^P1 normal^PC Linux^2007-04-03 15:17 EDT by Christian Damus^
+6152^Walkback while editing in the display view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-21 05:45 EST by Martin Aeschlimann^
+206819^Notifications from nested transactions still sent to listeners on rollback^VERIFIED FIXED^unspecified  ^P1 normal^PC Windows XP^2007-10-18 17:05 EDT by Christian Damus^
+9012^StringIndexOutOfBoundsException in OpenOnConsoleTypeAction.parseSelection^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-02-04 06:30 EST by Simon Gunzenreiner^
+10243^ClassCastException when removing a breakpoint^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-02-26 06:13 EST by Dani Megert^
+6208^Log errors to plugin log^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-21 17:47 EST by Darin Wright^
+9026^Compilation error breakpoints are showing in breakpoints view^VERIFIED FIXED^2.0  ^P1 critical^Other other^2002-02-04 09:51 EST by Jared Burns^
+55543^Opening an Ant editor is taking 10 seconds^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-03-22 11:31 EST by Jean-Michel Lemieux^
+46621^[misc] Opening StyledText in java editor is really slow.^VERIFIED FIXED^3.0  ^P1 major^Macintosh Mac OS X - Carbon (unsup.)^2003-11-13 16:00 EST by Silenio Quarti^
+179690^"DOM AST tree for workspace file" perf test is getting slower^VERIFIED DUPLICATE of bug 179684^3.3  ^P1 normal^PC Windows XP^2007-03-28 05:17 EDT by Frederic Fusier^
+78141^Ant build unable to scan build files using import^VERIFIED FIXED^3.1  ^P1 major^PC Linux^2004-11-09 02:45 EST by Jochen Wiedmann^
+17234^NPE in CompilationUnitEditorActionContributor^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-23 09:27 EDT by Randy Giffen^
+1614^Current line in Debugger should start at center of source editor (1GETH7J)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 22:16 EDT by Carolyn MacLeod^
+416027^[1.8] Enable reflected parameter names during annotation processing^VERIFIED FIXED^4.4  ^P1 normal^PC Windows 7^2013-08-28 06:28 EDT by Srikanth Sankaran^
+17271^Not present exception renaming class in java browsing perspective^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-23 10:00 EDT by Jerome Lanneluc^
+434639^Behavioral change between Kepler SR2 and Luna on AST of syntactically incorrect source file^VERIFIED DUPLICATE of bug 430336^4.4  ^P1 normal^All All^2014-05-12 08:08 EDT by Andreas Sewe^
+27846^Cannot add new ext tool builer^VERIFIED FIXED^2.1  ^P1 critical^PC Windows 2000^2002-12-06 11:36 EST by Darin Wright^
+17615^Override verlay: background is white not transparent^VERIFIED FIXED^2.0  ^P1 normal^Other Linux-GTK^2002-05-24 09:12 EDT by Dirk Baeumer^
+68774^[Perspectives] NPE in PerspectiveSwitcher.setCoolItemSize() when coolbar hidden^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-06-28 12:20 EDT by David Graham^
+29269^ClassNotFoundException: TaskLineTracker^VERIFIED FIXED^2.1  ^P1 critical^PC Windows 2000^2003-01-10 03:17 EST by Dani Megert^
+17652^Package selection dialog shouldn't have default input value^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-24 10:08 EDT by John Arthorne^
+124329^ResourceUndoContext should specify exactly one resource^VERIFIED FIXED^unspecified  ^P1 major^PC Linux^2006-01-18 11:59 EST by Christian Damus^
+146341^Deadlock caused by unnecessary monitor synchronizations^VERIFIED FIXED^unspecified  ^P1 blocker^PC Linux^2006-06-09 17:27 EDT by Christian Damus^
+17667^Code assist close^VERIFIED FIXED^2.0  ^P1 critical^Other Linux-GTK^2002-05-24 10:31 EDT by Dirk Baeumer^
+458685^[Commands] Stereotyped element deletion = dangling stereotypes left in the model^VERIFIED FIXED^unspecified  ^P1 critical^PC Windows 7^2015-01-28 16:40 EST by Toni Siljamäki^
+64237^[Menus] menu items missing on first click^VERIFIED FIXED^3.0  ^P1 normal^PC Linux-Motif^2004-05-26 17:47 EDT by David Buttler^
+6661^InternalException when exiting on jdk 1.4^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-06 17:58 EST by Darin Wright^
+546834^Upgrade to Graphiti 0.16 makes it impossible to move UI parts in specific cases^VERIFIED FIXED^0.16.0  ^P1 critical^PC Linux^2019-04-29 16:45 EDT by Ralph Soika^
+8063^NPE in BreakpointsView when closing workbench^VERIFIED FIXED^2.0  ^P1 major^PC Windows NT^2002-01-23 04:51 EST by Dani Megert^
+16439^NPE out of ManageMethodBreakpointActionDelegate^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-20 11:30 EDT by Darin Swanson^
+7404^Add Filter for step filtering broken^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-09 17:59 EST by Darin Swanson^
+13993^Debug and Run buttons have been accidentally swapped^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-04-17 09:14 EDT by Jared Burns^
+18040^Index out of bounds creating new remote java launch config^VERIFIED FIXED^2.0  ^P1 normal^PC Linux-GTK^2002-05-28 09:43 EDT by Jared Burns^
+14060^stepping slow - timer takes 99% of CPU^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-17 19:39 EDT by Darin Wright^
+7269^Generating patches only works for existing files^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-04 11:04 EST by Michael Valenta^
+20260^TVT2: corrupted characters in java prefs page^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-06-13 15:14 EDT by Richard Bone^
+14143^Breakpoints View appears with "Go to file" button enabled regardless of breakpoints^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-18 13:51 EDT by Justin Berstler^
+19172^features need license agreement^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-06-04 14:54 EDT by Jim des Rivieres^
+14495^clipboards must be disposed^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-24 08:54 EDT by Adam Kiezun^
+15682^Error message hover help is broken^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-09 17:38 EDT by Carolyn MacLeod^
+19230^F2: HP-UX build has a bogus platform plugin (empty directory)^VERIFIED FIXED^2.0  ^P1 critical^PC HP-UX^2002-06-04 17:40 EDT by Vlad Klicnik^
+15361^"Suspend on compilation errors" doesn't work^VERIFIED FIXED^2.0  ^P1 normal^PC Linux^2002-05-06 15:26 EDT by Jared Burns^
+227832^Validation message for orphaned entities needs to be added back^VERIFIED FIXED^2.0  ^P1 major^PC Windows XP^2008-04-18 16:13 EDT by Neil Hauge^
+137251^Reporting (and Printing)^VERIFIED WONTFIX^10.0  ^P1 normal^All Windows XP^2006-04-18 11:41 EDT by Peter Haumer^
+56539^[KeyBindings] Can't unbind key on keys preference page^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-03-29 04:30 EST by Alexander Burdukov^
+17953^NullPointerException when compiling cocoon2^VERIFIED DUPLICATE of bug 16761^2.0  ^P1 normal^PC Windows 2000^2002-05-27 14:39 EDT by Jürgen Seitz^
+58929^[Contexts] [Javadoc] org.eclipse.ui.contexts extensio points issues^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-16 16:09 EDT by Tod Creasey^
+47093^[KeyBindings] F5 (for refresh) doesn't work in the navigator view when selection a Java project^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2003-11-20 10:30 EST by Olivier Thomann^
+60063^[KeyBindings] Ctrl+W in emacs mode is also bound to close^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2004-04-27 00:22 EDT by Nick Edgar^
+47414^[KeyBindings] Emacs mode Content-assist key broken in M5^VERIFIED WORKSFORME^3.0  ^P1 normal^PC Windows 2000^2003-11-25 07:48 EST by Tim Downey^
+12339^NPE when i switch to debug perspective^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-03-27 05:32 EST by David Audel^
+29398^[MPE] Allow bookmarks and tasks in plugin.xml source^VERIFIED FIXED^2.1  ^P1 normal^All All^2003-01-13 11:41 EST by Jim DAnjou^
+395030^Disconnect old milestone repos for M6^VERIFIED FIXED^4.2  ^P1 normal^PC Linux^2012-11-25 14:54 EST by David Williams^
+12548^Debug event filters should use event sets^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-01 11:43 EST by Darin Wright^
+13173^No console output in Java Persp.^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-10 05:48 EDT by Philipe Mulet^
+9353^<Not responding> stack frame after suspending VM^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-02-09 12:37 EST by Darin Swanson^
+31731^[KeyBindings] Dialogs do not support key bindings^VERIFIED FIXED^2.1  ^P1 enhancement^All All^2003-02-12 21:25 EST by Gary Gregory^
+6349^NPE closing inspector^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-27 10:31 EST by Darin Wright^
+9057^API - CHANGE event should be better specified^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-04 14:07 EST by Darin Wright^
+6489^Plugin version numbers incorrect^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-30 19:16 EST by Jed Anderson^
+1738^Can't set scrapbook package to package in prereq project (1GKZ25D)^VERIFIED FIXED^2.0  ^P1 normal^All Windows 2000^2001-10-10 22:18 EDT by Nick Edgar^
+13584^Attempting to create breakpoints while resource tree locked^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-04-11 17:49 EDT by Darin Swanson^
+24302^Problems with non-externalized String warnings^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2002-10-02 04:01 EDT by Boris Pruessmann^
+12211^copyright statements incorrect^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-25 09:42 EST by Darin Wright^
+9652^IllegalArgumentException out of Console^VERIFIED FIXED^2.0  ^P1 critical^PC other^2002-02-13 11:06 EST by Darin Swanson^
+24367^LaunchingPlugin.buildProjects^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-10-03 15:14 EDT by Darin Wright^
+9111^Invalid thread access running test suite^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-02-05 11:36 EST by Darin Swanson^
+6248^Insufficient error reporting in JavaApplicationLauncher^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-11-23 05:40 EST by Erich Gamma^
+9194^Attempting to modify locked resource tree in BreakpointManager^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-02-06 14:31 EST by Darin Swanson^
+4576^Thread suspend/resume errors in classes with the "same" name^VERIFIED FIXED^2.0  ^P1 normal^PC Linux^2001-10-11 14:19 EDT by Jared Burns^
+6548^Missing mnemonics in Debug preferences^VERIFIED FIXED^1.0  ^P1 normal^PC Windows 2000^2001-12-04 09:15 EST by Tod Creasey^
+6326^JDI: VirtualMachine.classesByName() fails for arrays^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-26 13:53 EST by Darin Wright^
+5476^TVT Text extension/truncation problem in jar packager^VERIFIED FIXED^1.0  ^P1 minor^PC All^2001-11-02 11:42 EST by Scott Fairbrother^
+1635^README: Attach launching not working with debug element selection (1GF5ZQC)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 22:16 EDT by Joe Szurszewski^
+40170^[Commands] Workbench.restart() throws a null pointer^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2003-07-15 22:16 EDT by Wassim Melhem^
+10855^Use new workbench API for show perspective^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-06 09:42 EST by Darin Wright^
+7167^NPE shutting down in abstract debug view 'save state'^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-21 21:44 EST by Darin Wright^
+10282^Rendering of changed variables^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-26 12:49 EST by Darin Wright^
+8053^Debug view actions do not update after evaluation completes^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-22 17:18 EST by Darin Wright^
+5257^Set breakpoint takes very long^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-25 12:58 EDT by Martin Aeschlimann^
+10377^ClassCastException in LaunchConfigurationHistoryElement^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-27 05:03 EST by Jerome Lanneluc^
+19261^Text search should not use TEXT from team^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-05 04:24 EDT by Dani Megert^
+5260^TVT: Properties view for debug process is missing substitution variable^VERIFIED FIXED^2.0  ^P1 normal^PC All^2001-10-25 13:56 EDT by Dan Kehn^
+10417^inspect/display to not work in snippet editor^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-27 14:16 EST by Darin Wright^
+109168^Selection automatically jumps to warning inside the selected source range^VERIFIED FIXED^3.2  ^P1 critical^PC Windows XP^2005-09-09 12:00 EDT by Markus Keller^
+5666^Breakpoints do not work on class with native methods^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-08 11:32 EST by Ben Corrie^
+125013^[misc] deadlock in PreferencesAdapter.firePropertyChangeEvent^VERIFIED FIXED^3.2  ^P1 critical^PC All^2006-01-24 10:50 EST by Tom Hofmann^
+10424^NPE in snippet editor^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-27 15:07 EST by Darin Wright^
+6322^All types dialog shows obfuscated classes^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-26 12:57 EST by Erich Gamma^
+444201^Eclipse doesn't start on Mac when using embedded JRE with new Mac App layout^VERIFIED FIXED^3.10.0 Luna  ^P1 major with 1 vote^PC Mac OS X^2014-09-15 23:27 EDT by Sergey Prigogin^
+136855^[IDE] Deadlock caused by IDEIdleHelper and HeapStatus calls to runFinalization from UI thread^VERIFIED FIXED^3.2  ^P1 critical^PC Windows XP^2006-04-14 11:58 EDT by Tom Houser^
+6589^ctrl+insert, shift+insert incorrectly flips the insert/overwrite bit^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-05 10:22 EST by Adam Kiezun^
+81424^NPE in PropertiesSpellingReconcileStrategy^VERIFIED FIXED^3.1  ^P1 normal^PC Windows 2000^2004-12-16 11:50 EST by John Arthorne^
+138608^[Viewers] JFace AbstractTreeViewer: itemExists doesn't handle equal tree entries^VERIFIED FIXED^3.2  ^P1 major^PC Windows XP^2006-04-26 08:27 EDT by Patrick Streule^
+15763^File Deleted dialog when renaming a file using Refactoring^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-10 13:53 EDT by Dirk Baeumer^
+191540^Feature/plug-in versions need to be changed to 0.7.0^VERIFIED FIXED^unspecified  ^P1 blocker^PC Windows XP^2007-06-07 14:39 EDT by Kenn Hussey^
+18581^Single element view - markers from other elements shown^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-01 08:01 EDT by Erich Gamma^
+569496^Wrong terminology for Gerrit name used in Variables dialog^UNCONFIRMED^1.18.0  ^P3 enhancement^All All^2020-12-05 13:28 EST by Dieter Mai^
+20930^Large bug in BreakpointManager^VERIFIED FIXED^2.0  ^P1 blocker^All All^2002-06-24 22:26 EDT by David Sanders^
+569493^[RJ-Servi] Shutdown R engine of nodes gracefully (Backport to 4.2)^ASSIGNED^4.2.1  ^P3 normal^All All^2020-12-05 04:09 EST by Stephan Wahlbrink^
+554764^Delete the target element from "Delete From Model" toolbar action fails^VERIFIED FIXED^1.4.0  ^P1 enhancement^PC All^2019-11-18 09:53 EST by Arthur Daussy^
+569521^An option in tycho configuration that let tycho always use cached content of the metadata.^REOPENED^unspecified  ^P3 normal^PC Windows 10^2020-12-07 07:44 EST by Johan Compagner^
+569424^[Scripting] Python files are not correctly forked on DnD in Rhino^CLOSED FIXED^0.7.0  ^P3 normal^All All^2020-12-03 05:58 EST by Christian Pontesegger^
+569543^Can't create project fails^NEW^4.19  ^P3 blocker^Macintosh Mac OS X^2020-12-08 06:52 EST by Hello ItsMe^
+8129^NPE in Extract Local Variable^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-23 10:12 EST by Martin Aeschlimann^
+569413^error: "Evaluations must contain either an expression or a block of well-formed statements^NEW^4.18  ^P3 normal^PC Linux^2020-12-02 21:20 EST by dd ad^
+8730^wrong method deleted (packages view)^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-01-30 05:35 EST by Adam Kiezun^
+569484^Java source code window does not redraw^NEW^4.17  ^P3 critical^Macintosh Mac OS X^2020-12-04 14:27 EST by Rene^
+569421^Remove com.ibm.icu from org.eclipse.e4.rcp feature^NEW^4.17  ^P3 normal^PC Windows 10^2020-12-03 05:18 EST by Lars Vogel^
+569440^[C++17] Implement parser support for pack expansions in using-declarations^NEW^10.1.0  ^P3 normal^PC Linux^2020-12-03 15:38 EST by Lukas Grillmayer^
+569472^Cacheable HTTPS response^NEW^4.19  ^P3 normal^All All^2020-12-04 10:20 EST by Carsten Hammer^
+569466^Platform JIPP verification build not started by gerrit^NEW^unspecified  ^P3 normal^PC Linux^2020-12-04 07:46 EST by Alexander Kurtakov^
+569474^TLS cookie without secure flag set and Cookie without HttpOnly flag set^NEW^4.19  ^P3 normal^All All^2020-12-04 10:41 EST by Carsten Hammer^
+569490^[mentors] Mentor required for Eclipse ComMA^NEW^unspecified  ^P3 normal^PC Linux^2020-12-04 16:57 EST by Wayne Beaton^
+569476^HTML does not specify charset^NEW^4.19  ^P3 normal^All All^2020-12-04 11:02 EST by Carsten Hammer^
+569362^Invalidated object returned when referencing non-cacheable entity^NEW^2.7.5  ^P3 major with 3 votes^All All^2020-12-01 09:46 EST by Andreas Lemmer^
+569423^Improve / allign quick switches (CTRL+F6/ F7/F8) with Ctrl+3^NEW^4.17  ^P3 normal^PC Windows 10^2020-12-03 05:29 EST by Lars Vogel^
+569478^Cross-domain Referer leakage^NEW^4.19  ^P3 normal^All All^2020-12-04 11:14 EST by Carsten Hammer^
+569425^Add Child menu in e4 editor also for imports^NEW^4.17  ^P3 normal^PC Windows 10^2020-12-03 06:24 EST by Lars Vogel^
+569480^Some "Search {pattern} in files" in Show Action^NEW^4.19  ^P3 enhancement^All All^2020-12-04 11:53 EST by Mickael Istria^
+569426^Model Spy : extract into fragment does not work^NEW^4.17  ^P3 normal^PC Mac OS X^2020-12-03 06:27 EST by Olivier Prouvost^
+569497^Iportaing a project in the workspace folder uses the folder name instead of the .project file^NEW^4.19  ^P3 normal^PC Windows 7^2020-12-05 13:49 EST by Shock Slayer^
+569463^[Model2Doc] Create a MultiStatus compliant with IGenerationStatus^NEW^0.8.0  ^P3 normal^PC Windows 10^2020-12-04 07:19 EST by vincent lorenzo^
+569511^Preferences filter not working and rendering incorrectly MacOS BigSur^NEW^4.17  ^P3 major^Macintosh Mac OS X^2020-12-06 13:45 EST by David Rios Valeriano^
+569464^[Model2Doc][API] each generate action should allow to use a ProgressMonitor^NEW^0.8.0  ^P3 normal^PC Windows 10^2020-12-04 07:38 EST by vincent lorenzo^
+569448^UI configuration gets overwritten, resetting layout^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-04 02:07 EST by Christian Pontesegger^
+554765^Delete the container of the target element from "Delete From Model" toolbar action fails^VERIFIED FIXED^1.4.0  ^P1 enhancement^PC All^2019-11-18 09:58 EST by Arthur Daussy^
+569417^[Passage] Let a Remote Condition Miner be unoperable^CLOSED FIXED^1.1.0  ^P3 normal^All All^2020-12-03 03:05 EST by Elena Parovyshnaia^
+22390^IBM 1.4 VMs don't have rt.jar^VERIFIED FIXED^2.0  ^P1 normal^Other All^2002-08-13 11:29 EDT by Joe Szurszewski^
+569513^Setting up platform-ui SDK environment fails.^UNCONFIRMED^1.18.0  ^P3 normal^PC Windows 10^2020-12-06 14:13 EST by Dieter Mai^
+569404^p2 ant tasks to manage local repository do not modify .xz files^CLOSED DUPLICATE of bug 504081^unspecified  ^P3 normal^All All^2020-12-02 12:15 EST by Mickael Istria^
+569449^Re-license EPL-1.0 to EPL-2.0^UNCONFIRMED^unspecified  ^P3 normal^PC Windows 10^2020-12-04 03:28 EST by Arun Das^
+19007^Assertion failure when copy/pasting import statement^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-06-04 08:31 EDT by Dirk Baeumer^
+569454^No "Insert Emoji" context menu option for editors^CLOSED WONTFIX^4.18  ^P3 normal^PC Linux^2020-12-04 05:04 EST by Mat Booth^
+152461^[modulecore] Need ability to register a resource as a content type on WTPResourceFactoryRegistry^VERIFIED FIXED^1.5  ^P1 major^PC Windows XP^2006-08-01 10:56 EDT by Paul Fullbright^
+23717^Assertion violation when editing primary type declaration^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-09-18 10:15 EDT by Markus Keller^
+16488^Missing message for missing jar^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-20 17:02 EDT by Jed Anderson^
+141191^[WorkbenchParts] ISaveablePart2 prompting does not happen when closing a perspective^VERIFIED FIXED^3.2  ^P1 critical^All All^2006-05-11 00:12 EDT by Boris Bokowski^
+16709^Background file change not loaded when two editors open^VERIFIED FIXED^2.0  ^P1 blocker^PC Windows 2000^2002-05-21 20:04 EDT by Richard Kulp^
+29867^DBCS: Select project "Properties" cause core dump in GTK^VERIFIED DUPLICATE of bug 29610^2.1  ^P1 critical^Other Linux-GTK^2003-01-21 05:02 EST by SC Development 01^
+16733^Builder pref - Cannot exclude folder from resource copying^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-22 06:17 EDT by Philipe Mulet^
+6603^Index out of bounds at template preference page^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-05 13:05 EST by Alex Selkov^
+10506^NPE in launch view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-28 12:31 EST by Darin Wright^
+6696^Code completion should indicate deprecated methods^VERIFIED FIXED^2.0  ^P1 normal^PC All^2001-12-07 18:44 EST by Erich Gamma^
+10566^Copy value in variables view should work with CTRL-C^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-01 05:18 EST by Erich Gamma^
+135515^2 ASTs created while typing^VERIFIED FIXED^3.1  ^P1 major^PC Windows XP^2006-04-07 06:35 EDT by Jerome Lanneluc^
+10586^Use new workbench selection service^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-01 10:45 EST by Darin Wright^
+467309^NPE in LaunchViewBreadcrumb.dispose^VERIFIED FIXED^4.5  ^P1 major^All All^2015-05-14 04:35 EDT by Dani Megert^
+10736^Breakpoint#ensureMarker failing^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-03-04 18:53 EST by Darin Swanson^
+5686^Launch/Run actions should be available on menubar^VERIFIED FIXED^2.0  ^P1 normal^Other other^2001-11-08 16:31 EST by Nick Edgar^
+25900^NPE in CompilationUnitEditor^VERIFIED FIXED^2.1  ^P1 critical^PC Windows 2000^2002-11-08 11:56 EST by Dirk Baeumer^
+8059^NPE out of ControlActionDelegate^VERIFIED FIXED^2.0  ^P1 critical^PC other^2002-01-22 18:25 EST by Darin Swanson^
+5307^TVT1: Hardcoded category name in Debug (org.eclipse.debug.ui\plugin.xml)^VERIFIED FIXED^1.0  ^P1 normal^PC Windows 2000^2001-10-26 15:37 EDT by Dan Kehn^
+30380^Show outline doesn't get focus^VERIFIED FIXED^2.1  ^P1 critical^All All^2003-01-28 09:01 EST by Boris Pruessmann^
+7209^Run to line is broken^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-31 14:45 EST by Darin Wright^
+182065^ClassCastException expanding inspect expression^VERIFIED FIXED^3.3  ^P1 normal^PC Windows XP^2007-04-11 23:35 EDT by Darin Wright^
+15678^Drop to Frame not updating UI/stack frames correctly^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-09 16:42 EDT by Darin Swanson^
+17095^ResourceException when closed projects in workspace^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2002-05-22 17:28 EDT by Peter Burka^
+6580^Not possible to select a main class in export jar wizard^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2001-12-05 04:52 EST by Martin Möbius^
+6370^Breakpoint Properties Dialog^VERIFIED FIXED^2.0  ^P1 enhancement^All All^2001-11-27 15:57 EST by Darin Wright^
+17380^Launch history maintains duplicate entries^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-05-23 12:06 EDT by David Wegener^
+6576^Efficiency - use computeStackFrames internally^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-04 21:55 EST by Darin Wright^
+4951^Breakpoints remain installed after target terminates^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-12 18:10 EDT by Darin Wright^
+9421^NPE out of the LaunchView on shutdown with running target^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-02-11 15:11 EST by Darin Swanson^
+24587^Project properties not set properly if no arguments passed^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-10-09 12:07 EDT by Darin Swanson^
+4952^Multiple breakpoints on the same line^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-12 18:12 EDT by Darin Swanson^
+9668^Method breakpoints enabled for source methods^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-02-13 11:41 EST by Darin Swanson^
+12609^Eval with error causes eval timeout^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-04-02 09:39 EST by Darin Wright^
+13674^ClassNotPreparedException from uninitialized inner types^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-12 13:08 EDT by Nick Edgar^
+1744^Display in snippet opens temporary file (1GL0HES)^VERIFIED WORKSFORME^2.0  ^P1 minor^All Windows NT^2001-10-10 22:18 EDT by Dani Megert^
+6501^src.jar not found 1.4 by default^VERIFIED FIXED^2.0  ^P1 normal^Other other^2001-12-03 08:59 EST by Darin Swanson^
+9124^NPE using launch configurations^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-02-05 12:57 EST by Darin Swanson^
+1751^Console misses style range for quick output (1GL4R1L)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 22:18 EDT by Darin Swanson^
+43657^[KeyBindings] Delete selection in key entry widget^VERIFIED FIXED^3.0  ^P1 normal^All All^2003-09-25 10:37 EDT by Douglas Pollock^
+6518^Internal error while doing evaluation^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-12-03 16:05 EST by Darin Wright^
+9456^AssertionFailedException attempting to draw overlays for breakpoints^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-02-12 10:27 EST by Darin Swanson^
+13292^SAXParseExceptions in launch config edit (empty .launch file)^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-10 10:12 EDT by Adam Kiezun^
+12708^NPE in Add Watchpoint^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2002-04-03 14:00 EST by Randy Giffen^
+13414^Tight loop with conditional breakpoint locks up UI^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-04-10 14:07 EDT by Darin Swanson^
+103038^Need more flexible EEnumLiteral support.^VERIFIED FIXED^2.1  ^P1 enhancement^PC Windows XP^2005-07-07 13:04 EDT by Iris Eiron^
+396229^org.eclipse.sdk.examples bundle has empty plugin.xml and no localization^VERIFIED FIXED^4.2  ^P1 major^PC Linux^2012-12-10 18:48 EST by David Williams^
+47964^[KeyBindings] help with multi-stroke keyboard shortcuts pops up unusable window^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2003-12-03 05:34 EST by Nikolay Metchev^
+60709^[Contributions] [Commands] [Javadoc] API issues at the boundary between actions and commands^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2004-05-03 00:38 EDT by Nick Edgar^
+398201^[CBI] Issues with org.eclipse.osgi (3.9?) and org.eclipse.equinox.ip in N builds^VERIFIED FIXED^4.3  ^P1 blocker^PC Linux^2013-01-15 11:03 EST by David Williams^
+335284^OpenFromClipboardTests causes NPEs and test failures^VERIFIED FIXED^3.7  ^P1 major^PC Windows XP^2011-01-25 04:48 EST by Dani Megert^
+399038^Update EMF contribution URL to their Juno SR2 version^VERIFIED FIXED^4.2.1  ^P1 normal^PC Linux^2013-01-25 02:53 EST by David Williams^
+340058^Review performance results^VERIFIED FIXED^3.7  ^P1 normal^All All^2011-03-15 13:06 EDT by Dani Megert^
+402693^[CBI] Our repo is missing "o.e.jdt.core.compiler.batch"^VERIFIED FIXED^4.2.1  ^P1 major^PC Linux^2013-03-07 16:27 EST by David Williams^
+74990^[Contexts] [Commands] EnabledSubmission for activePartId not working^VERIFIED FIXED^3.0  ^P1 major^All All^2004-09-24 16:16 EDT by Darin Wright^
+16181^Tab key doesn't work in editor when 'Insert spaces for tabs' enabled^VERIFIED FIXED^2.0  ^P1 major^Other other^2002-05-16 13:22 EDT by Scott Rutledge^
+7309^Should be allowed to save patch directly into the file system^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-07 10:12 EST by Jean-Michel Lemieux^
+77129^[KeyBindings] Esc doesn't close dialogs^VERIFIED FIXED^3.1  ^P1 major^All All^2004-10-27 11:55 EDT by Silvio Böhler^
+18960^SelectMarkerRulerAction NullPointerException^VERIFIED FIXED^2.0  ^P1 critical^Other Windows 98^2002-06-03 22:00 EDT by Simon Archer^
+22595^No code assist in details pane^VERIFIED FIXED^2.0  ^P1 normal^Other Linux-GTK^2002-08-20 16:23 EDT by Jared Burns^
+82802^[Commands] [Contexts] [Contributions] [KeyBindings] performance: Many duplicate strings^VERIFIED FIXED^3.1  ^P1 normal^All All^2005-01-13 17:27 EST by John Arthorne^
+34138^Invalid thread access during JDT Debug UI plugin startup^VERIFIED FIXED^2.1  ^P1 major^Other All^2003-03-07 15:25 EST by Jared Burns^
+82914^[KeyBindings] performance: Too many MissingResourceException from NativeKeyFormatter^VERIFIED FIXED^3.1  ^P1 normal^All All^2005-01-15 12:53 EST by Andrey Loskutov^
+124334^Post-commit sends notifications from silent transactions^VERIFIED FIXED^unspecified  ^P1 major^PC Linux^2006-01-18 12:13 EST by Christian Damus^
+70862^[Theme] Performance Enhancements For EMF/SDO^VERIFIED FIXED^2.1  ^P1 normal^PC Windows XP^2004-07-26 17:55 EDT by Andrew Spyker^
+41506^NPE attempting to create watch expression^VERIFIED FIXED^3.0  ^P1 critical^PC Windows 2000^2003-08-13 14:38 EDT by Darin Wright^
+436155^[type hierarchy] No type hierarchy shown for org.eclipse.swt.widgets.Text^VERIFIED FIXED^4.4  ^P1 critical^All All^2014-05-29 07:36 EDT by Noopur Gupta^
+77754^Inefficient loop rendering styled text^VERIFIED FIXED^3.1  ^P1 major^PC Linux-GTK^2004-11-03 15:22 EST by John Arthorne^
+17576^JavaSearchPage.SearchPatternData must be a static class^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-24 05:48 EDT by Adam Kiezun^
+3666^CodeCompletion - Hungry code assist (1GDRYW5)^VERIFIED FIXED^2.0  ^P1 critical^All Windows 2000^2001-10-10 22:58 EDT by Jed Anderson^
+217233^[compiler] Add compiler API to call the batch compiler from a stand-alone application^VERIFIED FIXED^3.4  ^P1 enhancement^PC All^2008-01-31 05:20 EST by Maxime Daniel^
+3952^NPE openning class file (1GLDYKJ)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 23:03 EDT by Darin Wright^
+57976^[Contexts] [RCP] "Edit Java Source" context should not be in org.eclipse.ui for RCP^VERIFIED FIXED^3.0  ^P1 major^All All^2004-04-08 19:27 EDT by Hong Deng^
+531715^[14] JEP 305: Pattern Matching for instanceof (Preview)^VERIFIED FIXED^4.8  ^P1 normal^PC Windows 7^2018-02-27 03:14 EST by Manoj Palat^
+9065^WID opening editor for breakpoint^VERIFIED FIXED^2.0  ^P1 normal^Other Linux-Motif^2002-02-04 15:20 EST by Jared Burns^
+466604^[Templates] Eclipse 4 RCP product is missing dependencies^VERIFIED FIXED^4.5  ^P1 normal^PC Windows NT^2015-05-06 11:44 EDT by Jonas Helming^
+6321^Console IOException^VERIFIED FIXED^2.0  ^P1 critical^PC Linux^2001-11-26 12:56 EST by Jared Burns^
+10686^Double clicking in vertical ruler to add breakpoint: breakpoint does not show^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-03-04 11:53 EST by Darin Swanson^
+220482^Categories with empty parents do not appear in preference page^VERIFIED FIXED^unspecified  ^P1 normal^PC Linux^2008-02-26 17:48 EST by Christian Damus^
+157687^Assertion failed applying patch^VERIFIED FIXED^3.2  ^P1 blocker^PC All^2006-09-18 15:40 EDT by Darin Wright^
+224386^AbstractOCLConditions need to be disposable^VERIFIED FIXED^unspecified  ^P1 normal^PC Linux^2008-03-27 10:58 EDT by Christian Damus^
+376102^[CSS] FileNotFoundException starting target workspace^VERIFIED FIXED^4.2  ^P1 major^PC Windows 7^2012-04-04 12:11 EDT by Michael Rennie^
+1768^Variables view stays empty with stack frame selected (1GLE8PW)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 22:19 EDT by Jared Burns^
+227429^Rollback fails with IndexOutOfBoundsException^VERIFIED FIXED^unspecified  ^P1 major^PC Linux^2008-04-16 16:17 EDT by Christian Damus^
+294618^[formatter] The formatter fails to format a compilation unit with deep nesting of html tags^VERIFIED FIXED^3.6  ^P1 normal^All All^2009-11-09 10:05 EST by Frederic Fusier^
+28420^Two dialogs define same image^VERIFIED FIXED^2.1  ^P1 major^PC Windows 2000^2002-12-16 14:32 EST by John Arthorne^
+109749^Debug Problems^VERIFIED FIXED^unspecified  ^P1 normal^PC Windows XP^2005-09-16 10:16 EDT by clement chu^
+179685^JREContainerInitializer average initialization time^VERIFIED FIXED^3.2.2  ^P1 normal^PC Windows XP^2007-03-28 04:58 EDT by Eric Jodet^
+166536^[API] Need to cleanup manifests^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2006-12-01 14:16 EST by Cameron Bateman^
+6834^ClassCastExeption running Eclipse on Linux^VERIFIED FIXED^2.0  ^P1 critical^PC Linux^2001-12-11 23:20 EST by Rodrigo Peretti^
+180496^Use the new ClasspathContainerInitializer API for the JRE^VERIFIED FIXED^3.3  ^P1 major^PC Windows XP^2007-04-02 11:12 EDT by Martin Aeschlimann^
+7310^JDI timeout exception in debugger^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-07 10:32 EST by Philipe Mulet^
+10780^Delete and Copy enabled for Launch configuration type^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-03-05 11:03 EST by Darin Swanson^
+9704^NPE on shutdown in BreakpointsVIew^VERIFIED FIXED^2.0  ^P1 critical^PC other^2002-02-13 12:34 EST by Darin Swanson^
+142870^Generate for parents of selected model element^VERIFIED FIXED^2.2  ^P1 enhancement^All All^2006-05-19 18:13 EDT by Dave Steinberg^
+16838^Over zealous error logging when config has been deleted^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-05-22 11:10 EDT by Darin Swanson^
+21019^TVT2: truncated english text in decorators prefs for workbench^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-06-26 13:32 EDT by Richard Bone^
+16970^ClassCastException out of Launch history preference page^VERIFIED FIXED^2.0  ^P1 critical^PC other^2002-05-22 14:42 EDT by Darin Swanson^
+119930^[DataBinding] We always call addPropertyChangeListener(pcl) even when we could/should call addPropertyChangeListener("propertyName", pcl)^VERIFIED FIXED^3.2  ^P1 critical^PC All^2005-12-08 13:10 EST by Dave Orme^
+202356^wrong artifacts being copied^VERIFIED FIXED^unspecified  ^P1 normal^PC Windows XP^2007-09-05 21:26 EDT by David Williams^
+166154^deleting about 10 remote connections take up to a minute^VERIFIED FIXED^1.0  ^P1 critical^PC Windows XP^2006-11-29 01:18 EST by Tobias Schwarz^
+53136^[KeyBindings] Ctrl-S ceased working after a while^VERIFIED FIXED^3.0  ^P1 critical^PC Windows 2000^2004-02-25 18:19 EST by Philipe Mulet^
+6561^Refactoring preview screen all over the srceen^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-04 12:37 EST by Martin Aeschlimann^
+8187^NPE in Self Encapsulate Field^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-23 11:47 EST by Martin Aeschlimann^
+48869^[EditorMgmt] Leak when closing last editor^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2003-12-16 11:27 EST by Thomas M??der^
+8221^NPE in refactoring preview page (Pull up)^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-23 13:34 EST by Martin Aeschlimann^
+71016^infinitely prompty dialog^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-07-28 15:40 EDT by Darin Wright^
+63362^[KeyBindings] [ViewMgmt] Key bindings do not work in detached views^VERIFIED FIXED^3.0  ^P1 major^PC Windows 2000^2004-05-20 23:51 EDT by Nick Edgar^
+120652^[Commands] handlers: Cannot add evaluations to Display or Expressions View^VERIFIED FIXED^3.2  ^P1 major^All All^2005-12-13 13:17 EST by Samantha Chan^
+5587^Step Over jumps to caller^VERIFIED FIXED^2.0  ^P1 normal^Other other^2001-11-06 13:56 EST by Nick Edgar^
+126563^[Contexts] Window context stays active when find/replace dialog open^VERIFIED FIXED^3.2  ^P1 major^All All^2006-02-06 09:46 EST by Douglas Pollock^
+1766^Text too low in change variable value text box (1GLE8CB)^VERIFIED FIXED^2.0  ^P1 critical^All Linux^2001-10-10 22:18 EDT by Jared Burns^
+9636^Message on launch config dialog^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-13 10:38 EST by Darin Wright^
+15383^Scrapbook launching failed^VERIFIED FIXED^2.0  ^P1 critical^Other Windows XP^2002-05-06 18:12 EDT by Joe Szurszewski^
+116304^[content assist] AFE in LazyJavaCompletionProposal after content assis in breakpoint condition^VERIFIED FIXED^3.2  ^P1 major^PC All^2005-11-14 14:13 EST by Markus Keller^
+15862^Cannot add internal jar to classpath^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-13 12:12 EDT by Jerome Lanneluc^
+76812^Vm detection fails on Linux^VERIFIED FIXED^3.1  ^P1 critical^PC Windows XP^2004-10-22 10:31 EDT by Darin Wright^
+128171^Enable or remove DiffApplierTest^VERIFIED FIXED^3.2  ^P1 normal^PC Windows XP^2006-02-16 04:52 EST by Dani Megert^
+15885^Revert button not enabled after changes^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-13 14:27 EDT by Darin Swanson^
+129168^[content assist] UI hangs in Code assist while showing additional info^VERIFIED FIXED^3.2  ^P1 major^PC All^2006-02-23 10:29 EST by Dirk Baeumer^
+15988^ArrayIndexOutOfBoundsException in config reselection^VERIFIED FIXED^2.0  ^P1 normal^Other Windows XP^2002-05-14 18:12 EDT by Joe Szurszewski^
+24034^Ant: Buildfile: Target: Spaces in target names confuse eclipse^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-09-24 10:42 EDT by Sacha Bugnon^
+155665^[implementation] Can the RevisionSelectionProvider adapter code be removed?^VERIFIED FIXED^3.2  ^P1 normal^PC All^2006-08-30 07:06 EDT by Dani Megert^
+132643^[content assist] Do not disable code assist processors automatically^VERIFIED FIXED^3.2  ^P1 normal^All All^2006-03-21 03:02 EST by Dani Megert^
+17065^Sharing JRE^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-22 16:34 EDT by Darin Wright^
+569430^Updates to CONTRIBUTING file, add LICENSE^NEW^1.10  ^P3 normal^PC All^2020-12-03 08:40 EST by Krum Tsvetkov^
+3728^Cannot copy into a project in packages view (1GEEOX6)^VERIFIED FIXED^2.0  ^P1 critical^All Windows 2000^2001-10-10 22:59 EDT by Jeff McAffer^
+16596^[View Mgmt] Ctrl F6 and Ctrl F7 has inaccessible entries^VERIFIED FIXED^2.0  ^P1 major^PC Linux^2002-05-21 11:53 EDT by Tod Creasey^
+17462^IllegalArgumentException when printing long stack to console^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-23 15:47 EDT by Veronika Irvine^
+3753^Source lookup fails in self-host even for simple case (1GEN8EN)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 23:00 EDT by Darin Wright^
+17018^org.eclipse.ui.examples.redmetool.AddSentenceResolution is calling getEditors^VERIFIED FIXED^2.0  ^P1 critical^PC Windows XP^2002-05-22 15:39 EDT by Randy Giffen^
+569393^Switch to EPL 2.0^NEW^0.12.0  ^P3 normal^PC Windows NT^2020-12-02 08:12 EST by Sandu Postaru^
+18807^Compare with patch fails due to missing LF^VERIFIED FIXED^2.0  ^P1 blocker^PC Windows 2000^2002-06-03 13:01 EDT by Dani Megert^
+18579^Selection event not fired^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-01 07:57 EDT by Erich Gamma^
+569489^[proposal] technology.comma^NEW^unspecified  ^P3 normal^PC Linux^2020-12-04 16:54 EST by Wayne Beaton^
+136087^Cannot replace with local history due to NoClassDefFoundError^VERIFIED FIXED^3.1  ^P1 critical^PC Windows XP^2006-04-11 07:04 EDT by Jerome Lanneluc^
+569408^[release] modeling.mmt.qvtd 0.24.0^NEW^unspecified  ^P3 normal^All All^2020-12-02 15:34 EST by Wayne Beaton^
+569468^[GTK3] SWT/GTK3 crash after opening windows^NEW^4.9  ^P3 critical^PC Linux^2020-12-04 09:26 EST by Hauke Fuhrmann^
+569409^[release] modeling.mdt.ocl 6.13.0^NEW^unspecified  ^P3 normal^All All^2020-12-02 16:20 EST by Wayne Beaton^
+569469^AbstractTreeViewer collapseAll() sets selection on first element on WIN^NEW^4.19  ^P3 normal^PC Windows 10^2020-12-04 09:45 EST by Nicolas Huber^
+569494^[gtk][webkit]Code Content Assist Hangs In JDT^NEW^4.17  ^P3 normal^PC Linux^2020-12-05 10:47 EST by Rob Hatcherson^
+569391^Invalid selection provided by CrossTables on domain based cells^NEW^6.3.4  ^P3 normal^PC Windows 10^2020-12-02 07:56 EST by Arthur Daussy^
+569399^pomDependencies does not default to ignore anymore?^RESOLVED FIXED^2.1.0  ^P3 normal^PC All^2020-12-02 09:45 EST by Lorenzo Bettini^
+569377^Touch docs bundles for 4.18 RC2^RESOLVED FIXED^4.18  ^P3 normal^PC Windows 10^2020-12-02 01:27 EST by Sravan Kumar Lakkimsetti^
+569422^Uninterpreted Java extension service in odesign to fill a column of a Table representation^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-03 05:27 EST by Glenn Plouhinec^
+569531^filenav_nav.gif etc references not upgraded to corresponding *.png by nested Eclipse Exit.^RESOLVED WONTFIX^4.18  ^P3 normal^PC Windows 10^2020-12-07 13:09 EST by Ed Willink^
+569443^Command for getting the sources of a module^NEW^unspecified  ^P3 normal^PC Windows 10^2020-12-03 17:25 EST by Mircea Gherzan^
+569374^[patch] NPE in AttributeValueCompletionProcessor.convertToVersionProposals for invalid location^RESOLVED FIXED^4.18  ^P3 normal^PC Mac OS X^2020-12-01 17:39 EST by Nitin Dahyabhai^
+569400^Clean forceQualifierUpdate files for doc bundles^RESOLVED FIXED^4.18  ^P3 normal^PC Windows 10^2020-12-02 10:19 EST by Sravan Kumar Lakkimsetti^
+569457^Add support for headless build and export of Titan Java projects^NEW^7.1.0  ^P3 enhancement^PC Windows 10^2020-12-04 05:52 EST by Kristof Szabados^
+569534^4.19 I-Build: I20201207-1800 - BUILD FAILED^RESOLVED FIXED^4.18  ^P3 blocker^PC Windows 10^2020-12-07 22:34 EST by Sravan Kumar Lakkimsetti^
+141082^CompareEditor.setInput() does not notify ISaveablesLifecycleListener^VERIFIED FIXED^3.2  ^P1 critical^All All^2006-05-10 12:44 EDT by Boris Bokowski^
+569536^Associate CORE-V IDE CDT Github repository with CORE-V Core project^NEW^unspecified  ^P3 normal^All All^2020-12-08 03:09 EST by Alexander Fedorov^
+569407^Committers involved in an Eclipse release should be mentioned in the About Dialog^NEW^4.17  ^P3 enhancement^All All^2020-12-02 13:47 EST by Olivier Prouvost^
+569398^Rename button "Archive" to "Move to archive"^RESOLVED FIXED^unspecified  ^P3 normal^PC Windows 10^2020-12-02 08:54 EST by Philippe Dul^
+569518^Add additional CNAME entry for vorto.eclipseprojects.io^NEW^unspecified  ^P3 normal^PC Mac OS X^2020-12-07 03:50 EST by Kevin Olotu^
+20895^[Editor Mgmt] SWTException in WorkbenchWindow opening a editor.^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-24 12:45 EDT by Eduardo Pereira^
+569525^Update Gerrit ECA plugin to new version (1.0.14)^NEW^unspecified  ^P3 normal^PC All^2020-12-07 09:47 EST by Martin Lowe^
+569431^Concepts names have too long names^NEW^1.3.1  ^P3 normal^PC Windows 10^2020-12-03 09:12 EST by Arnaud Dieumegard^
+3873^Source Attachment dialog initially comes up with error (1GF0GBL)^VERIFIED FIXED^2.0  ^P1 critical^All Windows NT^2001-10-10 23:02 EDT by Dani Megert^
+569450^Functional Chains as Functional Primary Assets^NEW^0.9.1  ^P3 normal^PC Windows 10^2020-12-04 03:42 EST by Malina Stoicanescu^
+3930^New fields show in content outline even if "Hide Fields" is selected (1GF65NC)^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 23:03 EDT by John Arthorne^
+569366^Retire outdated Git repositories^NEW^unspecified  ^P3 normal^PC Linux^2020-12-01 11:23 EST by Lars Vogel^
+157783^[rules] sticky live annotations in overview ruler not updated when typing^VERIFIED FIXED^3.3  ^P1 normal^PC All^2006-09-19 07:03 EDT by Dani Megert^
+80406^[DynamicUI] NPE trying to open GIF file^VERIFIED FIXED^3.1  ^P1 blocker^PC Windows XP^2004-12-07 14:24 EST by Darin Wright^
+25102^Unbound classpath variables after upgrade^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-10-19 18:21 EDT by DJ Houghton^
+82394^[preferences][templates] NPE trying to edit code templates^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2005-01-07 13:39 EST by DJ Houghton^
+305267^Bugzilla verification fails starting with 3.4.5^VERIFIED FIXED^unspecified  ^P1 major^All All^2010-03-09 20:42 EST by Albert Ting^
+1769^Hit count watchpoints not always re-enabled (1GLE911)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 22:19 EDT by Joe Szurszewski^
+5627^NPE setting detail pane orientation^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-07 11:51 EST by Darin Swanson^
+123415^[Commands] handlers: action set handlers stop working when two workbench windows open^VERIFIED FIXED^3.2  ^P1 major^All All^2006-01-11 07:42 EST by Philipe Mulet^
+95217^[Commands] Remove experimental handlerSubmission element from the "org.eclipse.ui.commands" extension point^VERIFIED FIXED^3.1  ^P1 normal^All All^2005-05-13 15:40 EDT by Douglas Pollock^
+5715^Problems using scrapbook^VERIFIED FIXED^2.0  ^P1 critical^PC Windows NT^2001-11-09 10:55 EST by Joe Szurszewski^
+7067^native method exception retrieving source name^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-18 14:46 EST by Darin Wright^
+95222^[KeyBindings] Bindings stop working (no shell activation event)^VERIFIED FIXED^3.1  ^P1 major with 1 vote^PC Linux-GTK^2005-05-13 16:09 EDT by Jared Burns^
+72161^[KeyBindings] Allow to see actual key bindings^VERIFIED FIXED^3.0  ^P1 enhancement^All All^2004-08-18 08:43 EDT by Dani Megert^
+54654^[KeyBindings] Edit in place in the navigator does not support the delete key^VERIFIED FIXED^3.0  ^P1 normal^PC Windows All^2004-03-12 10:56 EST by Pascal Rapicault^
+214483^No File Types listed in Files Preference page^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2008-01-07 09:03 EST by Kevin Doyle^
+17073^Sharing JRE in buildpath - errors when JRE does not exist^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-22 16:43 EDT by Darin Wright^
+55278^[KeyBindings] Content assist bindings are still in UI plugin^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2004-03-18 15:23 EST by Nick Edgar^
+164803^Line delimiter settings are ignored during generating code^VERIFIED FIXED^2.3.0  ^P1 enhancement with 1 vote^PC Windows XP^2006-11-16 07:17 EST by Marcus Ebner^
+313922^empty 'Plug-in Dependencies' after checking out "org.eclipse.jdt.apt.core"^VERIFIED FIXED^3.6  ^P1 critical^PC Windows XP^2010-05-21 11:08 EDT by Darin Wright^
+7804^Internal VMDisconnected trying to delete event requests after VM is gone^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-16 14:41 EST by Darin Swanson^
+99417^[Doc] Some Javadoc missing from ISV Guide^VERIFIED DUPLICATE of bug 98827^3.1  ^P1 normal^All All^2005-06-10 13:28 EDT by Konrad Kolosowski^
+43174^Code Assist take a long time to find Classes in ManyClasses200 Project^VERIFIED FIXED^1.2  ^P1 major^Other Linux-GTK^2003-09-16 15:42 EDT by Mathieu Lapensée^
+234868^[Transactions] No Rollback when the execution of a Trigger fails^VERIFIED FIXED^unspecified  ^P1 normal^PC Windows XP^2008-05-30 10:56 EDT by Ömer Yildiz^
+32633^Debug Launch configuration does not expand classpath variables properly^VERIFIED FIXED^2.1  ^P1 critical with 2 votes^PC Windows 2000^2003-02-24 07:33 EST by Max Rydahl Andersen^
+100346^[KeyBindings] registry: 2.1 KeyBinding conversion causes fatal Eclipse crash^VERIFIED FIXED^3.1  ^P1 major^All All^2005-06-15 21:47 EDT by David Biesack^
+3578^DCR: Enable/Disable a breakpoint in vertical ruler of Java Editor (1GFQ6DY)^VERIFIED FIXED^2.0  ^P1 major^All Windows NT^2001-10-10 22:57 EDT by Dani Megert^
+114105^Adoption of ICU4J requirements - OCL, Query and Validation Components^VERIFIED FIXED^unspecified  ^P1 enhancement^All Windows XP^2005-10-28 10:20 EDT by Vishy Ramaswamy^
+10772^Single-click launching generates exception on class with no main method^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-03-05 10:45 EST by Jared Burns^
+6387^Can't use F10^VERIFIED FIXED^2.0  ^P1 normal^Other other^2001-11-28 11:34 EST by Nick Edgar^
+123119^Transaction options should be on Transaction interface^VERIFIED FIXED^unspecified  ^P1 normal^PC Linux^2006-01-09 11:23 EST by Christian Damus^
+182412^Live constraints with unspecified targets broken by custom event support^VERIFIED FIXED^unspecified  ^P1 normal^PC Linux^2007-04-13 17:28 EDT by Christian Damus^
+9178^Remove All Terminated always disabled?^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-06 11:55 EST by John Arthorne^
+9204^NPE in Java Launch Configuration Delegate^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-02-06 15:31 EST by Jared Burns^
+127250^AFE when typing @ in javadoc comment^VERIFIED FIXED^3.2  ^P1 major^PC Windows XP^2006-02-10 07:03 EST by Markus Keller^
+9396^NPE in add breakpoint action^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-11 10:52 EST by Darin Wright^
+4180^Class file viewer not reused if same class file is opened (1GJXXI5)^VERIFIED FIXED^2.0  ^P1 major^All Windows NT^2001-10-10 23:07 EDT by Dani Megert^
+133853^endless loop in icu.RuleBasedBreakIterator_New^VERIFIED FIXED^3.2  ^P1 blocker^PC Windows XP^2006-03-29 10:24 EST by Martin Aeschlimann^
+17590^Internal error attaching source to a jar in a container^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-24 07:23 EDT by Jerome Lanneluc^
+4313^Internal error in argument hints while codeassisting (1GL9VPU)^VERIFIED FIXED^2.0  ^P1 normal^All Windows NT^2001-10-10 23:09 EDT by Philipe Mulet^
+73969^Full build on startup^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-09-15 05:20 EDT by Dirk Baeumer^
+213421^[performance] Possible performance regression shown by JavaFormatterTest#test()^VERIFIED FIXED^3.4  ^P1 normal^PC Windows XP^2007-12-19 03:12 EST by Frederic Fusier^
+125586^Rename org.eclipse.emf.workbench* and TX*^VERIFIED FIXED^unspecified  ^P1 major^PC Linux^2006-01-27 17:19 EST by Christian Damus^
+47308^Add Ant task error in preferences in 3.0M5^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2003-11-23 12:33 EST by ]-[appy^
+149982^UI Thread Interrupts interfere with Timed Transaction Waits^VERIFIED FIXED^unspecified  ^P1 major^PC All^2006-07-07 10:33 EDT by Christian Damus^
+17694^NPE: refactoring actions for .java file opened from repository enabled in pull down menu^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-24 10:54 EDT by Till Bay^
+497379^Validation deadlocks when proxy resolution loads other resources^VERIFIED FIXED^2.0.0  ^P1 critical^PC Mac OS X^2016-07-06 08:20 EDT by Christian Damus^
+153908^Transaction API doesn't scale well for multiple transactions in a parent transaction^VERIFIED FIXED^unspecified  ^P1 major^PC Windows XP^2006-08-15 10:05 EDT by Maneesh^
+210263^Missing copyright tool gives false positives for feature & license files^VERIFIED FIXED^unspecified  ^P1 critical^All All^2007-11-19 10:48 EST by David Whiteman^
+8159^LaunchView toolbar actions not updated on long steps^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-23 11:01 EST by Darin Swanson^
+158458^EMFT OCL 1.0.1RC2a is missing plugin org.eclipse.emf.ocl.doc^VERIFIED FIXED^1.0  ^P1 major^All All^2006-09-23 22:09 EDT by David Olsen^
+7425^Doubleclick a breakpoint in debug perspective results in error^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-01-10 08:30 EST by Martin Möbius^
+8265^AssertionFailedException during code completion in JavaSnippetEditor, DisplayView^VERIFIED FIXED^2.0  ^P1 critical^PC other^2002-01-23 15:02 EST by Darin Swanson^
+162027^PrivilegedRunnable is causing corruption of transactions^VERIFIED FIXED^unspecified  ^P1 critical^PC Windows XP^2006-10-23 21:30 EDT by Maneesh^
+24527^java.io.FileNotFoundException occurs when invoking AntRunner^VERIFIED FIXED^2.0  ^P1 blocker^PC All^2002-10-08 14:14 EDT by Sonia Dimitrov^
+162141^Deadlock caused by implicit job on UI thread^VERIFIED FIXED^unspecified  ^P1 blocker^PC Linux^2006-10-24 16:30 EDT by Christian Damus^
+18968^'Go to Next Problem' icon remains pressed^VERIFIED FIXED^2.0  ^P1 major^Other Windows 98^2002-06-04 04:19 EDT by Eric Jain^
+7909^CVS Checkout fails^VERIFIED FIXED^2.0  ^P1 blocker^PC Windows 2000^2002-01-19 04:15 EST by Kim Rasmussen^
+437316^bad md5 value for org.eclipse.platform.doc.isv_4.4.0.v20140604-2138.jar in Luna RC4 repository^VERIFIED FIXED^4.4  ^P1 normal^PC Windows 7^2014-06-12 19:05 EDT by Steve Francisco^
+15362^Standard out not always hooked to console^VERIFIED FIXED^2.0  ^P1 normal^Other Windows XP^2002-05-06 15:56 EDT by Joe Szurszewski^
+18632^NPE populating BasicLauncher tab^VERIFIED FIXED^2.0  ^P1 normal^PC HP-UX^2002-06-01 16:35 EDT by Grant Gayed^
+228572^Discriminator Column length displaying 'null' default in orm.xml entity^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2008-04-23 21:13 EDT by Karen Butzke^
+56887^[KeyBindings] StyledText gets key event when pressing Ctrl+O^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-03-31 05:31 EST by Dani Megert^
+21420^Changing .classpath doesn't update JDT^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-07-09 15:48 EDT by Randy Hudson^
+231491^Unmapped (non-default) mapping in orm.xml displayes incorrect text on details pane^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2008-05-12 01:39 EDT by Neil Hauge^
+57631^[EditorMgmt] NullPointerException in EditorWorkbook.createControl^VERIFIED WORKSFORME^3.0  ^P1 major^PC Linux-GTK^2004-04-06 14:40 EDT by Douglas Pollock^
+60829^[KeyBindings] Key bindings not updated properly in PDE editors^VERIFIED FIXED^3.0  ^P1 blocker^PC Windows XP^2004-05-03 17:59 EDT by Dejan Glozic^
+271838^Invalid problem reported for duplicate generators^VERIFIED DUPLICATE of bug 271462^2.2  ^P1 normal^PC Windows XP^2009-04-09 15:41 EDT by Neil Hauge^
+58213^[EditorMgmt] NullPointerException in EditorPresentation when getTitleToolTip returns null^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-12 20:19 EDT by Claude Montpetit^
+60840^[KeyBindings] Delete key does not work in Combo boxes when the Combo box is in a Toolbar^VERIFIED FIXED^3.0  ^P1 major^PC All^2004-05-03 21:53 EDT by Matthew Hatem^
+48029^Provide an Emacs derivative of the new key configuration^VERIFIED FIXED^3.0  ^P1 enhancement^All All^2003-12-03 16:03 EST by Douglas Pollock^
+9166^NPE in preference page^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-06 10:04 EST by Adam Kiezun^
+12784^String.startsWith(String) creates bad compilation error^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-04-04 10:07 EST by Jared Burns^
+9845^Remove All action activation in ExpressionsView^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-14 13:57 EST by Darin Swanson^
+4955^Hit count breakpoint does not re-enable^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-12 18:20 EDT by Darin Wright^
+24696^ExternalTools antrunner.jar is still in the HEAD stream^VERIFIED FIXED^2.0  ^P1 major^Other other^2002-10-11 08:57 EDT by Darin Swanson^
+9424^JavaDebugOptionsManager attempting to modify resource in resource change callback^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-02-11 15:22 EST by Darin Swanson^
+6393^No stack frames shown after breakpoint hit^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-11-28 14:58 EST by Jed Anderson^
+15735^Debugger can modify resources during POST_AUTO_BUILD resource changed notification^VERIFIED WONTFIX^2.0  ^P1 normal^PC Linux^2002-05-10 10:40 EDT by Jared Burns^
+406608^PDE has renamed LauncherUtils.clearWorkspace()^VERIFIED FIXED^4.3  ^P1 normal^PC Windows 7^2013-04-25 15:25 EDT by Curtis Windatt^
+6408^Attempts to set breakpoint on unsaved resource fails^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-28 19:02 EST by Jed Anderson^
+1655^BUG - Timing out on toString; total redraw of debug view (1GG8SQJ)^VERIFIED FIXED^2.0  ^P1 minor^All Windows NT^2001-10-10 22:17 EDT by Darin Swanson^
+11032^Launch configuration enviroment variables added with no action from user^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-03-08 11:27 EST by Darin Swanson^
+5340^Cancelling add exception breakpoint has no effect^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-29 14:58 EST by John Arthorne^
+1665^Drop to frame hangs if after invoke (1GH3XDA)^VERIFIED FIXED^2.0  ^P1 minor^All All^2001-10-10 22:17 EDT by Jerome Lanneluc^
+11060^JDIFieldVariable.setValue(IValue) fails for static fields^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-03-08 16:17 EST by Jared Burns^
+5349^ClassCastExceptions caused by BreakpointManager^VERIFIED FIXED^2.0  ^P1 blocker^PC Windows NT^2001-10-30 07:56 EST by Dani Megert^
+1682^Inspected variable children not always updating (1GIGIX5)^VERIFIED WORKSFORME^2.0  ^P1 minor^All All^2001-10-10 22:17 EDT by Darin Swanson^
+8245^Launch preferences page problems^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-23 14:34 EST by Tod Creasey^
+5791^NPE in SocketUtil^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-12 10:13 EST by Darin Wright^
+5854^Breakpoint marker deleted without notifying breakpoint object^VERIFIED FIXED^2.0  ^P1 normal^PC Linux^2001-11-13 12:37 EST by Jared Burns^
+544823^Timeout while jar signing caused I20190226-0600 and I20190226-0715 I-build failure^VERIFIED FIXED^4.11  ^P1 blocker^PC All^2019-02-26 08:39 EST by Niraj Modi^
+56667^Minimization of top Shell widgets impossible (SWT.MIN & SWT.NONE) on PocketPC (BBAWT)^VERIFIED FIXED^3.0  ^P1 critical^All Windows CE^2004-03-29 17:54 EST by Cohan Sujay Carlos^
+8085^template pref page: exception while importing incorrect file^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-23 06:39 EST by Adam Kiezun^
+569467^[BigSur] Editable Comboboxes: can't select in popup^CLOSED WORKSFORME^4.18  ^P3 normal^PC Mac OS X^2020-12-04 08:29 EST by Thomas Singer^
+60918^[KeyBindings] Some key bindings not working^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-05-04 12:05 EDT by DJ Houghton^
+382153^StackOverflowError when creating a new data source in Data Source Explorer^VERIFIED FIXED^1.10  ^P1 blocker^PC Windows 7^2012-06-08 17:53 EDT by Shenxue Zhou^
+569397^[Tests] Update SyncUtil's javadoc^RESOLVED FIXED^Next  ^P3 normal^PC Windows 10^2020-12-02 08:44 EST by Abdullah Khalid^
+11424^ArrayIndexOutOfBoundsException at "Expand Selection to Previous Element"^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-14 20:16 EST by Rene Leonhardt^
+23340^[ExternalTools] ArrayIndexOutOfBounds exception when running ant in a build^VERIFIED FIXED^2.0.1  ^P1 normal^PC Windows 2000^2002-09-09 14:40 EDT by Jeff Reichenberg^
+569465^[Model2Doc][API] the method IStructure2DocumentGenerator#generate must return an IGenerationStatus^NEW^0.8.0  ^P3 normal^PC Windows 10^2020-12-04 07:42 EST by vincent lorenzo^
+16283^Add from Local History items are unsorted^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-17 13:29 EDT by Nick Edgar^
+555485^Transition from OA to SA using libraries^VERIFIED FIXED^1.3.1  ^P1 major with 1 vote^PC Windows 10^2019-10-01 08:22 EDT by Mateus Venturini^
+4225^EC: bug in undo command (1GLE02N)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 23:08 EDT by Kai-Uwe Maetzel^
+25914^Method signature refactor does not update Outline^VERIFIED FIXED^2.1  ^P1 major^PC Windows 2000^2002-11-08 14:44 EST by Kevin Klinemeier^
+204397^incorrect copyright in CreateDeploymentFilesActionDelegate^VERIFIED FIXED^2.0.1  ^P1 normal^PC Windows XP^2007-09-23 21:22 EDT by David Williams^
+164475^[Viewers] v3.2/v3.3 TableViewer sort performance much slower than v3.0.1^VERIFIED FIXED^3.2  ^P1 normal^PC Windows XP^2006-11-14 10:11 EST by Graham Alderson^
+546114^Unexpected and new cycle error reported^VERIFIED FIXED^4.12  ^P1 blocker^All Windows 7^2019-04-04 10:12 EDT by Dani Megert^
+5896^NPE out of LaunchManagerVisitor on shutdown^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-14 10:42 EST by Darin Swanson^
+171612^[Viewers] Breaking API change: DecoratingLabelProvider no longer extends LabelProvider^VERIFIED FIXED^3.3  ^P1 major^All All^2007-01-24 17:13 EST by Boris Bokowski^
+1531^Feature: navigate from console output to resource (1G81S73)^VERIFIED FIXED^2.0  ^P1 enhancement^All Windows NT^2001-10-10 22:14 EDT by Erich Gamma^
+11303^Deadlock on startup processing breakpoints^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-03-13 16:44 EST by John Arthorne^
+6437^Timeout when launching^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-11-29 12:24 EST by Darin Wright^
+62840^NPE while pasting^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-05-19 00:07 EDT by Wassim Melhem^
+11733^duplicate shared config after close & restart^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-19 17:08 EST by Darin Wright^
+67424^Deadlock in AnnotationPainter^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-06-16 06:04 EDT by Michael Moser^
+15850^LaunchView changes required from platform ui changes^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-13 11:03 EDT by Darin Swanson^
+7507^debugger keyboard shortcuts do not work in 20020109^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-11 16:37 EST by Jakob Braeuchi^
+86177^[implementation][preferences] crash with non-"system default" foreground/background colors^VERIFIED FIXED^3.1  ^P1 major^PC Windows XP^2005-02-22 13:26 EST by Shinjiro Sueda^
+17676^Run menu history menus not updated after organize favorites^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-24 10:38 EDT by Darin Swanson^
+6582^VMPreferencePage - CheckboxTableViewer has no columns anymore^VERIFIED FIXED^2.0  ^P1 blocker^PC All^2001-12-05 07:17 EST by Claude Knaus^
+9218^NPE in LaunchConfigurationLabelDecorator.isLaunchConfigFile^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-02-06 17:34 EST by Knut Radloff^
+13714^Pressing Apply makes tabs disappear^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-12 16:38 EDT by Darin Wright^
+6613^Drop frame above native frame does not work on 1.4^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-05 16:29 EST by Darin Wright^
+48083^[KeyBindings] Keyboard accessibility on assistant dialog^VERIFIED FIXED^3.0  ^P1 normal^PC Linux-GTK^2003-12-04 11:32 EST by John Arthorne^
+5225^1.0 -- Casting problem in RunToLineAction class^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-10-24 16:31 EDT by Darin Wright^
+60881^[Commands] Ctrl+S does not work^VERIFIED FIXED^3.0  ^P1 major^PC Windows 2000^2004-05-04 09:53 EDT by Pascal Rapicault^
+43801^[KeyBindings] Can't assign Esc Backspace^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2003-09-27 17:17 EDT by Nick Edgar^
+6577^NPE in DebugContentProvider^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-12-04 22:22 EST by Darin Wright^
+9475^NPE out of LaunchManagerVisitor creating a launch configuration for callback^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-02-12 11:49 EST by Darin Swanson^
+13525^Error evaluating with no public class^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-11 10:34 EDT by Eduardo Pereira^
+107125^EditingDomainActionBarContributor#deactivate doesn't check to see if selection provider is null^VERIFIED FIXED^2.1  ^P1 major^PC Windows XP^2005-08-16 12:05 EDT by Alberto Ricart^
+301039^switching between 1-m mappings can cause mapped-by or target-entity to be unset^VERIFIED FIXED^2.3  ^P1 major^PC Windows XP^2010-01-27 13:13 EST by Karen Butzke^
+133591^[Intro] Circles theme doesn't look right in standby mode^VERIFIED FIXED^3.2  ^P1 normal^PC Windows XP^2006-03-28 11:44 EST by Curtis d'Entremont^
+8295^Ctrl-Space does not work for code assist in details pane^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-23 15:49 EST by Darin Swanson^
+32427^Can't Finish new location wizard due to error from SessionPropertySyncInfoCache^VERIFIED FIXED^2.1  ^P1 critical^PC Windows XP^2003-02-20 18:15 EST by Kevin McGuire^
+7503^Breakpoints in an InnerClass anonymous inner classes are not hit^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-11 14:11 EST by Darin Swanson^
+8301^Evaluation actions need in the context menus of the details panes^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-23 15:52 EST by Darin Swanson^
+18412^Type hierarchy should support JavaModel as input^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-31 03:58 EDT by Erich Gamma^
+129231^Add 4th qualifier field to build IDs^VERIFIED FIXED^unspecified  ^P1 major^PC Linux^2006-02-23 15:58 EST by Christian Damus^
+8444^Evaluation thinks thread is not suspended^VERIFIED FIXED^2.0  ^P1 critical^Other Linux-Motif^2002-01-24 19:31 EST by Jared Burns^
+133388^Duplicate trigger commands in transaction change description^VERIFIED FIXED^unspecified  ^P1 critical^PC Windows XP^2006-03-27 12:07 EST by Linda Damus^
+19253^Several NotPresentExceptions in log^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-06-05 01:50 EDT by Erich Gamma^
+135569^Child of a Non-recording TX incurs the cost of recording anyway^VERIFIED FIXED^unspecified  ^P1 critical^PC Linux^2006-04-07 11:22 EDT by Christian Damus^
+84729^[Contexts] events: ContextManagerEvents are no longer fired by the workbench context manager on enablement changes^VERIFIED WORKSFORME^3.1  ^P1 normal^All All^2005-02-08 14:21 EST by Kim Horne^
+62697^Need to know if a package reference match is in Javadoc or in Code^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-05-18 12:39 EDT by Frederic Fusier^
+99695^We need dedicated topics to link from the Welcome's Overview page^VERIFIED FIXED^3.1  ^P1 normal^PC Linux-GTK^2005-06-13 11:30 EDT by Douglas Pollock^
+75923^Provide extension points for other model importers^VERIFIED FIXED^2.1  ^P1 enhancement^PC Windows XP^2004-10-08 12:57 EDT by Marcelo Paternostro^
+17593^Search/Replace: Disable for file searches^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-24 08:09 EDT by Martin Aeschlimann^
+9896^Wrong warning in Add/Edit JRE dialog^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-02-15 08:21 EST by Dani Megert^
+185040^Rollbacked transaction is committed^VERIFIED FIXED^unspecified  ^P1 critical^PC Windows XP^2007-05-02 03:54 EDT by John Smith^
+9922^Null pointer in launch configuration type property page^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-02-15 11:53 EST by Thomas Mäder^
+123136^Deadlock occurs when editing the properties with running background read tasks^VERIFIED FIXED^unspecified  ^P1 blocker^All Windows XP^2006-01-09 13:39 EST by Vishy Ramaswamy^
+7711^Errors starting Eclipse when installed in a directory with Japanese characters^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-01-16 10:12 EST by Duong Nguyen^
+6389^System threads show suspended at startup^VERIFIED FIXED^2.0  ^P1 critical^PC Linux^2001-11-28 12:36 EST by Jared Burns^
+123159^The EMF WorkbenchEditor is not refreshing after detecting workspace changes^VERIFIED FIXED^unspecified  ^P1 blocker^All Windows XP^2006-01-09 16:25 EST by Vishy Ramaswamy^
+85390^[Import/Export] Import project does no longer work^VERIFIED FIXED^3.1  ^P1 critical^PC Windows XP^2005-02-16 06:56 EST by Frederic Fusier^
+11110^NPE in AbstractListenerActionDelegate.pageActivated^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-11 13:12 EST by Ian Petersen^
+5114^Add exception dialog ignores caught/uncaught selection^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-10-19 13:19 EDT by Knut Radloff^
+108709^[Contributions] Every single Java editor is leaked^VERIFIED FIXED^3.1  ^P1 critical^PC Windows XP^2005-09-02 12:34 EDT by Dani Megert^
+11308^Launch configurations make workspace non-transportable^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-03-13 17:18 EST by Jared Burns^
+109011^[KeyBindings] AIOOBE on startup^VERIFIED FIXED^3.2  ^P1 blocker^All All^2005-09-07 19:11 EDT by Andre Weinand^
+11478^Inspect is broken^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-03-15 11:34 EST by Darin Wright^
+11938^NPE in JavaSourceLocator when remote debugging^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-03-20 12:28 EST by Jared Burns^
+109639^[KeyBindings] keybinding service is deactivated but not reactivated when unregister action^VERIFIED FIXED^3.1  ^P1 major^All All^2005-09-15 13:14 EDT by Amy Wu^
+12740^Wierd behavior when debugging standalone SWT example^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-03 17:24 EST by Carolyn MacLeod^
+111415^[G2X] [KeyBindings] interactions: Keys stop working after closing preference page^VERIFIED FIXED^3.1.1  ^P1 normal^PC Linux-GTK^2005-10-04 05:22 EDT by Henry Huang^
+13015^stepping to a line with a conditional breakpoint^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-08 13:01 EDT by Darin Wright^
+252302^Regression: Constraint bindings don't find client context^VERIFIED FIXED^unspecified  ^P1 major^PC Mac OS X - Carbon (unsup.)^2008-10-27 23:34 EDT by Christian Damus^
+57806^[Search] Selection search does not run in the background^VERIFIED WORKSFORME^2.0  ^P1 normal^PC Windows XP^2004-04-07 16:31 EDT by James Ciesielski^
+6990^Display action linked to editor when focus in Display view^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-12-17 08:51 EST by Darin Wright^
+178708^EditingDomain.getNewChildDescriptors() should return Collection<?>^VERIFIED FIXED^2.3.0  ^P1 major^PC Windows XP^2007-03-21 21:32 EDT by Dave Steinberg^
+10782^Exception applying changes to Launch Configuration^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-03-05 11:07 EST by Darin Swanson^
+235797^Refactoring opened model causes SWT to become unstable^VERIFIED FIXED^unspecified  ^P1 critical^PC Windows XP^2008-06-05 07:12 EDT by Victor Roldan Betancort^
+10784^Launch configurations: Edit button enabled when no environment var to edit^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-03-05 11:11 EST by Darin Swanson^
+259510^XML types (date, duration, qname, etc.) should use instanceClass=java.lang.Object when targeting EMF 2.2 runtime^VERIFIED FIXED^2.4.0  ^P1 normal^PC Windows XP^2008-12-22 12:05 EST by Brian Lima^
+9830^Launch config arguments inserted prior to class on command line^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2002-02-14 11:51 EST by David Wegener^
+17081^IncompatibleThreadStateException attempting to pause remote launch^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-22 16:57 EDT by Darin Swanson^
+10484^Index out of bounds in JavaEnvironmentTab^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-02-28 11:01 EST by Darin Swanson^
+216298^Need to sign jars for Ganymede release^VERIFIED FIXED^3.10  ^P1 normal^PC Windows XP^2008-01-23 11:13 EST by David Williams^
+229752^[api][regression] SystemSelectRemoteFileOrFolderForm.getInputProvider() cannot be overriden^VERIFIED FIXED^3.0  ^P1 normal^All All^2008-04-30 23:25 EDT by Masao Nishimoto^
+230090^a number of bundles need version bumps^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2008-05-03 19:54 EDT by David Williams^
+72232^[Keys] Indicate sort order on Keys > View page^VERIFIED FIXED^3.0  ^P1 enhancement^All All^2004-08-19 04:36 EDT by Dani Megert^
+48900^[KeyBindings] Keys preference page has deep grooves^VERIFIED FIXED^3.0  ^P1 trivial^PC Windows XP^2003-12-16 14:28 EST by Douglas Pollock^
+17746^Refactor prompted to save same editor twice^VERIFIED FIXED^2.0  ^P1 major^PC Windows XP^2002-05-24 12:26 EDT by Peter Burka^
+49021^Triple-stroke key bindings don't play nice with key assistant shell^VERIFIED WORKSFORME^3.0  ^P1 normal^PC Linux-GTK^2003-12-17 10:07 EST by Douglas Pollock^
+7207^Launch configuration bugs^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-31 13:10 EST by Darin Wright^
+49376^[KeyBindings] Space now erroneously runs Completion^VERIFIED DUPLICATE of bug 49265^3.0  ^P1 normal with 3 votes^PC Windows XP^2003-12-29 07:48 EST by Thorbjørn Ravn Andersen^
+5895^NPE out of the Console view on shutdown^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-14 10:41 EST by Darin Swanson^
+3940^Keep getting Locate Source dialog (1GF6BU2)^VERIFIED FIXED^2.0  ^P1 normal^All Windows 2000^2001-10-10 23:03 EDT by Nick Edgar^
+86253^[projection] NPE when typing characters in Incremental Find^VERIFIED FIXED^3.1  ^P1 major^PC Windows XP^2005-02-23 08:08 EST by Markus Keller^
+4023^Prompt user for save and build before run (1GGCBO0)^VERIFIED FIXED^2.0  ^P1 critical^All Windows 2000^2001-10-10 23:04 EDT by Erich Gamma^
+64024^[Workbench] Many objects leaked for each window opened/closed^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-05-25 20:12 EDT by Darin Swanson^
+88634^[ActivityMgmt] move activity image binding to the activitySupport extension point^VERIFIED FIXED^3.1  ^P1 normal^Macintosh All^2005-03-21 08:47 EST by Kim Horne^
+4130^Eclipse Debugger: Setting Breakpoints via keyboard not possilbe (1GITILH)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 23:06 EDT by Greg Adams^
+127140^[Commands] handlers: Ctrl+. and Ctrl+, don't work any more^VERIFIED FIXED^3.2  ^P1 major^All All^2006-02-09 14:33 EST by Markus Keller^
+25147^Can't seem to cancel JRE search^VERIFIED FIXED^2.0  ^P1 major^PC other^2002-10-21 16:01 EDT by Darin Swanson^
+88635^[EditorMgmt] add performance tracking for content type resolution^VERIFIED FIXED^3.1  ^P1 normal^All All^2005-03-21 08:51 EST by Kim Horne^
+11330^JavaEnvironmentTab depends on JavaMainTab^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-14 02:54 EST by Erich Gamma^
+24103^NPE trying to open launch configs^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-09-25 16:14 EDT by DJ Houghton^
+136648^[api][performance][content assist] add ability to fetch additional info of proposals in background thread^VERIFIED FIXED^3.2  ^P1 normal^PC All^2006-04-13 10:39 EDT by Tom Hofmann^
+17946^Generalize launch shortcuts/convenience actions^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-27 13:54 EDT by Darin Wright^
+24579^Deadlock on first checkout of java project^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-10-09 10:33 EDT by John Arthorne^
+381910^Egit asks for SSH keys, doesn't work^VERIFIED FIXED^2.0  ^P1 blocker^PC Windows 7^2012-06-06 15:34 EDT by Oleg Besedin^
+569452^Make the https://github.com/eclipse/che `assets` branch a protected branch^RESOLVED FIXED^unspecified  ^P3 normal^PC Linux^2020-12-04 04:07 EST by Sun TAN^
+569491^[trademark] Trademark approval required for Eclipse ComMA^NEW^unspecified  ^P3 normal^PC Linux^2020-12-04 17:00 EST by Wayne Beaton^
+569367^Editor performance regression in 4.18 M3^VERIFIED FIXED^4.18  ^P3 major^All Mac OS X^2020-12-01 11:35 EST by Pierre-Yves B.^
+569414^Declare 4.18 RC2^NEW^4.18  ^P3 normal^PC Windows 10^2020-12-02 23:03 EST by Sravan Kumar Lakkimsetti^
+569435^Uninstalling "main" product from an EPP deletes eclipse.exe and completely messes up the installation^NEW^unspecified  ^P3 normal^PC Linux^2020-12-03 10:55 EST by Jonah Graham^
+429301^Workspace selection screen broken in N20140228-0245^VERIFIED FIXED^4.4  ^P1 blocker^PC Linux^2014-02-28 05:22 EST by Lars Vogel^
+569520^Infinite loop when parsing invalid code^NEW^2.24  ^P3 normal^PC Windows 10^2020-12-07 05:46 EST by Seyedhossein Ghasemi^
+218791^Pointcut cannot be parsed.^VERIFIED FIXED^DEVELOPMENT  ^P1 critical^PC Windows XP^2008-02-13 09:36 EST by Avatar^
+569434^Osgi/BuddyClassing loading broken with Java-11, ThreadContextClassloader and ForkJoinPool^NEW^unspecified  ^P3 normal^PC Mac OS X^2020-12-03 10:46 EST by Thomas Schindl^
+569437^Public PVMT & Capella 1.4.x compatibility info^CLOSED FIXED^unspecified  ^P3 normal^PC Windows 10^2020-12-03 11:33 EST by Samuel Rochet^
+75929^Investigate DOM 2 Ecore mapping^VERIFIED FIXED^2.1  ^P1 enhancement^PC Windows XP^2004-10-08 13:10 EDT by Marcelo Paternostro^
+569442^Wrong AST resolution on JDT^NEW^4.18  ^P3 major^All All^2020-12-03 16:40 EST by Gayan Perera^
+569539^[Passage] prepare 1.1.0 RC2^ASSIGNED^1.1.0  ^P3 normal^All All^2020-12-08 05:32 EST by Alexander Fedorov^
+139436^[content assist] Auto-complete for Javadoc @link reference^VERIFIED FIXED^3.2  ^P1 major^PC All^2006-04-30 09:30 EDT by moran^
+569527^PatternSearchJob calls unnecessary SubMonitor.done(progressMonitor);^NEW^4.14  ^P3 normal^PC Linux^2020-12-07 11:03 EST by Lars Vogel^
+88809^Shaan price needs updating^VERIFIED FIXED^3.0  ^P1 trivial^PC Windows 2000^2005-03-22 16:19 EST by Nick Edgar^
+133342^[Commands] handlers: Global keybindings don't work (Open Type, Search, ...)^VERIFIED FIXED^3.2  ^P1 blocker^All All^2006-03-27 07:14 EST by Markus Keller^
+54358^Shells don't fire move event when not visible (BBAWT)^VERIFIED FIXED^3.0  ^P1 major^PC Linux-GTK^2004-03-10 13:46 EST by David Whiteman^
+123442^[Commands] handlers: Retarget action handlers aren't registered properly^VERIFIED FIXED^3.2  ^P1 major^All All^2006-01-11 11:08 EST by John Arthorne^
+283216^Editor saving doesn't work when editor is reopened^VERIFIED FIXED^unspecified  ^P1 major^All All^2009-07-10 22:32 EDT by John Arthorne^
+17859^Missing icon after renaming a type in the Java Browsing perspective^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-25 10:06 EDT by Erich Gamma^
+72585^[ViewMgmt] Empty variables view, inspect disabled^VERIFIED FIXED^3.0  ^P1 major^All All^2004-08-25 09:30 EDT by Dani Megert^
+95792^Command opens dialog, and second key press still thinks workbench window is active^VERIFIED FIXED^3.1  ^P1 major^PC Linux-GTK^2005-05-18 12:18 EDT by Douglas Pollock^
+17889^Should not assume type of PropertyChangeEvent values^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-26 21:59 EDT by Nick Edgar^
+234057^Wrong or missing model change event^VERIFIED FIXED^unspecified  ^P1 normal^PC Windows XP^2008-05-26 22:10 EDT by Masao Nishimoto^
+17957^Missing string in Members view^VERIFIED FIXED^2.0  ^P1 major^PC Linux^2002-05-27 14:55 EDT by James Moody^
+10595^Debug into non-JavaBuildPath no longer works.^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-03-01 12:35 EST by Richard Kulp^
+17534^Two huge bugs in Launch class^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-23 19:20 EDT by David Sanders^
+55581^[KeyBindings] pressing Ctrl-F6 again closes editor list^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-03-22 14:58 EST by Rafael Chaves^
+10805^NPE in JavaDebugOptionsManager if source name is null^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-05 15:26 EST by Darin Swanson^
+94111^[assist] provide parameter hints for template instantiations^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2005-05-09 09:29 EDT by David Audel^
+55688^[KeyBindings] Delete key doesn't work in single-line Text^VERIFIED DUPLICATE of bug 55951^3.0  ^P1 major^PC Windows 2000^2004-03-23 10:54 EST by Grant Gayed^
+61332^[Search] Search is giving inconsistent results^VERIFIED FIXED^2.0  ^P1 critical^PC All^2004-05-06 17:51 EDT by James Ciesielski^
+373643^Provide a dynamic constraint provider for UML2 constraints^VERIFIED FIXED^4.0.0  ^P1 enhancement^PC Mac OS X - Carbon (unsup.)^2012-03-08 09:00 EST by Kenn Hussey^
+1580^Run in Package dialog should select the current context (1GE32AE)^VERIFIED FIXED^2.0  ^P1 minor^All All^2001-10-10 22:15 EDT by Darin Swanson^
+66016^Deletion of "Work In Progress" preferences^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2004-06-07 13:30 EDT by Brent Nicolle^
+7807^Breakpoint creation API should not use java elements^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-16 15:28 EST by Darin Wright^
+38529^UI locks up toggling on the variable filters^VERIFIED FIXED^2.1  ^P1 blocker^PC Windows NT^2003-06-05 12:04 EDT by Darin Swanson^
+5139^Remove SnippetSupportBreakpoint^VERIFIED FIXED^2.0  ^P1 normal^PC All^2001-10-22 11:17 EDT by Darin Wright^
+61613^[Search] Selection search on class does not find all references^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2004-05-10 11:48 EDT by James Ciesielski^
+123614^CompositeEMFOperation should consider progress monitor and child return status^VERIFIED FIXED^unspecified  ^P1 normal^PC Windows XP^2006-01-12 11:16 EST by Linda Damus^
+6434^Scrapbook does not work with JDK1.4^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-11-29 12:11 EST by Darin Wright^
+10147^Moving VMs is not handled well.^VERIFIED FIXED^2.0  ^P1 normal^Other Linux-Motif^2002-02-24 19:39 EST by Jared Burns^
+75925^[Plan Item] Generator Extensibility^VERIFIED FIXED^2.1  ^P1 enhancement^PC Windows XP^2004-10-08 13:00 EDT by Marcelo Paternostro^
+6163^NPE changing editor preference^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-21 10:13 EST by Darin Swanson^
+136156^Need a way to synchronously share transaction lock with another thread^VERIFIED FIXED^unspecified  ^P1 blocker^PC Windows XP^2006-04-11 14:01 EDT by Barys Dubauski^
+43^Cannot rename a project and then release it (1GDHAHF)^VERIFIED FIXED^2.0  ^P1 major^All Windows 2000^2001-10-10 21:35 EDT by Dave Dykstal^
+6263^Extra closing braces inserted^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-23 11:48 EST by James Moody^
+102780^[formatter] CodeFormatter does not format Javadoc^VERIFIED FIXED^3.1  ^P1 major^PC Windows XP^2005-07-05 15:52 EDT by Andreas Zimmer^
+47949^Nothing added to launch history^VERIFIED FIXED^3.0  ^P1 major^PC Windows 2000^2003-12-02 22:03 EST by Darin Wright^
+5025^Allow users to create a patch file using 'cvs diff'^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-10-16 14:43 EDT by Jean-Michel Lemieux^
+19567^ProblemsLabelDecorator throws ResourceException when project not open^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-06 23:18 EDT by Jay Cagle^
+18225^NPE in projetc sets^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-29 15:07 EDT by Michael Valenta^
+17363^Test A4.4 cannot edit action set id in properties view^VERIFIED FIXED^2.0  ^P1 critical^Sun Solaris^2002-05-23 11:30 EDT by Konrad Kolosowski^
+7619^Walkback while debugging^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-15 11:36 EST by Peter Burka^
+25509^NPE from InternalAntRunner^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-10-29 14:02 EST by Jared Burns^
+165026^Exception caused by latest changes in TransactionImpl.addTriggers()^VERIFIED FIXED^unspecified  ^P1 blocker^PC Windows XP^2006-11-17 14:49 EST by Alex Shatalin^
+25126^Cannot open cu outside classpath^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-10-21 11:54 EDT by Jerome Lanneluc^
+26042^Can't run Ant script with new Ant on MacOS X^VERIFIED FIXED^2.1  ^P1 normal^PC All^2002-11-12 09:28 EST by Veronika Irvine^
+178840^When an event type is contributed with no notification generator, an error appears in the log^VERIFIED FIXED^unspecified  ^P1 major^PC Windows XP^2007-03-22 13:29 EDT by David Cummings^
+312957^CCE setting order-by in orm.xml element collection^VERIFIED FIXED^2.3  ^P1 major^PC Windows XP^2010-05-14 14:27 EDT by Karen Butzke^
+243128^Problem during migration^VERIFIED FIXED^unspecified  ^P1 normal^PC Windows XP^2008-08-05 03:03 EDT by Masao Nishimoto^
+15375^ClassCastException trying to resume^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-06 17:22 EDT by John Arthorne^
+38249^NPE trying to create project builder^VERIFIED FIXED^2.1  ^P1 critical^Other All^2003-05-29 18:13 EDT by Jared Burns^
+109672^Codegen should not generate unneeded cast.^VERIFIED FIXED^2.1  ^P1 enhancement^PC Windows XP^2005-09-15 16:37 EDT by Richard Kulp^
+53135^NPE in variable substitution^VERIFIED FIXED^3.0  ^P1 major^Macintosh Mac OS X - Carbon (unsup.)^2004-02-25 18:17 EST by Andre Weinand^
+27714^JavaElement.newNotPresentException^VERIFIED FIXED^2.1  ^P1 critical^Macintosh Mac OS X - Carbon (unsup.)^2002-12-04 17:57 EST by Veronika Irvine^
+110595^Generator problems for external interfaces^VERIFIED FIXED^2.2  ^P1 normal^PC Windows XP^2005-09-26 10:27 EDT by Ed Merks^
+58901^[Commands] [Javadoc] org.eclipse.ui.commands issues^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-16 14:26 EDT by Tod Creasey^
+9483^NPE in LaunchConfigurationTypePropertyPage^VERIFIED FIXED^2.0  ^P1 critical^PC All^2002-02-12 13:03 EST by Darin Swanson^
+58910^[Contexts] [Javadoc] org.eclipse.ui.contexts issues^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-16 15:02 EDT by Tod Creasey^
+6736^stack frame unavailable running code snippet.^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-10 11:38 EST by John Arthorne^
+43804^[KeyBindings] Entering key sequence appends to previous by default^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2003-09-27 22:22 EDT by Nick Edgar^
+61310^Restore "scope" support to the commands extension point^VERIFIED FIXED^3.0  ^P1 major^PC All^2004-05-06 16:46 EDT by Douglas Pollock^
+5346^Debugger silently fails to prompt for source^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-29 19:35 EST by Jed Anderson^
+48109^[KeyBindings] Provide availableInDialog property on key bindings^VERIFIED INVALID^3.0  ^P1 enhancement^All All^2003-12-04 15:37 EST by Douglas Pollock^
+6640^Method ID of 0 is valid JDWP^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-06 10:54 EST by Darin Wright^
+13798^Disallow evaluations that require local type signatures^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-04-15 11:30 EDT by Jared Burns^
+12981^Launcher - listed name does not match given name^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-08 09:00 EDT by Philipe Mulet^
+9902^ImageDescriptorRegistry must empty hash map in dispose^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-15 08:58 EST by Darin Wright^
+5083^Breakpoint not hit^VERIFIED DUPLICATE of bug 4576^2.0  ^P1 normal^PC Windows NT^2001-10-18 14:14 EDT by Knut Radloff^
+16350^NativeMethodException from line location request^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-18 10:39 EDT by Darin Wright^
+25219^Can we persist the java version for a StandardVMType?^VERIFIED FIXED^2.0  ^P1 enhancement^PC other^2002-10-22 17:15 EDT by Darin Swanson^
+5129^Copy is disabled in the console^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2001-10-22 05:32 EDT by Jerome Lanneluc^
+9523^redundant menu entry in variables view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-13 04:56 EST by Adam Kiezun^
+11899^Launch config name collission^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-20 11:02 EST by Darin Wright^
+132251^[Help] NOT function on filters^VERIFIED FIXED^3.2  ^P1 enhancement^PC Windows XP^2006-03-16 16:27 EST by Kari Halsted^
+5467^Bad import in LocalEvaluationEngine^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2001-11-02 10:10 EST by Dani Megert^
+1693^JDT conditional breakpoints (1GIVKP1)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 22:17 EDT by Jared Burns^
+8318^internal error occured, if open the menu "Debug -> Debug History"^VERIFIED FIXED^2.0  ^P1 critical^PC Linux-GTK^2002-01-23 16:21 EST by Tokei.Ihto^
+569402^Support resolving hyperlinks without freezing UI Thread.^CLOSED DUPLICATE of bug 506467^4.18  ^P3 enhancement^All All^2020-12-02 10:30 EST by Johan Compagner^
+569544^[Model2Doc] Add a refresh after docx generation^NEW^0.8.0  ^P3 normal^PC Windows 10^2020-12-08 07:13 EST by vincent lorenzo^
+77462^CVS Plug-in fails to start^VERIFIED FIXED^3.0  ^P1 blocker^PC Windows XP^2004-11-02 06:40 EST by Dani Megert^
+23565^Code assist in conditional expression^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-09-13 11:04 EDT by Darin Wright^
+569545^[Model2Doc] refresh problem and calculated path^NEW^0.8.0  ^P3 normal^PC Windows 10^2020-12-08 07:14 EST by vincent lorenzo^
+81752^Attr with "xs:date" desiralization is failed by exception^VERIFIED FIXED^2.0.1  ^P1 normal^PC Windows XP^2004-12-21 14:28 EST by Kevin Williams^
+569445^Runtime CFG preparser missing quotes around charstring^RESOLVED FIXED^unspecified  ^P3 normal^PC Linux^2020-12-03 18:35 EST by Arpad Lovassy^
+105533^[Dupe] ESuperAdapter holds onto references forever == memory leak^VERIFIED FIXED^2.0.3  ^P1 normal^PC Windows 2000^2005-07-28 18:14 EDT by Nick Boldt^
+118101^Cut, copy, paste don't work in logic diagrams anymore^VERIFIED WORKSFORME^unspecified  ^P1 normal^PC Windows XP^2005-11-25 14:41 EST by Wayne^
+299695^Opening JPA project with an active DB connection results in failure to build JPA Project^VERIFIED FIXED^2.3  ^P1 major^PC Windows XP^2010-01-14 15:08 EST by Neil Hauge^
+18071^Package Viewer: Too many refreshes^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-28 12:16 EDT by Martin Aeschlimann^
+7028^ArrayIndexOutOfBoundsException by org.eclipse.swt.graphics.GC.drawImage()^VERIFIED FIXED^1.0  ^P1 critical^PC Windows 2000^2001-12-18 05:23 EST by Masaki Saitoh^
+347209^Unable to add mappings to EclipseLink mapping file - UnsupportedOperationException thrown when trying to add orderable mapping to eclipselink-orm.xml^VERIFIED FIXED^unspecified  ^P1 major^PC Windows 7^2011-05-25 14:20 EDT by Nan Li^
+15575^Tree with checkbox items are not accessible^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-08 15:11 EDT by Sola^
+5420^Eclipse crash after after NPE during code assist (template)^VERIFIED FIXED^2.0  ^P1 major^PC Windows NT^2001-11-01 12:06 EST by Dani Megert^
+392584^JAXB project creation gives BackingStoreException^VERIFIED FIXED^3.3  ^P1 normal^PC Windows XP^2012-10-22 12:28 EDT by Jolene Moffitt^
+174089^[pagedesigner] JSP <%-- --%> comments can cause page not to load^VERIFIED WORKSFORME^2.0  ^P1 normal^PC Windows XP^2007-02-13 16:05 EST by Cameron Bateman^
+31114^Moving linked resource onto self deletes linked resource^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2003-02-06 12:30 EST by Knut Radloff^
+31244^Renaming linked source folder copies content^VERIFIED FIXED^2.1  ^P1 critical^PC Windows 2000^2003-02-07 06:27 EST by Dirk Baeumer^
+8323^Debugger Source Lookup dialog : minor fixes^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-23 16:29 EST by Darin Swanson^
+311777^NPE when editing an xml file which hoses the xml model^VERIFIED FIXED^3.2  ^P1 major^PC Windows XP^2010-05-05 14:34 EDT by Karen Butzke^
+351426^[1.7][code assist] CompletionContext.getExpectedTypesKeys() returns wrong type^VERIFIED FIXED^3.7  ^P1 normal^All All^2011-07-07 07:38 EDT by Dani Megert^
+1700^JSP Support for 2.0 (1GJ8LK3)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 22:17 EDT by Darin Wright^
+5941^hot swap fails when native method on stack^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-11-14 23:02 EST by Darin Wright^
+346728^NPE during creation of new diagram^VERIFIED FIXED^3.0  ^P1 major^All All^2011-05-20 12:11 EDT by Stefan Dimov^
+172640^[Viewers] Virtual TreeViewer/ILazyTreePathContentProvider: preservingSelection and refresh not always working^VERIFIED FIXED^3.3  ^P1 normal^PC Windows XP^2007-02-02 05:49 EST by Patrick Streule^
+5162^1.0 -- JSP breakpoints don't get removed^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-22 19:53 EDT by Jed Anderson^
+25860^Ant runner sets basedir incorrectly^VERIFIED FIXED^2.1  ^P1 normal^PC Windows NT^2002-11-07 15:58 EST by Matthew Conway^
+16764^Debug Perspective leaks actions^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-22 09:00 EDT by Kevin Haaland^
+7513^Terminate and remove fails to remove when timeouts occur^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-11 18:06 EST by Jed Anderson^
+10096^Eclipse not aware of launched JVM (JRockit 3.1.3)^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-22 04:54 EST by Magnus Ihse Bursie^
+13307^NPE in launch configs^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-10 10:27 EDT by Adam Kiezun^
+13866^ClassCastException with instanceof conditional breakpoint^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-16 05:45 EDT by Jerome Lanneluc^
+10218^breakpoint change mechanism^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-25 16:53 EST by Darin Wright^
+13317^New Configuration menu empty^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-10 10:43 EDT by Darin Swanson^
+89013^Changes to ResultCollector --> API^VERIFIED FIXED^3.1  ^P1 critical^PC Windows XP^2005-03-24 12:58 EST by Darin Swanson^
+17751^InvalidStackFrameException(s) after a StepOver^VERIFIED FIXED^2.0  ^P1 normal^PC Linux^2002-05-24 12:39 EDT by Luc Bourlier^
+9241^API - java launch configs should be headless^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-07 10:40 EST by Darin Wright^
+44689^[KeyBindings] Alt+[A-Z] do not work to change view, editor or perspective^VERIFIED FIXED^3.0  ^P1 minor^PC Windows 2000^2003-10-11 06:37 EDT by Sang min Ryu^
+6737^JDIDebugTarget still registered with JavaHCR manager after terminate and remove^VERIFIED FIXED^2.0  ^P1 critical^PC other^2001-12-10 11:52 EST by Darin Swanson^
+58915^[Keybindings] [Javadoc] Keybindings issues^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-16 15:20 EDT by Tod Creasey^
+44868^[Workbench] Remove dependencies on Xerces^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2003-10-14 22:22 EDT by Nick Edgar^
+14025^NPE on evaluation of array.length^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-04-17 12:25 EDT by Darin Swanson^
+58919^[Keybindings] [Javadoc] Locale reference in accelerator set doc incomplete^VERIFIED WONTFIX^3.0  ^P1 normal^PC Windows XP^2004-04-16 15:38 EDT by Tod Creasey^
+117022^Support standalone JET and GenModel^VERIFIED FIXED^2.2  ^P1 enhancement^PC Windows 2000^2005-11-18 06:57 EST by Ed Merks^
+38951^NPE in editor while saving contents^VERIFIED FIXED^3.0  ^P1 major^PC Windows 2000^2003-06-16 09:53 EDT by Philipe Mulet^
+349071^[EclipseLink] eclipselink 2.3 schemas not up to date^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2011-06-10 12:25 EDT by Karen Butzke^
+177819^Jar files added to a plugin are ignored^VERIFIED FIXED^3.3  ^P1 critical^PC Windows XP^2007-03-16 14:59 EDT by Pascal Rapicault^
+188536^Activation errors under Europa^VERIFIED FIXED^0.9  ^P1 major^PC Windows XP^2007-05-22 21:41 EDT by Bjorn Freeman-Benson^
+73343^Proxies not handled correctly by subset/superset features^VERIFIED FIXED^1.0.0  ^P1 major^PC Windows XP^2004-09-06 17:44 EDT by Kenn Hussey^
+179684^"Reconcile editor change" perf test is getting slower^VERIFIED FIXED^3.3  ^P1 normal^PC Windows XP^2007-03-28 04:56 EDT by Jerome Lanneluc^
+34955^ctrl-space content assist broken in var view^VERIFIED FIXED^2.1  ^P1 major^PC Windows 2000^2003-03-13 14:48 EST by Darin Wright^
+7858^Feature: gets super class for an IJavaClassType^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-17 12:35 EST by Darin Wright^
+66157^ProjectionTextStore.replace() not consistent with intended ITextStore semantics^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-06-08 11:53 EDT by Adam Wilson^
+66234^[projection] Revert file sometimes does not display the imports^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-06-08 18:33 EDT by Raj Mandayam^
+30570^DBCS - GB18030: Input GB18030 characters as run arguments cause eclipse for motif crash.^VERIFIED FIXED^2.1  ^P1 major^PC Linux-Motif^2003-01-29 23:14 EST by Liu Yang^
+1578^README: breakpoints in class with same name (1GDXNGO)^VERIFIED FIXED^2.0  ^P1 enhancement^All All^2001-10-10 22:15 EDT by Darin Wright^
+69548^Non-C resources not visible in C/C++ projects nature in C/C++ Project View even if Filter is set to show non- C resource^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2004-07-07 18:51 EDT by Magda Bologa^
+1601^Displaying a variable appends to same line (1GENIVH)^VERIFIED FIXED^2.0  ^P1 minor^All Windows 2000^2001-10-10 22:16 EDT by Nick Edgar^
+18269^welcome page should be translatable^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-29 21:56 EDT by Jim des Rivieres^
+19972^CompareEditorInput should not call OpenStrategy.setOpenMethod^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-11 22:26 EDT by Nick Edgar^
+8634^Exception breakpoints not persisted^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-28 15:57 EST by Darin Wright^
+59585^[EditorMgmt] Keybinding not enabled when overwritten in subcontext^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-04-22 03:51 EDT by Markus Keller^
+60327^Review LaunchViewContextListener multi-window behavior^VERIFIED FIXED^3.0  ^P1 normal^PC All^2004-04-28 16:51 EDT by Jared Burns^
+8772^Infinitely looping stack trace in target pgm locks UI^VERIFIED FIXED^2.0  ^P1 normal^Other Windows XP^2002-01-30 12:53 EST by Joe Szurszewski^
+189915^[QTV] Several plug-ins have missing or incorrect about.html files^VERIFIED FIXED^unspecified  ^P1 blocker^PC Linux^2007-05-30 09:25 EDT by Christian Damus^
+46377^[misc] Save not working for linked resources in Java editor^VERIFIED FIXED^3.0  ^P1 blocker^All All^2003-11-10 16:57 EST by Tomas Znamenacek^
+6523^NPE changing suspend on exception pref with terminated targets^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-12-03 17:40 EST by Darin Swanson^
+182251^Publishing: Cannot display contents after publishing^VERIFIED FIXED^1.2  ^P1 major^PC Windows XP^2007-04-12 21:02 EDT by Long Li^
+5360^ListenerList#removeAll^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-30 11:40 EST by Darin Swanson^
+79402^Store Index Locations per Header^VERIFIED FIXED^2.0.2  ^P1 normal^PC Windows XP^2004-11-24 11:09 EST by Bogdan Gheorghe^
+1613^Debugger VM launching error never displayed (1GETDGZ)^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-10-10 22:16 EDT by Darin Swanson^
+55737^[KeyBindings] Delete key does not work in dialogs^VERIFIED DUPLICATE of bug 55688^3.0  ^P1 critical^PC Windows 2000^2004-03-23 14:15 EST by Nick Edgar^
+432737^Profile Update Not Working^VERIFIED FIXED^unspecified  ^P1 major^All All^2014-04-14 10:02 EDT by Toni Siljamäki^
+6991^Hot keys do not work for inspect/display in scrapbook^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-12-17 08:54 EST by Darin Wright^
+10973^Scoping JavaExceptionBreakpoints not working correctly^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-07 12:08 EST by Darin Swanson^
+73756^[Commands] ActionContributionItem isvisible should issue warning when action is not visible^VERIFIED FIXED^3.0  ^P1 minor^All All^2004-09-13 09:26 EDT by Jean-Michel Lemieux^
+231453^P2 doesn't install all features, compared to UpdateManager^VERIFIED FIXED^unspecified  ^P1 blocker^PC Windows XP^2008-05-10 23:05 EDT by David Williams^
+73795^[RCP] [KeyBindings] activeKeyConfiguration extension point doesn't work^VERIFIED FIXED^3.0  ^P1 normal^All All^2004-09-13 16:25 EDT by Jean-Michel Lemieux^
+49624^[KeyBindings] Multi-stroke keyboard shortcut help window doesn't go away^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-01-07 06:28 EST by Markus Keller^
+234061^small legal related fix needed for JPA schema^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2008-05-26 22:42 EDT by David Williams^
+7342^missing resource string: JavaRuntime.Setting_JRE_classpath_variables^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-08 10:04 EST by Adam Kiezun^
+50244^[CoolBar] regression: Contributions being disposed in editor toolbar^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2004-01-19 17:01 EST by Randy Hudson^
+234286^remove all optional features from noop zip^VERIFIED FIXED^3.10  ^P1 normal^PC Windows XP^2008-05-27 21:13 EDT by David Williams^
+466943^Bogus UI freeze logged on Mac when opening a view menu^VERIFIED FIXED^4.5  ^P1 major^PC Mac OS X^2015-05-10 23:43 EDT by Sergey Prigogin^
+6446^RunToLine needs shortcut^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-29 17:38 EST by Darin Swanson^
+234319^remove problematic suite from automated JUnits^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2008-05-28 04:46 EDT by David Williams^
+506113^NPE in CompilationUnitEditor.<init> due to JavaPlugin.getDefault() returning null^VERIFIED FIXED^4.6  ^P1 critical^PC Linux^2016-10-17 19:35 EDT by Sergey Prigogin^
+236682^three SDK featues missing from RC4^VERIFIED FIXED^3.10  ^P1 major^PC Windows XP^2008-06-11 13:06 EDT by David Williams^
+64956^[KeyBindings] TVT3.0: Error message on console during startup^VERIFIED FIXED^3.0  ^P1 major^PC Linux-GTK^2004-06-01 10:13 EDT by Jonathan Simpson^
+180865^User login is not secure^VERIFIED FIXED^unspecified  ^P1 critical^All All^2007-04-04 01:59 EDT by Gunnar Wagenknecht^
+88926^[Preferences] IDE should subclass FileEditorsPreferencePage^VERIFIED FIXED^3.1  ^P1 normal^All All^2005-03-23 15:53 EST by Kim Horne^
+4954^Evaluation does not update variable view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-12 18:18 EDT by Darin Wright^
+26113^Scrapbook launches showing up in history^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2002-11-13 11:18 EST by Joe Szurszewski^
+11849^Duplicate history items showing up^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-03-20 09:28 EST by Darin Wright^
+76538^[Plan Item] EMF should support XMI "2.1"^VERIFIED FIXED^2.1  ^P1 enhancement^PC Windows XP^2004-10-18 23:10 EDT by Kenn Hussey^
+569416^502 bad gateway errors when accessing consoles of gerrit builds^CLOSED FIXED^unspecified  ^P3 normal^PC Mac OS X^2020-12-03 02:28 EST by Jay Arthanareeswaran^
+249131^Babel login doesn't recognize changed Bugzilla login ID^VERIFIED FIXED^unspecified  ^P1 major^PC Mac OS X - Carbon (unsup.)^2008-09-30 11:23 EDT by Christian Damus^
+5142^Internal Error on relaunch^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-22 11:39 EDT by Martin Aeschlimann^
+569432^NPE in LifecycleMappingFactory.writeWorkspaceMetadata()^NEW^1.16.0  ^P3 normal^PC Mac OS X^2020-12-03 09:32 EST by Jörg von Frantzius^
+65095^MessageDialogWithToggle returns wrong value for yes_to_all^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2004-06-01 14:18 EDT by Thomas Eng^
+1518^Icons needed for actions (1GI5UXW)^VERIFIED FIXED^2.0  ^P1 enhancement^All All^2001-10-10 22:14 EDT by Joe Szurszewski^
+124104^[Contributions] SubActionBars(IActionBars) was removed and needs to be resurrected^VERIFIED FIXED^3.2  ^P1 blocker^All All^2006-01-17 07:36 EST by Boris Bokowski^
+11031^Double save confirmation on a launch configuration^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-03-08 11:24 EST by Darin Swanson^
+112067^IDebugger commands in wrong order^VERIFIED FIXED^unspecified  ^P1 normal^Macintosh All^2005-10-09 17:36 EDT by Greg Watson^
+19275^editor: context menu slow on large files^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-06-05 05:51 EDT by Adam Kiezun^
+112068^'Stop in main' does not set a breakpoint in main^VERIFIED FIXED^unspecified  ^P1 normal^All All^2005-10-09 17:41 EDT by Greg Watson^
+126258^[Commands] handlers: Inspect doesn't work^VERIFIED FIXED^3.2  ^P1 major^All All^2006-02-02 15:32 EST by Darin Wright^
+10638^Launch configuration wizard not honoring selection^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-03-03 14:47 EST by Darin Swanson^
+7133^Illegal references to Breakpoints view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-20 10:52 EST by Darin Wright^
+434857^[Model Explorer] Drag & Drop broken^VERIFIED FIXED^1.0.0  ^P1 major^All All^2014-05-14 08:54 EDT by Ronan Bar^
+55951^[KeyBindings] Contexts/scopes don't appear in keys preference page^VERIFIED FIXED^3.0  ^P1 major^All All^2004-03-24 12:48 EST by Douglas Pollock^
+10644^NPE pressing apply button on launch configuration with no name^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-03-03 15:12 EST by Darin Swanson^
+1628^README: packages appear when doing eval (1GEYFPN)^VERIFIED FIXED^2.0  ^P1 critical^All Windows 98^2001-10-10 22:16 EDT by Darin Wright^
+56159^[KeyBindings] short cut key for prefs is same as next annotation^VERIFIED FIXED^3.0  ^P1 normal^Macintosh Mac OS X - Carbon (unsup.)^2004-03-25 11:02 EST by Rob Kooper^
+10645^NPE pressing apply button twice^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-03-03 15:15 EST by Darin Swanson^
+5367^Meaningless brackets presented with primitive display options^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-30 16:56 EST by Darin Swanson^
+202470^[assist] provide all elements that are visible^VERIFIED FIXED^3.3  ^P1 normal^PC Windows XP^2007-09-06 10:52 EDT by Martin Aeschlimann^
+7860^Feature: support suspend/resume of VM^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-17 12:47 EST by Darin Wright^
+6530^Rapid successive evaluation causes trouble^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-03 20:53 EST by Darin Wright^
+191993^Memory leak after the undo on an Add operation^VERIFIED FIXED^unspecified  ^P1 major^PC Windows XP^2007-06-11 11:52 EDT by Mohammed Mostafa^
+8993^ObjectCollectedExceptions filling up the log^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-02-01 18:06 EST by Darin Swanson^
+137503^TransactionChangeRecorder resolves containment proxies^VERIFIED FIXED^unspecified  ^P1 blocker^PC Linux^2006-04-19 10:41 EDT by Christian Damus^
+6399^NPE setting Java editor to show source of selected element^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-28 16:18 EST by Darin Swanson^
+5689^Create patch forces patch to be saved in workspace^VERIFIED FIXED^2.0  ^P1 normal^All All^2001-11-08 17:09 EST by Patrick Dubroy^
+148859^[model][delta] Package Explorer only shows default package after import^VERIFIED FIXED^3.2  ^P1 major^PC Windows 2000^2006-06-27 14:01 EDT by Kelvin Cheung^
+1668^Stop on Uncaught exception should be scoped (1GHOUOQ)^VERIFIED FIXED^2.0  ^P1 normal^All Windows NT^2001-10-10 22:17 EDT by Philipe Mulet^
+560300^Some Unicode characters in file content can't be find by Find Actions(ctrl+3)^VERIFIED FIXED^4.15  ^P1 normal^PC Windows 10^2020-02-19 01:10 EST by Jin Shi^
+7859^Feature: method exit breakpoints^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-17 12:38 EST by Darin Wright^
+32601^GB18030: When viewing project properties of a GB18030 named project, eclipse for Motif crash.^VERIFIED DUPLICATE of bug 30570^2.1  ^P1 normal^PC Linux-Motif^2003-02-24 03:02 EST by Liu Yang^
+167155^Undo/redo action wrappers no longer maintain correct enablement^VERIFIED FIXED^unspecified  ^P1 major^PC Linux^2006-12-07 15:28 EST by Christian Damus^
+118687^Instance class "fix" logic assumes one segment difference^VERIFIED FIXED^2.1  ^P1 normal^PC Windows XP^2005-11-30 13:50 EST by Kenn Hussey^
+15469^Unbounded cache in ManageWatchpointActionDelegate^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-07 16:41 EDT by Darin Swanson^
+14045^Deadlock exiting workspace^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-17 16:57 EDT by Jerome Lanneluc^
+46589^[KeyBindings] Stop using native accelerators^VERIFIED FIXED^3.0  ^P1 normal^All All^2003-11-13 11:24 EST by Douglas Pollock^
+9556^NPE in JavaRuntime.getDefaultVMInstall^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-13 06:07 EST by Martin Aeschlimann^
+17865^Wrong "this" context in evaluation & expression view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-25 16:54 EDT by Darin Wright^
+9591^exception in compiler pref page^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-02-13 09:03 EST by Adam Kiezun^
+89393^[Undo] - Rename CU scenario - undo becomes disabled in renamed editor^VERIFIED FIXED^3.1  ^P1 major^PC Windows XP^2005-03-29 14:39 EST by Susan McCourt^
+62012^[Commands] Commands leaking instances of WorkbenchWindow^VERIFIED DUPLICATE of bug 64024^3.0  ^P1 normal^PC Windows XP^2004-05-12 16:48 EDT by Tod Creasey^
+5556^Walkback when workspace opened^VERIFIED FIXED^2.0  ^P1 normal^PC Windows NT^2001-11-05 18:23 EST by Lynne Kues^
+13388^Exception evaluating method with array type parameter^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-10 12:40 EDT by Adam Kiezun^
+48243^[KeyBindings] Keybinding reassignments^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2003-12-07 18:41 EST by Erich Gamma^
+10255^Single click launching should not be the default^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-26 10:33 EST by Erich Gamma^
+48351^[KeyBindings] Resetting to defaults on the keys preference page doesn't set the key configuration^VERIFIED FIXED^3.0  ^P1 minor^PC Linux-GTK^2003-12-09 13:31 EST by Douglas Pollock^
+13920^NPE evaluating in local type in field declaration^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-16 13:28 EDT by Tod Creasey^
+15372^NPE launching target eclipse^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-06 16:37 EDT by Nick Edgar^
+6746^Class cast exception during hotswap^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-12-10 13:11 EST by Darin Wright^
+7578^.metadata launch files not in correct location^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-14 17:42 EST by Darin Swanson^
+16880^Code assist does not work in expression view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-22 11:59 EDT by Darin Wright^
+27281^The watch expressions don't persist across workbench invocations^VERIFIED FIXED^2.1  ^P1 critical^PC All^2002-11-27 18:04 EST by Luc Bourlier^
+16955^NPE opening java perspective.^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-22 14:28 EDT by Eduardo Pereira^
+1701^IDE not activated when target closed (1GJ8NOD)^VERIFIED WORKSFORME^2.0  ^P1 minor^All Windows 2000^2001-10-10 22:17 EDT by Nick Edgar^
+432847^[Contributions] Duplicate view toolbar buttons; menu enablement problems in Git Repositories view^VERIFIED FIXED^4.4  ^P1 critical^PC Windows 7^2014-04-15 13:03 EDT by Markus Keller^
+5495^Breakpoint not installed if filename has underscore^VERIFIED FIXED^1.0  ^P1 blocker^PC Windows 2000^2001-11-02 15:23 EST by Paula Cox (WSAD)^
+433197^[CSS] After switching the CSS theme the DND handles disappear from the trim bars^VERIFIED FIXED^4.4  ^P1 major^PC Windows 7^2014-04-22 08:29 EDT by Daniel Rolka^
+185419^Drag and drop Data Item from palette shows the wrong dialog^VERIFIED FIXED^2.2.0  ^P1 normal^PC Windows XP^2007-05-03 14:42 EDT by Aashima Goel^
+5623^JDK 1.4 hot swap^VERIFIED FIXED^2.0  ^P1 normal^PC All^2001-11-07 11:29 EST by Jared Burns^
+44091^Exception generating makefile in managed make^VERIFIED FIXED^1.2  ^P1 blocker^PC Windows 2000^2003-10-02 12:28 EDT by Tanya Wolff^
+8388^NPE from HCR Manager^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-01-24 12:10 EST by Darin Wright^
+569364^JBoss Tools freeze Eclipse 2020-03 & 2020-06^CLOSED NOT_ECLIPSE^4.15  ^P3 blocker^PC Windows 10^2020-12-01 10:38 EST by Marco Chiavarini^
+551483^[14] JEP 358: Helpful NullPointerExceptions^VERIFIED FIXED^4.13  ^P1 enhancement^PC All^2019-09-25 23:57 EDT by Manoj Palat^
+569485^Variable popup is empty^CLOSED DUPLICATE of bug 568813^4.17  ^P3 major^Macintosh Mac OS X^2020-12-04 14:37 EST by Rene^
+23762^NPE - variable details stop showing^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-09-18 14:19 EDT by Darin Wright^
+127509^No Javadocs for EMFT OCL, Query, Transaction, Validation, EODM, JET^VERIFIED FIXED^1.0  ^P1 major^PC Linux^2006-02-13 13:42 EST by Christian Damus^
+569378^Enable SonarCloud for Eclipse Che Github repository^CLOSED FIXED^unspecified  ^P3 normal^PC Mac OS X^2020-12-02 03:09 EST by Sergii Kabashniuk^
+569500^test^NEW^unspecified  ^P3 normal^Macintosh Mac OS X^2020-12-05 15:46 EST by bulent ozdil^
+144083^Exceptions on Eclipse Help->About... after installing emft-transaction-SDK-I200605250954.zip^VERIFIED FIXED^unspecified  ^P1 major^PC Linux-GTK^2006-05-27 15:15 EDT by Javor Nikolov^
+8457^Stepping in obsolete methods should be disabled^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-01-25 08:42 EST by Jared Burns^
+57805^[About] Provider and Plug-in Name values in Feature Plug-ins dialog are missing.^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2004-04-07 16:18 EDT by James Ciesielski^
+433830^Part's background color is wrong^VERIFIED FIXED^4.4  ^P1 major^PC Windows 7^2014-04-30 06:12 EDT by Dani Megert^
+6089^display view code assist cotext should be receiving type^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-19 19:47 EST by Darin Wright^
+175181^NavigatorSaveablesServices NPEs on shutdown^VERIFIED FIXED^3.2  ^P1 major^Other Linux^2007-02-22 15:14 EST by Yi Shen^
+5612^Evaluation is performed in wrong "receiver" context^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-07 09:28 EST by Darin Wright^
+9280^Debug event handlers performing runnables after "dispose"^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-07 18:33 EST by Darin Swanson^
+1747^Ctrl-S does not work in the SnippetEditor (1GL1GH8)^VERIFIED FIXED^2.0  ^P1 minor^All All^2001-10-10 22:18 EDT by Darin Swanson^
+176808^4% regression in build performance test #testFullBuildProjectAllWarnings^VERIFIED FIXED^3.3  ^P1 normal^PC Windows XP^2007-03-09 06:25 EST by Frederic Fusier^
+6470^Create Patch dialog needs a Browse... button to enter file name^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-30 10:30 EST by Carolyn MacLeod^
+11236^Problem painter crash^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-03-13 05:53 EST by Philipe Mulet^
+18711^Initial welcome page includes reference to Java^VERIFIED FIXED^2.0  ^P1 minor^PC All^2002-06-03 09:59 EDT by Randy Giffen^
+86743^Register view shows the same as Variables view in CVS HEAD^VERIFIED FIXED^3.1  ^P1 major^PC All^2005-02-26 04:08 EST by Oyvind Harboe^
+200191^Memory leak in Ecore constraint adapter^VERIFIED FIXED^unspecified  ^P1 major^PC Windows XP^2007-08-16 10:06 EDT by Christian Damus^
+7862^Feature: hidden breakpoints^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-17 12:54 EST by Darin Wright^
+203352^Provide an extensibility hook to validate edits to resources changed by a transaction^VERIFIED FIXED^unspecified  ^P1 enhancement^All All^2007-09-13 15:40 EDT by Christian Damus^
+191641^many infopops plugins need service version increase^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2007-06-08 01:53 EDT by David Williams^
+205857^Transaction lock can dangle on Jobmanager worker thread^VERIFIED FIXED^unspecified  ^P1 major^PC Windows XP^2007-10-09 15:13 EDT by Christian Damus^
+5816^Resource tree locked error on hot swap^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-12 17:07 EST by Darin Swanson^
+199686^Replacing roles does not update responsible work product's pages^VERIFIED FIXED^1.2  ^P1 critical^PC Windows XP^2007-08-12 20:27 EDT by Peter Haumer^
+7151^Toggling ShowDetailPaneAction sets focus to the launch view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-20 16:44 EST by Darin Swanson^
+65716^[Commands] R3.0 RC1 Closing Eclipse exceptions^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-06-04 10:06 EDT by adrian^
+6447^Inner class breakpoints not hit^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-11-29 17:51 EST by Darin Swanson^
+8127^Outline View has mnemonic collison^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-23 10:10 EST by Tod Creasey^
+26918^Projects with external builders cause NPEs when built in headless mode^VERIFIED FIXED^2.1  ^P1 normal^All All^2002-11-21 19:40 EST by Roberto Scaramuzzi^
+151683^[extract superclass] Extract Superclass without 'Use the extracted class' removes code^VERIFIED FIXED^3.2  ^P1 major^PC Windows XP^2006-07-25 08:28 EDT by Benno Baumgartner^
+6508^Stepping is slow^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2001-12-03 12:14 EST by Joe Szurszewski^
+13085^DebugActionGroups cannot handle two actions with same ID in views^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-04-09 12:33 EDT by Darin Swanson^
+33712^"The resource tree is locked for modifications" from JavaDebugOptionsManager^VERIFIED FIXED^2.1  ^P1 normal^PC All^2003-03-03 17:57 EST by Jared Burns^
+109437^Perf: Optimize basicExtendedMetaData.getType^VERIFIED FIXED^2.2  ^P1 enhancement^PC All^2005-09-13 16:56 EDT by Ivan Eisen^
+6524^BadLocationException restoring DisplayView contents^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-12-03 18:02 EST by Darin Swanson^
+66182^[KeyBindings] multi-stroke keyboard shortcut popup swallows keys^VERIFIED FIXED^3.0  ^P1 major^PC Windows XP^2004-06-08 13:14 EDT by Markus Keller^
+5144^Error when opening display view^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-10-22 11:41 EDT by Martin Aeschlimann^
+11034^Launch configurations prompting for save when no changes^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-03-08 11:42 EST by Darin Swanson^
+7194^Unbound cache in Expression view content provider^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-29 16:47 EST by Darin Wright^
+1584^Renaming Scrapbook page does not remove associated VM (1GE5TZY)^VERIFIED FIXED^2.0  ^P1 critical^All Windows 2000^2001-10-10 22:15 EDT by Darin Swanson^
+126404^[Commands] handlers: Key binding availability dependant on view focus^VERIFIED FIXED^3.2  ^P1 major^All All^2006-02-03 15:04 EST by DJ Houghton^
+199694^Extends-Replace ignores incoming relationships of contributer^VERIFIED FIXED^1.2  ^P1 critical^PC Windows XP^2007-08-13 02:51 EDT by Peter Haumer^
+5818^Debugger Source Lookup page claims project is closed^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-11-12 17:26 EST by James Moody^
+1660^Do not prompt for source when no source attachment^VERIFIED FIXED^2.0  ^P1 normal^All Windows NT^2001-10-10 22:17 EDT by Martin Aeschlimann^
+8337^HotSwap: Two error dialogs redefining class during debug on 1.4^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-01-23 17:18 EST by Darin Swanson^
+6598^Problem using old workspace with new build^VERIFIED FIXED^2.0  ^P1 critical^PC Windows NT^2001-12-05 11:39 EST by Lynne Kues^
+138287^Cannot accurately determine whether a change can be redone^VERIFIED FIXED^unspecified  ^P1 blocker^PC Linux^2006-04-24 18:32 EDT by Christian Damus^
+1753^NPE in LocalEvaluationEngine^VERIFIED FIXED^2.0  ^P1 critical^All All^2001-10-10 22:18 EDT by Darin Wright^
+7880^Scrapbook page making IDE super slow^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-18 06:52 EST by Philipe Mulet^
+55600^CVS perspective has busy cursor^VERIFIED FIXED^3.0  ^P1 major^PC Linux-Motif^2004-03-22 17:26 EST by Grant Gayed^
+167398^org.eclipse.emf.transaction-feature should specify dependency to org.eclipse.emf.validation-feature^VERIFIED FIXED^unspecified  ^P1 major^Other Linux^2006-12-11 05:19 EST by Alexander Nyßen^
+119158^Extra parentheses in item provider template^VERIFIED FIXED^2.2  ^P1 major^All All^2005-12-02 23:37 EST by Dave Steinberg^
+7974^Stack overflow pressing "remove all" from Expression View^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-01-21 18:27 EST by Darin Wright^
+16185^Show/hide package names button in doesn't work in debug view^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-05-16 13:42 EDT by DJ Houghton^
+14069^Rapid stepping & toString^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-17 21:53 EDT by Darin Wright^
+18099^Change provider name^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-05-28 15:30 EDT by Darin Swanson^
+9649^Can't rebuild all - never returns^VERIFIED FIXED^2.0  ^P1 blocker^PC Linux-Motif^2002-02-13 11:01 EST by Veronika Irvine^
+6954^Use new workbench API for openning perspective^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-14 12:30 EST by Darin Wright^
+7580^NPE out of AbstractDebugEventHandler on shutdown^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-14 17:46 EST by Darin Swanson^
+9660^Launch Config Flicker^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-13 11:22 EST by Darin Wright^
+27541^Cannot add an Ant External Tool Builder^VERIFIED FIXED^2.1  ^P1 major^PC All^2002-12-02 17:24 EST by Darin Swanson^
+60426^[About] org.eclipse.cdt.source still bears version 1.2^VERIFIED FIXED^2.0  ^P1 normal^PC Windows XP^2004-04-29 10:23 EDT by James Ciesielski^
+569501^New page^NEW^unspecified  ^P3 normal^Macintosh Mac OS X^2020-12-05 15:50 EST by bulent ozdil^
+92704^Classcast exception from Registers View^VERIFIED FIXED^3.1  ^P1 major^PC Windows 2000^2005-04-25 18:22 EDT by Samantha Chan^
+6955^Java launch config should support classpath/bootpath^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-14 12:34 EST by Darin Wright^
+14107^Second target incorrectly breaks on conditional^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-18 09:57 EDT by Darin Swanson^
+7626^Widget is disposed error relaunching^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-15 12:00 EST by Tod Creasey^
+180363^[LinkedResources] No way to create a linked resource based on a variable^VERIFIED FIXED^3.3  ^P1 major^All All^2007-03-31 19:22 EDT by Sergey Prigogin^
+5640^NPE launching when Java build path refs a missing project^VERIFIED FIXED^2.0  ^P1 normal^PC other^2001-11-07 16:48 EST by Darin Swanson^
+125917^AdapterFactoryEditingDomain.isReadOnly() incorrectly returns false^VERIFIED FIXED^2.2  ^P1 major^All All^2006-01-31 15:37 EST by Dave Steinberg^
+62528^Tracker does not keep up with mouse movement^VERIFIED FIXED^3.0  ^P1 normal^PC Windows XP^2004-05-17 15:09 EDT by Pratik Shah^
+9290^Feature: dynamic pattern breakpoint^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-07 22:17 EST by Darin Wright^
+9316^Invalid thread access^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-02-08 11:27 EST by Darin Wright^
+62558^Null Pointer when opening Folder in File>Open External File^VERIFIED FIXED^3.0  ^P1 minor^PC Linux-GTK^2004-05-17 17:03 EDT by Aaron Luchko^
+231263^[formatter] New JavaDoc formatter wrongly indent tags description^VERIFIED FIXED^3.4  ^P1 major^PC Windows XP^2008-05-09 04:25 EDT by Konstantin Scheglov^
+18766^platform and sdk features should have the standard eclipse 32x32 image^VERIFIED FIXED^2.0  ^P1 minor^PC All^2002-06-03 11:37 EDT by Jim des Rivieres^
+8683^NPE after suspending VM attempting to step on system thread^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-01-29 11:32 EST by Darin Swanson^
+18836^F2 build. Unknown extension point "org.eclipse.pde.ui.source"^VERIFIED FIXED^2.0  ^P1 major^Power PC All^2002-06-03 14:00 EDT by Konrad Kolosowski^
+8746^Threads showing as suspended when not -- multithreaded app^VERIFIED FIXED^2.0  ^P1 normal^PC All^2002-01-30 09:55 EST by Darin Swanson^
+1623^StackFrame selected but toolbar actions disable (1GEV0L7)^VERIFIED FIXED^2.0  ^P1 minor^All Windows NT^2001-10-10 22:16 EDT by Darin Swanson^
+7201^Console does not show output from scrapbook^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2001-12-30 17:32 EST by Darin Wright^
+11076^Deleted configs remain in favorite list^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-03-09 22:21 EST by Darin Swanson^
+1648^Inspect, Display, and Run to line, are enabled in all editors (1GFBIAG)^VERIFIED FIXED^2.0  ^P1 minor^All Windows NT^2001-10-10 22:16 EDT by Randy Giffen^
+8176^Mnemonic Collision in Console View^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-23 11:26 EST by Tod Creasey^
+67590^[Presentations] The 'Save All' command has no effect^VERIFIED FIXED^3.0  ^P1 major with 2 votes^All All^2004-06-17 03:59 EDT by Dirk Grossmann^
+8312^Tooltips for step filtering should use title capitalization^VERIFIED FIXED^2.0  ^P1 normal^PC other^2002-01-23 16:06 EST by Darin Swanson^
+43226^Deadlock using 0916^VERIFIED FIXED^3.0  ^P1 normal^PC Windows 2000^2003-09-17 11:52 EDT by Olivier Thomann^
+13214^ArrayOutOfBoundException in launch history pref page^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-10 08:08 EDT by Adam Kiezun^
+43228^Encoding Support for Java editor broken^VERIFIED FIXED^3.0  ^P1 critical^PC Windows XP^2003-09-17 12:11 EDT by Dani Megert^
+19112^about blurb for Eclipse Project SDK features has incorrect URL^VERIFIED FIXED^2.0  ^P1 minor^PC All^2002-06-04 11:58 EDT by Jim des Rivieres^
+270409^[perfs] No JDT/Core tests results in last baseline run^VERIFIED FIXED^3.5  ^P1 major^PC Windows XP^2009-03-30 03:22 EDT by Frederic Fusier^
+63003^Ctrl+ Clicking on PackageExplorer expands items^VERIFIED FIXED^3.0  ^P1 normal^Sun Solaris^2004-05-19 12:32 EDT by Douglas Pollock^
+8005^Terminate & Remove disabled^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-01-22 10:41 EST by Darin Wright^
+18100^Internal error in Lauch Configurations dialog.^VERIFIED FIXED^2.0  ^P1 blocker^Other Linux^2002-05-28 15:32 EDT by Eduardo Pereira^
+67913^[ActionSets] Actions associated with views not disposed^VERIFIED FIXED^3.0  ^P1 major^All All^2004-06-18 21:24 EDT by Michael Fraenkel^
+13345^exception in log - after opening/closing projects^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-04-10 11:16 EDT by Adam Kiezun^
+18188^Inspect is broken^VERIFIED FIXED^2.0  ^P1 critical^PC Windows 2000^2002-05-29 11:29 EDT by Darin Wright^
+293300^[formatter] The formatter is still unstable in certain circumstances^VERIFIED FIXED^3.6  ^P1 normal^All All^2009-10-26 07:50 EDT by Frederic Fusier^
+13372^Strange UI feedback when breakpoint hit during evaluation^VERIFIED FIXED^2.0  ^P1 normal^Other Windows XP^2002-04-10 12:07 EDT by Joe Szurszewski^
+8322^Detail evaluation timeout overwrites previous value^VERIFIED FIXED^2.0  ^P1 normal^Other other^2002-01-23 16:29 EST by Joe Szurszewski^
+17273^Reconcile with errors - incorrect problem merging^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-23 10:04 EDT by Philipe Mulet^
+17277^Java Editor: converting line delimiters and undo^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-23 10:09 EDT by Andre Weinand^
+17423^Revert apears twice in the popup menu.^VERIFIED FIXED^2.0  ^P1 major^PC Windows 2000^2002-05-23 13:49 EDT by Eduardo Pereira^
+17536^NPE in compare^VERIFIED FIXED^2.0  ^P1 critical^PC Windows XP^2002-05-23 19:35 EDT by Peter Burka^
+18085^Using "h" mnemonic in file or java search page switches to Help page^VERIFIED FIXED^2.0  ^P1 normal^PC Windows 2000^2002-05-28 14:19 EDT by Konrad Kolosowski^
